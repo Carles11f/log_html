@@ -1,0 +1,549 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00990,Rascals,82.0,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01005,Rascals,82.0,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01020,Rascals,82.0,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01035,Rascals,82.0,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Archer Queen,1.0,2.0,8,True,False,0.0,5.0
+01050,Rascals,82.0,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01065,Rascals,82.0,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01080,Rascals,82.0,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01095,Rascals,82.0,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01110,Rascals,82.0,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01125,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,Three Musketeers,98.0,2.0,6,True,True,3.0,9.0
+01140,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+01155,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+01170,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+01185,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+01200,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+01215,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01230,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01245,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01260,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01275,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01290,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01305,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01320,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01335,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01350,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01365,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01380,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+01395,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+01410,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+01425,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+01440,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+01455,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+01470,Rascals,82.0,Mighty Miner,65.0,Elixir Golem,27.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+01485,Rascals,82.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Archer Queen,1.0,Mighty Miner,65.0,2.0,8,True,True,2.0,4.0
+01500,Rascals,82.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+01515,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,4.0,4,True,True,4.0,5.0
+01530,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+01545,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+01560,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+01575,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+01590,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+01605,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+01620,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+01635,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+01650,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+01665,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+01680,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+01695,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+01710,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+01725,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+01740,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+01755,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+01770,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+01785,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+01800,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+01815,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+01830,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+01845,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+01860,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+01875,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+01890,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+01905,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+01920,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+01935,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,True,5.0,0.0
+01950,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+01965,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+01980,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,1.0,3,True,True,1.0,9.0
+01995,Witch,103.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,1.0,3,True,False,0.0,5.0
+02010,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Witch,103.0,1.0,3,True,False,0.0,5.0
+02025,Witch,103.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,1.0,3,True,False,0.0,9.0
+02040,Witch,103.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02055,Witch,103.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02070,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Witch,103.0,1.0,4,True,False,0.0,5.0
+02085,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02100,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02115,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02130,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02145,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,1.0,2,True,True,2.0,9.0
+02160,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+02175,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+02190,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+02205,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+02220,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+02235,Mighty Miner,65.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02250,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Mighty Miner,65.0,1.0,3,True,False,0.0,4.0
+02265,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02280,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02295,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02310,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02325,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02340,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02355,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02370,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02385,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02400,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02415,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02430,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02445,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02460,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,True,2.0,0.0
+02475,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+02490,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02505,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02520,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02535,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02550,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02565,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+02580,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02595,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02610,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02625,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02640,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+02655,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+02670,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+02685,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Lumberjack,61.0,1.0,6,True,False,0.0,4.0
+02700,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+02715,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+02730,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+02745,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+02760,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+02775,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+02790,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+02805,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+02820,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+02835,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+02850,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+02865,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+02880,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+02895,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+02910,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+02925,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+02940,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+02955,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,Elixir Golem,27.0,3.0,9,True,False,0.0,3.0
+02970,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,3.0,9,True,False,0.0,9.0
+02985,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03000,Archer Queen,1.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,10,False,False,0.0,0.0
+03015,Lumberjack,61.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,1.0,10,True,False,0.0,5.0
+03030,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,Elixir Golem,27.0,3.0,6,True,True,4.0,3.0
+03045,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+03060,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+03075,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+03090,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+03105,Lumberjack,61.0,P.E.K.K.A,75.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,7,True,False,0.0,4.0
+03120,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,7,True,False,0.0,5.0
+03135,Lumberjack,61.0,P.E.K.K.A,75.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+03150,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,7,True,False,0.0,4.0
+03165,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+03180,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+03195,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03210,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03225,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03240,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,Three Musketeers,98.0,3.0,8,True,False,0.0,9.0
+03255,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03270,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03285,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03300,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03315,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03330,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03345,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03360,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,9,True,True,0.0,5.0
+03375,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03390,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03405,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,9,True,False,0.0,4.0
+03420,Archer Queen,1.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,Three Musketeers,98.0,2.0,10,True,True,2.0,9.0
+03435,Archer Queen,1.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,10,False,False,0.0,0.0
+03450,Archer Queen,1.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03465,Archer Queen,1.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03480,Archer Queen,1.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03495,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,Three Musketeers,98.0,Three Musketeers,98.0,3.0,8,True,False,0.0,9.0
+03510,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,8,True,False,0.0,5.0
+03525,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03540,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03555,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03570,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03585,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03600,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+03615,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,10,False,False,0.0,0.0
+03630,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,Three Musketeers,98.0,,,,10,False,False,0.0,0.0
+03645,Archer Queen,1.0,Mighty Miner,65.0,Lumberjack,61.0,Three Musketeers,98.0,Three Musketeers,98.0,2.0,10,True,False,0.0,9.0
+03660,Archer Queen,1.0,Mighty Miner,65.0,Lumberjack,61.0,Three Musketeers,98.0,,,,10,False,False,0.0,0.0
+03675,Archer Queen,1.0,Mighty Miner,65.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,10,True,False,0.0,4.0
+03690,Archer Queen,1.0,Mighty Miner,65.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,10,True,True,3.0,5.0
+03705,Archer Queen,1.0,Mighty Miner,65.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+03720,Archer Queen,1.0,Mighty Miner,65.0,Lumberjack,61.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03735,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,8,True,True,2.0,4.0
+03750,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+03765,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+03780,Archer Queen,1.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,6,True,False,0.0,5.0
+03795,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,6,True,False,0.0,4.0
+03810,Archer Queen,1.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,7,True,False,0.0,5.0
+03825,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,3,True,True,4.0,4.0
+03840,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+03855,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+03870,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+03885,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+03900,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,2,False,True,2.0,0.0
+03915,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+03930,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+03945,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+03960,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+03975,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+03990,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04005,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04020,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04035,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04050,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04065,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04080,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04095,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04110,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04125,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04140,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04155,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04170,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,5,True,False,0.0,5.0
+04185,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04200,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04215,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04230,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04245,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,6,True,False,0.0,4.0
+04260,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04275,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04290,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,6,True,False,0.0,5.0
+04305,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,7,True,False,0.0,4.0
+04320,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,Rascals,82.0,3.0,7,True,False,0.0,5.0
+04335,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04350,P.E.K.K.A,75.0,Elixir Golem,27.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04365,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,Elixir Golem,27.0,2.0,7,True,False,0.0,3.0
+04380,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04395,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+04410,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+04425,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+04440,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+04455,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+04470,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+04485,P.E.K.K.A,75.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04500,Mighty Miner,65.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,P.E.K.K.A,75.0,1.0,6,True,True,3.0,7.0
+04515,Mighty Miner,65.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04530,Mighty Miner,65.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04545,Mighty Miner,65.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04560,Mighty Miner,65.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04575,Archer Queen,1.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,Mighty Miner,65.0,1.0,7,True,True,1.0,4.0
+04590,Archer Queen,1.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04605,Archer Queen,1.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+04620,Archer Queen,1.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04635,Three Musketeers,98.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,Archer Queen,1.0,1.0,6,True,True,2.0,5.0
+04650,Three Musketeers,98.0,Archer Queen,1.0,Lumberjack,61.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04665,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,Lumberjack,61.0,3.0,3,True,True,3.0,4.0
+04680,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04695,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04710,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04725,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04740,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04755,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+04770,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04785,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+04800,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,Rascals,82.0,3.0,6,True,False,0.0,5.0
+04815,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04830,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04845,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+04860,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+04875,Three Musketeers,98.0,Three Musketeers,98.0,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,3.0,3,True,True,5.0,9.0
+04890,Three Musketeers,98.0,Three Musketeers,98.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+04905,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,2.0,4,True,False,0.0,9.0
+04920,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04935,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04950,Three Musketeers,98.0,Mighty Miner,65.0,Elixir Golem,27.0,Three Musketeers,98.0,P.E.K.K.A,75.0,2.0,4,True,True,2.0,7.0
+04965,Three Musketeers,98.0,Mighty Miner,65.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+04980,Three Musketeers,98.0,Mighty Miner,65.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+04995,Three Musketeers,98.0,Mighty Miner,65.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+05010,Three Musketeers,98.0,Lumberjack,61.0,Elixir Golem,27.0,Three Musketeers,98.0,Mighty Miner,65.0,2.0,2,True,False,0.0,4.0
+05025,Three Musketeers,98.0,Lumberjack,61.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+05040,Three Musketeers,98.0,Mighty Miner,65.0,Elixir Golem,27.0,Three Musketeers,98.0,Lumberjack,61.0,2.0,3,True,False,0.0,4.0
+05055,Three Musketeers,98.0,Lumberjack,61.0,Elixir Golem,27.0,Three Musketeers,98.0,Mighty Miner,65.0,2.0,3,True,False,0.0,4.0
+05070,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,Lumberjack,61.0,2.0,2,True,True,1.0,4.0
+05085,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+05100,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+05115,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+05130,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+05145,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+05160,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+05175,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+05190,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+05205,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+05220,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+05235,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+05250,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+05265,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+05280,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,Three Musketeers,98.0,4.0,7,True,False,0.0,9.0
+05295,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+05310,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+05325,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,8,False,False,0.0,0.0
+05340,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,8,False,False,0.0,0.0
+05355,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,6,False,True,2.0,0.0
+05370,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+05385,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+05400,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+05415,Three Musketeers,98.0,Archer Queen,1.0,Elixir Golem,27.0,Rascals,82.0,,,,8,False,False,0.0,0.0
+05430,Three Musketeers,98.0,P.E.K.K.A,75.0,Elixir Golem,27.0,Rascals,82.0,Archer Queen,1.0,2.0,8,True,False,0.0,5.0
+05445,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,Elixir Golem,27.0,3.0,5,True,True,3.0,3.0
+05460,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05475,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05490,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,2,False,True,3.0,0.0
+05505,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+05520,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+05535,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+05550,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+05565,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+05580,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+05595,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,P.E.K.K.A,75.0,2.0,4,True,False,0.0,7.0
+05610,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05625,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05640,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,4,False,True,1.0,0.0
+05655,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05670,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05685,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05700,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+05715,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,4.0,6,True,False,0.0,5.0
+05730,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+05745,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+05760,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+05775,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+05790,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+05805,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,True,5.0,0.0
+05820,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+05835,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+05850,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,Three Musketeers,98.0,4.0,2,True,True,2.0,9.0
+05865,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+05880,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+05895,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+05910,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+05925,Three Musketeers,98.0,Mighty Miner,65.0,Three Musketeers,98.0,Witch,103.0,Archer Queen,1.0,3.0,4,True,False,0.0,5.0
+05940,Three Musketeers,98.0,Mighty Miner,65.0,Three Musketeers,98.0,Witch,103.0,,,,4,False,False,0.0,0.0
+05955,Three Musketeers,98.0,Lumberjack,61.0,Archer Queen,1.0,Witch,103.0,Three Musketeers,98.0,3.0,5,True,False,0.0,9.0
+05970,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,Lumberjack,61.0,2.0,5,True,True,3.0,4.0
+05985,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06000,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06015,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06030,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,True,1.0,0.0
+06045,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06060,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06075,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,Three Musketeers,98.0,1.0,3,True,False,0.0,9.0
+06090,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06105,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06120,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,True,1.0,0.0
+06135,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06150,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06165,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06180,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06195,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06210,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06225,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06240,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,5,False,False,0.0,0.0
+06255,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,5,False,False,0.0,0.0
+06270,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,5,False,False,0.0,0.0
+06285,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,6,False,False,0.0,0.0
+06300,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,6,False,False,0.0,0.0
+06315,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,6,False,False,0.0,0.0
+06330,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,True,3.0,0.0
+06345,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06360,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06375,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06390,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06405,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06420,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06435,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,Witch,103.0,4.0,5,True,False,0.0,5.0
+06450,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+06465,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+06480,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+06495,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+06510,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+06525,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+06540,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,P.E.K.K.A,75.0,2.0,8,True,True,4.0,7.0
+06555,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+06570,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+06585,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+06600,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+06615,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+06630,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+06645,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+06660,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+06675,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+06690,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+06705,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+06720,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+06735,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,1.0,7,True,False,0.0,5.0
+06750,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+06765,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+06780,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,1.0,8,True,False,0.0,9.0
+06795,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+06810,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,1.0,9,True,False,0.0,5.0
+06825,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,Three Musketeers,98.0,4.0,9,True,False,0.0,9.0
+06840,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,10,False,False,0.0,0.0
+06855,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,Rascals,82.0,1.0,5,True,True,5.0,5.0
+06870,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,3,False,True,2.0,0.0
+06885,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+06900,Three Musketeers,98.0,Mighty Miner,65.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06915,Three Musketeers,98.0,Mighty Miner,65.0,Three Musketeers,98.0,Witch,103.0,Archer Queen,1.0,3.0,4,True,False,0.0,5.0
+06930,Three Musketeers,98.0,Mighty Miner,65.0,Three Musketeers,98.0,Witch,103.0,,,,4,False,False,0.0,0.0
+06945,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,Three Musketeers,98.0,3.0,5,True,True,3.0,9.0
+06960,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06975,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+06990,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,Three Musketeers,98.0,1.0,1,True,True,1.0,9.0
+07005,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,1,False,False,0.0,0.0
+07020,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+07035,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+07050,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,2,False,False,0.0,0.0
+07065,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+07080,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+07095,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+07110,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+07125,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+07140,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+07155,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,True,1.0,0.0
+07170,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+07185,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,3,False,False,0.0,0.0
+07200,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+07215,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,4,False,False,0.0,0.0
+07230,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,5,False,False,0.0,0.0
+07245,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,5,False,False,0.0,0.0
+07260,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,5,False,False,0.0,0.0
+07275,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,6,False,False,0.0,0.0
+07290,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,6,False,False,0.0,0.0
+07305,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,6,False,False,0.0,0.0
+07320,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,7,False,False,0.0,0.0
+07335,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,7,False,False,0.0,0.0
+07350,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Witch,103.0,,,,7,False,False,0.0,0.0
+07365,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,Witch,103.0,4.0,8,True,False,0.0,5.0
+07380,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+07395,Lumberjack,61.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,1.0,8,True,False,0.0,5.0
+07410,Rascals,82.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,1.0,5,True,True,3.0,4.0
+07425,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,P.E.K.K.A,75.0,2.0,5,True,True,3.0,7.0
+07440,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07455,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07470,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,1,False,True,1.0,0.0
+07485,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07500,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07515,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07530,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07545,Rascals,82.0,Mighty Miner,65.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07560,Rascals,82.0,Lumberjack,61.0,Archer Queen,1.0,Three Musketeers,98.0,Mighty Miner,65.0,2.0,3,True,False,0.0,4.0
+07575,Rascals,82.0,Lumberjack,61.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+07590,Rascals,82.0,Lumberjack,61.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+07605,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Lumberjack,61.0,2.0,4,True,True,1.0,4.0
+07620,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07635,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07650,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+07665,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+07680,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+07695,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+07710,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+07725,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+07740,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+07755,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+07770,Rascals,82.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+07785,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,1.0,7,True,False,0.0,5.0
+07800,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+07815,Rascals,82.0,Three Musketeers,98.0,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,3.0,7,True,False,0.0,5.0
+07830,Rascals,82.0,Three Musketeers,98.0,Three Musketeers,98.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+07845,Elixir Golem,27.0,Three Musketeers,98.0,Three Musketeers,98.0,Three Musketeers,98.0,Rascals,82.0,1.0,8,True,False,0.0,5.0
+07860,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,3.0,8,True,True,1.0,9.0
+07875,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+07890,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+07905,Elixir Golem,27.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07920,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,Three Musketeers,98.0,2.0,2,True,True,5.0,9.0
+07935,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,2,False,False,0.0,0.0
+07950,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07965,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07980,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,3,False,False,0.0,0.0
+07995,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+08010,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+08025,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+08040,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+08055,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,True,1.0,0.0
+08070,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,4,False,False,0.0,0.0
+08085,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,5,False,False,0.0,0.0
+08100,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+08115,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,6,False,False,0.0,0.0
+08130,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+08145,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,7,False,False,0.0,0.0
+08160,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+08175,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+08190,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+08205,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+08220,Elixir Golem,27.0,P.E.K.K.A,75.0,Archer Queen,1.0,Three Musketeers,98.0,,,,10,False,False,0.0,0.0
+08235,Mighty Miner,65.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,4.0,6,True,True,4.0,9.0
+08250,Mighty Miner,65.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,True,1.0,0.0
+08265,Mighty Miner,65.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+08280,Mighty Miner,65.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08295,Mighty Miner,65.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08310,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,Mighty Miner,65.0,1.0,3,True,True,3.0,4.0
+08325,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+08340,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+08355,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+08370,Three Musketeers,98.0,P.E.K.K.A,75.0,Archer Queen,1.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+08385,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,P.E.K.K.A,75.0,2.0,3,True,True,0.0,7.0
+08400,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+08415,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+08430,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+08445,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08460,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,True,1.0,0.0
+08475,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08490,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08505,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+08520,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,4.0,7,True,False,0.0,5.0
+08535,Three Musketeers,98.0,Elixir Golem,27.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+08550,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,4.0,8,True,True,4.0,9.0
+08565,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,9,False,False,0.0,0.0
+08580,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+08595,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08610,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+08625,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+08640,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,8,False,False,0.0,0.0
+08655,Three Musketeers,98.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,8,False,False,0.0,0.0
+08670,Archer Queen,1.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,1.0,9,True,False,0.0,9.0
+08685,Archer Queen,1.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,9,False,False,0.0,0.0
+08700,Archer Queen,1.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,10,False,False,0.0,0.0
+08715,Archer Queen,1.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,8,False,True,2.0,0.0
+08730,Archer Queen,1.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,8,False,False,0.0,0.0
+08745,Archer Queen,1.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,9,False,False,0.0,0.0
+08760,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,Archer Queen,1.0,1.0,9,True,False,0.0,5.0
+08775,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,10,False,False,0.0,0.0
+08790,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,10,False,False,0.0,0.0
+08805,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,10,False,False,0.0,0.0
+08820,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,True,4.0,0.0
+08835,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+08850,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+08865,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+08880,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,Rascals,82.0,4.0,7,True,False,0.0,5.0
+08895,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,8,False,False,0.0,0.0
+08910,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+08925,Mighty Miner,65.0,Three Musketeers,98.0,Archer Queen,1.0,Three Musketeers,98.0,,,,9,False,False,0.0,0.0
+08940,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,Rascals,82.0,Three Musketeers,98.0,4.0,10,True,False,0.0,9.0
+08955,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,Rascals,82.0,Archer Queen,1.0,3.0,10,True,False,0.0,5.0
+08970,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,P.E.K.K.A,75.0,Rascals,82.0,4.0,3,True,True,7.0,5.0
+08985,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,P.E.K.K.A,75.0,,,,3,False,False,0.0,0.0
+09000,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+09015,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+09030,Archer Queen,1.0,Elixir Golem,27.0,Three Musketeers,98.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+09045,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,Three Musketeers,98.0,3.0,6,True,True,3.0,9.0
+09060,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,3,False,False,0.0,0.0
+09075,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,2,False,True,1.0,0.0
+09090,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,2,False,False,0.0,0.0
+09105,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,3,False,False,0.0,0.0
+09120,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,3,False,False,0.0,0.0
+09135,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,2,False,True,1.0,0.0
+09150,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,2,False,False,0.0,0.0
+09165,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,3,False,False,0.0,0.0
+09180,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,3,False,False,0.0,0.0
+09195,Archer Queen,1.0,Elixir Golem,27.0,Archer Queen,1.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0

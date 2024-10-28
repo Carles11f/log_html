@@ -1,0 +1,609 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Mother Witch,72.0,,,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+00270,Mother Witch,72.0,,,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+00285,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,2.0,6,True,False,0.0,0.0
+00300,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00315,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00330,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00345,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00360,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00375,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00390,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00405,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00420,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00435,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00450,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00465,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00480,Mother Witch,72.0,Ice Spirit,54.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00495,Mother Witch,72.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Ice Spirit,54.0,2.0,9,True,False,0.0,1.0
+00510,Mother Witch,72.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00525,Mother Witch,72.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00540,Mother Witch,72.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00555,Mother Witch,72.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+00570,Mother Witch,72.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00585,Mother Witch,72.0,Royal Delivery,84.0,Tesla,96.0,Fire Spirit,29.0,P.E.K.K.A,75.0,3.0,9,True,True,1.0,7.0
+00600,Mother Witch,72.0,Royal Delivery,84.0,Tesla,96.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00615,Mother Witch,72.0,Royal Delivery,84.0,Tesla,96.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00630,Mother Witch,72.0,Royal Delivery,84.0,Tesla,96.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00645,Mother Witch,72.0,Royal Delivery,84.0,Tesla,96.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+00660,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,3.0,9,True,True,1.0,4.0
+00675,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,Royal Delivery,84.0,2.0,9,True,False,0.0,3.0
+00690,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00705,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00720,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,True,3.0,0.0
+00735,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00750,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00765,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00780,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00795,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00810,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+00825,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00840,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00855,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00870,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00885,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+00900,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00915,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00930,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00945,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00960,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00975,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+00990,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+01005,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+01020,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+01035,Mother Witch,72.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+01050,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,Mother Witch,72.0,1.0,10,True,True,3.0,4.0
+01065,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+01080,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01095,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01110,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01125,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01140,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01155,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01170,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01185,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01200,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01215,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01230,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01245,Elixir Collector,26.0,Ice Spirit,54.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,2.0,5,True,True,4.0,4.0
+01260,Elixir Collector,26.0,Ice Spirit,54.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01275,Elixir Collector,26.0,Ice Spirit,54.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01290,Elixir Collector,26.0,Mother Witch,72.0,Fireball,30.0,Fire Spirit,29.0,Ice Spirit,54.0,2.0,5,True,False,0.0,1.0
+01305,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,Mother Witch,72.0,2.0,5,True,False,0.0,4.0
+01320,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01335,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,P.E.K.K.A,75.0,2.0,5,True,False,0.0,7.0
+01350,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01365,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01380,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,2.0,5,True,False,0.0,4.0
+01395,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01410,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01425,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01440,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,Fire Spirit,29.0,2.0,5,True,False,0.0,1.0
+01455,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01470,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01485,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01500,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01515,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01530,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01545,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01560,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01575,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01590,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01605,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01620,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+01635,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01650,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01665,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01680,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01695,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+01710,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01725,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01740,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01755,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01770,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01785,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+01800,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,Elixir Collector,26.0,1.0,4,True,True,5.0,6.0
+01815,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01830,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01845,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01860,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01875,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01890,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01905,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01920,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01935,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01950,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01965,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01980,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01995,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02010,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02025,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02040,Mother Witch,72.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,Fire Spirit,29.0,4.0,6,True,False,0.0,1.0
+02055,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Ice Spirit,54.0,Royal Delivery,84.0,2.0,4,True,True,2.0,3.0
+02070,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+02085,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,Fire Spirit,29.0,2.0,4,True,False,0.0,1.0
+02100,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+02115,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+02130,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,True,1.0,0.0
+02145,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+02160,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+02175,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+02190,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+02205,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+02220,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,Ice Spirit,54.0,4.0,4,True,False,0.0,1.0
+02235,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+02250,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+02265,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+02280,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+02295,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+02310,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+02325,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+02340,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+02355,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+02370,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+02385,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+02400,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+02415,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+02430,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+02445,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+02460,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+02475,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+02490,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+02505,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+02520,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+02535,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+02550,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+02565,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+02580,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+02595,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+02610,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+02625,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+02640,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02655,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02670,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02685,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02700,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02715,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02730,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+02745,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Tesla,96.0,P.E.K.K.A,75.0,4.0,9,True,False,0.0,7.0
+02760,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Tesla,96.0,,,,9,False,False,0.0,0.0
+02775,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Tesla,96.0,,,,9,False,False,0.0,0.0
+02790,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Tesla,96.0,,,,9,False,False,0.0,0.0
+02805,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,Tesla,96.0,4.0,9,True,False,0.0,4.0
+02820,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02835,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02850,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02865,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02880,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+02895,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+02910,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,Royal Delivery,84.0,2.0,10,True,False,0.0,3.0
+02925,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+02940,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+02955,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+02970,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Elixir Collector,26.0,Fire Spirit,29.0,2.0,10,True,False,0.0,1.0
+02985,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,Royal Delivery,84.0,2.0,10,True,False,0.0,3.0
+03000,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+03015,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+03030,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,True,3.0,0.0
+03045,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03060,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03075,Tesla,96.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03090,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,Mother Witch,72.0,2.0,4,True,True,3.0,4.0
+03105,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03120,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03135,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03150,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03165,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03180,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03195,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03210,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03225,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03240,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03255,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03270,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03285,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03300,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03315,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03330,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03345,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+03360,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03375,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03390,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03405,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03420,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03435,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+03450,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03465,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03480,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03495,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03510,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03525,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Elixir Collector,26.0,4.0,10,True,False,0.0,6.0
+03540,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,10,False,False,0.0,0.0
+03555,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,1.0,6,True,True,4.0,4.0
+03570,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+03585,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+03600,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+03615,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+03630,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+03645,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+03660,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+03675,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+03690,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+03705,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+03720,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+03735,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+03750,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+03765,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+03780,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+03795,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+03810,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+03825,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,9,False,False,0.0,0.0
+03840,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,True,5.0,0.0
+03855,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+03870,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+03885,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+03900,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+03915,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+03930,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+03945,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,P.E.K.K.A,75.0,4.0,6,True,False,0.0,7.0
+03960,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+03975,Ice Spirit,54.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,,,,7,False,False,0.0,0.0
+03990,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,4.0,7,True,True,1.0,4.0
+04005,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+04020,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+04035,Royal Delivery,84.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,1.0,7,True,False,0.0,4.0
+04050,Royal Delivery,84.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+04065,Royal Delivery,84.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+04080,Royal Delivery,84.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,8,False,False,0.0,0.0
+04095,Royal Delivery,84.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,P.E.K.K.A,75.0,4.0,9,True,False,0.0,7.0
+04110,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Royal Delivery,84.0,1.0,6,True,True,3.0,3.0
+04125,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,4.0,6,True,False,0.0,4.0
+04140,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+04155,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+04170,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,7,False,False,0.0,0.0
+04185,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,1.0,5,True,True,2.0,4.0
+04200,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+04215,Tesla,96.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+04230,Mother Witch,72.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,1.0,2,True,True,4.0,4.0
+04245,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,1.0,2,True,False,0.0,4.0
+04260,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,P.E.K.K.A,75.0,4.0,3,True,False,0.0,7.0
+04275,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,,,,3,False,False,0.0,0.0
+04290,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,,,,3,False,False,0.0,0.0
+04305,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Ice Spirit,54.0,Tesla,96.0,4.0,3,True,False,0.0,4.0
+04320,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,Ice Spirit,54.0,4.0,3,True,False,0.0,1.0
+04335,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,3,False,False,0.0,0.0
+04350,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,4,False,False,0.0,0.0
+04365,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,3,False,True,1.0,0.0
+04380,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,3,False,False,0.0,0.0
+04395,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,4,False,False,0.0,0.0
+04410,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,4,False,False,0.0,0.0
+04425,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,5,False,False,0.0,0.0
+04440,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,5,False,False,0.0,0.0
+04455,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,5,False,False,0.0,0.0
+04470,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+04485,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+04500,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+04515,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+04530,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+04545,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+04560,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,Royal Delivery,84.0,4.0,8,True,False,0.0,3.0
+04575,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,8,False,False,0.0,0.0
+04590,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,8,False,False,0.0,0.0
+04605,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,9,False,False,0.0,0.0
+04620,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,9,False,False,0.0,0.0
+04635,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,10,False,False,0.0,0.0
+04650,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,7,False,True,3.0,0.0
+04665,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,7,False,False,0.0,0.0
+04680,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,7,False,False,0.0,0.0
+04695,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Mother Witch,72.0,,,,8,False,False,0.0,0.0
+04710,Elixir Collector,26.0,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Mother Witch,72.0,4.0,5,True,True,3.0,4.0
+04725,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,Fire Spirit,29.0,2.0,5,True,False,0.0,1.0
+04740,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+04755,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+04770,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,5,False,True,1.0,0.0
+04785,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+04800,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+04815,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+04830,Elixir Collector,26.0,P.E.K.K.A,75.0,Fireball,30.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+04845,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Ice Spirit,54.0,Tesla,96.0,4.0,2,True,True,4.0,4.0
+04860,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+04875,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+04890,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+04905,Tesla,96.0,Tesla,96.0,Fireball,30.0,Ice Spirit,54.0,P.E.K.K.A,75.0,2.0,4,True,False,0.0,7.0
+04920,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Ice Spirit,54.0,Tesla,96.0,2.0,4,True,False,0.0,4.0
+04935,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+04950,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Ice Spirit,54.0,P.E.K.K.A,75.0,2.0,4,True,False,0.0,7.0
+04965,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Mother Witch,72.0,Ice Spirit,54.0,4.0,3,True,True,1.0,1.0
+04980,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+04995,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+05010,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+05025,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,Mother Witch,72.0,4.0,2,True,True,2.0,4.0
+05040,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+05055,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+05070,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05085,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05100,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05115,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05130,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05145,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05160,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05175,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05190,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05205,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05220,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05235,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+05250,Tesla,96.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+05265,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,Royal Delivery,84.0,2.0,1,True,True,6.0,3.0
+05280,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+05295,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+05310,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+05325,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05340,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05355,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05370,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05385,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05400,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05415,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05430,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,True,3.0,0.0
+05445,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05460,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05475,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05490,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05505,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05520,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05535,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05550,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05565,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05580,Tesla,96.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05595,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,1.0,2,True,True,4.0,4.0
+05610,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05625,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05640,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05655,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05670,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,P.E.K.K.A,75.0,2.0,4,True,False,0.0,7.0
+05685,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05700,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05715,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05730,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05745,Mother Witch,72.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,2.0,6,True,False,0.0,4.0
+05760,Mother Witch,72.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05775,Mother Witch,72.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05790,Mother Witch,72.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05805,Mother Witch,72.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+05820,Mother Witch,72.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+05835,Mother Witch,72.0,Mother Witch,72.0,Fireball,30.0,Fire Spirit,29.0,P.E.K.K.A,75.0,2.0,6,True,True,1.0,7.0
+05850,Mother Witch,72.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,Mother Witch,72.0,2.0,3,True,True,3.0,4.0
+05865,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,Mother Witch,72.0,1.0,4,True,False,0.0,4.0
+05880,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05895,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+05910,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+05925,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,True,3.0,0.0
+05940,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+05955,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05970,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+05985,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06000,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06015,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06030,Tesla,96.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06045,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,1.0,1,True,True,4.0,4.0
+06060,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+06075,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+06090,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+06105,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+06120,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06135,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06150,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06165,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06180,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06195,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06210,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06225,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06240,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06255,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06270,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06285,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06300,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06315,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06330,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+06345,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+06360,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+06375,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+06390,Ice Spirit,54.0,Elixir Collector,26.0,Fireball,30.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+06405,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,Elixir Collector,26.0,2.0,3,True,True,6.0,6.0
+06420,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,P.E.K.K.A,75.0,2.0,4,True,False,0.0,7.0
+06435,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06450,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06465,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06480,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06495,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06510,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06525,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06540,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06555,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06570,Ice Spirit,54.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06585,Ice Spirit,54.0,P.E.K.K.A,75.0,Fireball,30.0,Fire Spirit,29.0,Tesla,96.0,2.0,8,True,False,0.0,4.0
+06600,Ice Spirit,54.0,Mother Witch,72.0,Fireball,30.0,Fire Spirit,29.0,P.E.K.K.A,75.0,2.0,7,True,True,1.0,7.0
+06615,Ice Spirit,54.0,Mother Witch,72.0,Fireball,30.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06630,Ice Spirit,54.0,Mother Witch,72.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+06645,Ice Spirit,54.0,Mother Witch,72.0,Fireball,30.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+06660,Ice Spirit,54.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,Mother Witch,72.0,2.0,5,True,True,3.0,4.0
+06675,Ice Spirit,54.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06690,Ice Spirit,54.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+06705,Elixir Collector,26.0,Royal Delivery,84.0,Fireball,30.0,Fire Spirit,29.0,Ice Spirit,54.0,1.0,7,True,True,1.0,1.0
+06720,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,Royal Delivery,84.0,2.0,4,True,True,3.0,3.0
+06735,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06750,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06765,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06780,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06795,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+06810,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,P.E.K.K.A,75.0,Fire Spirit,29.0,4.0,5,True,False,0.0,1.0
+06825,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,P.E.K.K.A,75.0,,,,5,False,False,0.0,0.0
+06840,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,P.E.K.K.A,75.0,,,,6,False,False,0.0,0.0
+06855,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,P.E.K.K.A,75.0,,,,4,False,False,0.0,0.0
+06870,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Tesla,96.0,P.E.K.K.A,75.0,4.0,5,True,True,2.0,7.0
+06885,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+06900,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+06915,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+06930,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Mother Witch,72.0,Tesla,96.0,4.0,5,True,True,1.0,4.0
+06945,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Mother Witch,72.0,,,,5,False,False,0.0,0.0
+06960,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Mother Witch,72.0,,,,6,False,False,0.0,0.0
+06975,Elixir Collector,26.0,Tesla,96.0,Fireball,30.0,Mother Witch,72.0,,,,6,False,False,0.0,0.0
+06990,Elixir Collector,26.0,Tesla,96.0,Fire Spirit,29.0,Mother Witch,72.0,Fireball,30.0,3.0,2,True,True,4.0,4.0
+07005,Elixir Collector,26.0,Tesla,96.0,Fire Spirit,29.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+07020,Elixir Collector,26.0,Tesla,96.0,Fire Spirit,29.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+07035,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Mother Witch,72.0,Fire Spirit,29.0,3.0,3,True,False,0.0,1.0
+07050,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+07065,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+07080,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,Mother Witch,72.0,4.0,1,True,True,3.0,4.0
+07095,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07110,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07125,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07140,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07155,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07170,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07185,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07200,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07215,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07230,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07245,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07260,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+07275,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+07290,Elixir Collector,26.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+07305,Fire Spirit,29.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,Elixir Collector,26.0,1.0,7,True,False,0.0,6.0
+07320,Fire Spirit,29.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+07335,Fire Spirit,29.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+07350,Fire Spirit,29.0,Tesla,96.0,Royal Delivery,84.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+07365,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,Royal Delivery,84.0,3.0,2,True,True,6.0,3.0
+07380,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07395,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07410,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07425,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07440,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07455,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07470,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07485,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+07500,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,3,False,True,3.0,0.0
+07515,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07530,Fire Spirit,29.0,Tesla,96.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07545,Fire Spirit,29.0,Tesla,96.0,Tesla,96.0,Ice Spirit,54.0,P.E.K.K.A,75.0,3.0,5,True,False,0.0,7.0
+07560,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Ice Spirit,54.0,Tesla,96.0,2.0,2,True,True,3.0,4.0
+07575,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07590,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07605,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07620,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Ice Spirit,54.0,Tesla,96.0,3.0,4,True,False,0.0,4.0
+07635,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07650,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+07665,Fire Spirit,29.0,Fireball,30.0,Tesla,96.0,Ice Spirit,54.0,P.E.K.K.A,75.0,3.0,5,True,False,0.0,7.0
+07680,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Ice Spirit,54.0,Fireball,30.0,2.0,2,True,True,3.0,4.0
+07695,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+07710,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+07725,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07740,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07755,Fire Spirit,29.0,Mother Witch,72.0,P.E.K.K.A,75.0,Ice Spirit,54.0,Tesla,96.0,3.0,4,True,False,0.0,4.0
+07770,Fire Spirit,29.0,Mother Witch,72.0,P.E.K.K.A,75.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+07785,Fire Spirit,29.0,Mother Witch,72.0,P.E.K.K.A,75.0,Mother Witch,72.0,Ice Spirit,54.0,4.0,2,True,True,2.0,1.0
+07800,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Mother Witch,72.0,Mother Witch,72.0,2.0,2,True,False,0.0,4.0
+07815,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,2,False,False,0.0,0.0
+07830,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Tesla,96.0,Mother Witch,72.0,4.0,2,True,False,0.0,4.0
+07845,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Tesla,96.0,,,,3,False,False,0.0,0.0
+07860,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,Fire Spirit,29.0,2.0,3,True,False,0.0,1.0
+07875,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,4,False,False,0.0,0.0
+07890,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,4,False,False,0.0,0.0
+07905,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,2,False,True,2.0,0.0
+07920,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,3,False,False,0.0,0.0
+07935,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,3,False,False,0.0,0.0
+07950,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,4,False,False,0.0,0.0
+07965,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,4,False,False,0.0,0.0
+07980,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+07995,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+08010,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+08025,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+08040,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,7,False,False,0.0,0.0
+08055,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,1,False,True,6.0,0.0
+08070,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,2,False,False,0.0,0.0
+08085,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,2,False,False,0.0,0.0
+08100,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,3,False,False,0.0,0.0
+08115,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,4,False,False,0.0,0.0
+08130,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,4,False,False,0.0,0.0
+08145,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+08160,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,5,False,False,0.0,0.0
+08175,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+08190,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Tesla,96.0,,,,6,False,False,0.0,0.0
+08205,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,Tesla,96.0,4.0,3,True,True,3.0,4.0
+08220,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+08235,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+08250,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+08265,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,5,False,False,0.0,0.0
+08280,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,5,False,False,0.0,0.0
+08295,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,6,False,False,0.0,0.0
+08310,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,7,False,False,0.0,0.0
+08325,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,7,False,False,0.0,0.0
+08340,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,8,False,False,0.0,0.0
+08355,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,8,False,False,0.0,0.0
+08370,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,9,False,False,0.0,0.0
+08385,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Mother Witch,72.0,,,,9,False,False,0.0,0.0
+08400,Fire Spirit,29.0,Fireball,30.0,P.E.K.K.A,75.0,Elixir Collector,26.0,Mother Witch,72.0,4.0,7,True,True,2.0,4.0
+08415,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Elixir Collector,26.0,Fireball,30.0,2.0,3,True,True,4.0,4.0
+08430,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+08445,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+08460,Fire Spirit,29.0,Fire Spirit,29.0,P.E.K.K.A,75.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+08475,Fire Spirit,29.0,Royal Delivery,84.0,Tesla,96.0,Elixir Collector,26.0,P.E.K.K.A,75.0,3.0,4,True,False,0.0,7.0
+08490,Fire Spirit,29.0,Royal Delivery,84.0,Tesla,96.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+08505,Fire Spirit,29.0,Royal Delivery,84.0,Mother Witch,72.0,Elixir Collector,26.0,Tesla,96.0,3.0,4,True,True,1.0,4.0
+08520,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,Mother Witch,72.0,3.0,5,True,True,3.0,4.0
+08535,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08550,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+08565,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+08580,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+08595,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+08610,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+08625,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08640,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08655,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08670,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08685,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+08700,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+08715,Fire Spirit,29.0,Mother Witch,72.0,Tesla,96.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+08730,Fire Spirit,29.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,Tesla,96.0,3.0,6,True,True,3.0,4.0
+08745,Fire Spirit,29.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08760,Fire Spirit,29.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08775,Fire Spirit,29.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08790,Fire Spirit,29.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+08805,Fire Spirit,29.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,Mother Witch,72.0,2.0,5,True,True,2.0,4.0
+08820,Fire Spirit,29.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08835,Fire Spirit,29.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08850,Mother Witch,72.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,Fire Spirit,29.0,1.0,5,True,True,1.0,1.0
+08865,Tesla,96.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,Mother Witch,72.0,1.0,5,True,False,0.0,4.0
+08880,Tesla,96.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+08895,Tesla,96.0,Ice Spirit,54.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08910,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,Ice Spirit,54.0,2.0,6,True,True,1.0,1.0
+08925,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08940,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+08955,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+08970,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+08985,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+09000,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,8,False,True,1.0,0.0
+09015,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+09030,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+09045,Royal Delivery,84.0,Tesla,96.0,Fireball,30.0,Elixir Collector,26.0,,,,10,False,False,0.0,0.0
+09060,Royal Delivery,84.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,Tesla,96.0,2.0,6,True,True,4.0,4.0
+09075,Royal Delivery,84.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+09090,Royal Delivery,84.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+09105,Royal Delivery,84.0,Mother Witch,72.0,Fireball,30.0,Elixir Collector,26.0,,,,7,False,False,0.0,0.0
+09120,Royal Delivery,84.0,Mother Witch,72.0,Fire Spirit,29.0,Elixir Collector,26.0,Fireball,30.0,3.0,4,True,True,3.0,4.0
+09135,Royal Delivery,84.0,Mother Witch,72.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09150,Royal Delivery,84.0,Mother Witch,72.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09165,Royal Delivery,84.0,Mother Witch,72.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,3,False,False,0.0,0.0
+09180,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,Mother Witch,72.0,2.0,3,True,True,2.0,4.0
+09195,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+09210,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+09225,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09240,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09255,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09270,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09285,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09300,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09315,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09330,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09345,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+09360,Royal Delivery,84.0,P.E.K.K.A,75.0,Fire Spirit,29.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
