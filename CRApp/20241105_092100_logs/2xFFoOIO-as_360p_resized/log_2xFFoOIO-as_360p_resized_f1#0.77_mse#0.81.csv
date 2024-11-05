@@ -1,0 +1,529 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00960,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00975,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+00990,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01005,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+01020,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01035,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01050,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01065,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01080,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+01095,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01110,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01125,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01140,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01155,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01170,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01185,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01200,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01215,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01230,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01245,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01260,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01275,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01290,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01305,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01320,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01335,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01350,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01365,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01380,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01395,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01410,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01425,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01440,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01455,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01470,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01485,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01500,Mother Witch,72.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+01515,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,Sparky,95.0,4.0,4,True,True,6.0,6.0
+01530,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,4,False,False,0.0,0.0
+01545,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,4,False,False,0.0,0.0
+01560,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,4,False,False,0.0,0.0
+01575,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,4,False,False,0.0,0.0
+01590,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01605,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01620,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01635,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01650,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01665,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01680,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+01695,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+01710,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+01725,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+01740,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+01755,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+01770,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+01785,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+01800,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+01815,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+01830,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+01845,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+01860,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+01875,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+01890,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+01905,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+01920,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+01935,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+01950,Mother Witch,72.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+01965,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,Mother Witch,72.0,1.0,5,True,True,4.0,4.0
+01980,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+01995,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,5,False,False,0.0,0.0
+02010,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+02025,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+02040,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+02055,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+02070,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+02085,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,6,False,False,0.0,0.0
+02100,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+02115,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+02130,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+02145,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+02160,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,7,False,False,0.0,0.0
+02175,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+02190,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+02205,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+02220,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+02235,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+02250,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,8,False,False,0.0,0.0
+02265,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+02280,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+02295,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+02310,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+02325,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Phoenix,77.0,,,,9,False,False,0.0,0.0
+02340,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,Phoenix,77.0,4.0,5,True,True,4.0,4.0
+02355,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02370,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02385,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02400,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02415,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+02430,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02445,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02460,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02475,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02490,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02505,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+02520,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02535,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02550,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02565,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02580,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02595,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+02610,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+02625,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,,,,9,False,False,0.0,0.0
+02640,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,4.0,5,True,True,4.0,4.0
+02655,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02670,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+02685,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02700,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02715,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02730,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02745,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02760,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+02775,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02790,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+02805,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,Goblin Giant,43.0,4.0,7,True,False,0.0,6.0
+02820,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02835,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02850,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+02865,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,2,False,True,5.0,0.0
+02880,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02895,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02910,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02925,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02940,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+02955,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,2.0,1,True,True,1.0,2.0
+02970,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+02985,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+03000,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+03015,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,1,False,False,0.0,0.0
+03030,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03045,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03060,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03075,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03090,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03105,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03120,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03135,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03150,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03165,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03180,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03195,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03210,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03225,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03240,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03255,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03270,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03285,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03300,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03315,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03330,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03345,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03360,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03375,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03390,Elite Barbarians,25.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+03405,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Elite Barbarians,25.0,1.0,7,True,False,0.0,6.0
+03420,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03435,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03450,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03465,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03480,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03495,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03510,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03525,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+03540,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,True,5.0,0.0
+03555,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03570,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03585,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03600,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03615,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+03630,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03645,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03660,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03675,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03690,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03705,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03720,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03735,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03750,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03765,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03780,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03795,Phoenix,77.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03810,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,Zap,107.0,3.0,3,True,True,2.0,2.0
+03825,Sparky,95.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,Phoenix,77.0,1.0,3,True,False,0.0,4.0
+03840,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,Sparky,95.0,1.0,3,True,False,0.0,6.0
+03855,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03870,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+03885,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03900,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03915,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03930,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03945,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+03960,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03975,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+03990,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04005,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04020,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04035,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+04050,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04065,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04080,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04095,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04110,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+04125,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04140,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04155,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04170,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04185,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04200,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+04215,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04230,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04245,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04260,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04275,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04290,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+04305,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04320,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04335,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04350,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04365,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+04380,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+04395,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,Sparky,95.0,4.0,4,True,True,6.0,6.0
+04410,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+04425,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+04440,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+04455,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+04470,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+04485,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+04500,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+04515,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04530,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04545,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+04560,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04575,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04590,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+04605,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Rage,81.0,Goblin Giant,43.0,4.0,3,True,True,5.0,6.0
+04620,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Rage,81.0,,,,3,False,False,0.0,0.0
+04635,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Rage,81.0,,,,3,False,False,0.0,0.0
+04650,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Rage,81.0,,,,4,False,False,0.0,0.0
+04665,Phoenix,77.0,Mother Witch,72.0,Dark Prince,18.0,Rage,81.0,,,,4,False,False,0.0,0.0
+04680,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Rage,81.0,Mother Witch,72.0,2.0,1,True,True,3.0,4.0
+04695,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Rage,81.0,,,,1,False,False,0.0,0.0
+04710,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Rage,81.0,,,,1,False,False,0.0,0.0
+04725,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Rage,81.0,,,,2,False,False,0.0,0.0
+04740,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Rage,81.0,,,,2,False,False,0.0,0.0
+04755,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,Rage,81.0,4.0,0,True,True,2.0,2.0
+04770,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04785,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04800,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,1,False,False,0.0,0.0
+04815,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04830,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04845,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,2,False,False,0.0,0.0
+04860,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04875,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,3,False,False,0.0,0.0
+04890,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04905,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04920,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,4,False,False,0.0,0.0
+04935,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04950,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04965,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,5,False,False,0.0,0.0
+04980,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,6,False,False,0.0,0.0
+04995,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05010,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05025,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05040,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05055,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05070,Phoenix,77.0,Elite Barbarians,25.0,Dark Prince,18.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05085,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,Dark Prince,18.0,3.0,4,True,True,4.0,4.0
+05100,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05115,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05130,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05145,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05160,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05175,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05190,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05205,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05220,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05235,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05250,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,Elite Barbarians,25.0,2.0,2,True,True,6.0,6.0
+05265,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05280,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05295,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05310,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05325,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05340,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05355,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05370,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05385,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05400,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05415,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05430,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05445,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05460,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05475,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05490,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05505,Phoenix,77.0,Goblin Giant,43.0,Sparky,95.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05520,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,3.0,3,True,True,5.0,6.0
+05535,Sparky,95.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,Phoenix,77.0,1.0,3,True,False,0.0,4.0
+05550,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,Sparky,95.0,1.0,3,True,False,0.0,6.0
+05565,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05580,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05595,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05610,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05625,Phoenix,77.0,Goblin Giant,43.0,Mother Witch,72.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05640,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,Mother Witch,72.0,3.0,1,True,True,4.0,4.0
+05655,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05670,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05685,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05700,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05715,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05730,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05745,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05760,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,4,False,False,0.0,0.0
+05775,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05790,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05805,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,5,False,False,0.0,0.0
+05820,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05835,Phoenix,77.0,Goblin Giant,43.0,Rage,81.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05850,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,Goblin Giant,43.0,2.0,7,True,False,0.0,6.0
+05865,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,7,False,False,0.0,0.0
+05880,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05895,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,8,False,False,0.0,0.0
+05910,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,2,False,True,6.0,0.0
+05925,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05940,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05955,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05970,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05985,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06000,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06015,Phoenix,77.0,Dark Prince,18.0,Rage,81.0,Zap,107.0,,,,4,False,False,0.0,0.0
+06030,Phoenix,77.0,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,Dark Prince,18.0,2.0,1,True,True,3.0,4.0
+06045,Phoenix,77.0,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06060,Phoenix,77.0,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06075,Phoenix,77.0,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06090,Phoenix,77.0,Elite Barbarians,25.0,Rage,81.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06105,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,Rage,81.0,3.0,0,True,True,2.0,2.0
+06120,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06135,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,1,False,False,0.0,0.0
+06150,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06165,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06180,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,2,False,False,0.0,0.0
+06195,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06210,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Zap,107.0,,,,3,False,False,0.0,0.0
+06225,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+06240,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,2,False,False,0.0,0.0
+06255,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,2,False,False,0.0,0.0
+06270,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,2,False,False,0.0,0.0
+06285,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+06300,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+06315,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,3,False,False,0.0,0.0
+06330,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+06345,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,4,False,False,0.0,0.0
+06360,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,5,False,False,0.0,0.0
+06375,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,5,False,False,0.0,0.0
+06390,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,5,False,False,0.0,0.0
+06405,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,6,False,False,0.0,0.0
+06420,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,6,False,False,0.0,0.0
+06435,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,6,False,False,0.0,0.0
+06450,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,7,False,False,0.0,0.0
+06465,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Mother Witch,72.0,,,,7,False,False,0.0,0.0
+06480,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,Mother Witch,72.0,4.0,3,True,True,4.0,4.0
+06495,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+06510,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+06525,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,4,False,False,0.0,0.0
+06540,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+06555,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,5,False,False,0.0,0.0
+06570,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+06585,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+06600,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+06615,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+06630,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+06645,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+06660,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+06675,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+06690,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+06705,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+06720,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+06735,Phoenix,77.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,10,False,False,0.0,0.0
+06750,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,Phoenix,77.0,1.0,6,True,True,4.0,4.0
+06765,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+06780,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,6,False,False,0.0,0.0
+06795,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+06810,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+06825,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,7,False,False,0.0,0.0
+06840,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+06855,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+06870,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,8,False,False,0.0,0.0
+06885,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+06900,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+06915,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Goblin Giant,43.0,,,,9,False,False,0.0,0.0
+06930,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,Goblin Giant,43.0,4.0,4,True,True,5.0,6.0
+06945,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+06960,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+06975,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+06990,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07005,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07020,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07035,Dark Prince,18.0,Elite Barbarians,25.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07050,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,Elite Barbarians,25.0,2.0,7,True,False,0.0,6.0
+07065,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,7,False,False,0.0,0.0
+07080,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,7,False,False,0.0,0.0
+07095,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,True,5.0,0.0
+07110,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07125,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07140,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07155,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07170,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07185,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07200,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07215,Dark Prince,18.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07230,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,Dark Prince,18.0,1.0,4,True,True,2.0,4.0
+07245,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07260,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07275,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07290,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07305,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07320,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07335,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07350,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07365,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07380,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07395,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07410,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07425,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07440,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07455,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07470,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,7,False,False,0.0,0.0
+07485,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,7,False,False,0.0,0.0
+07500,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,7,False,False,0.0,0.0
+07515,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,8,False,False,0.0,0.0
+07530,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,8,False,False,0.0,0.0
+07545,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,8,False,False,0.0,0.0
+07560,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,9,False,False,0.0,0.0
+07575,Phoenix,77.0,Zap,107.0,Sparky,95.0,Rage,81.0,Mother Witch,72.0,1.0,5,True,True,4.0,4.0
+07590,Phoenix,77.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07605,Phoenix,77.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07620,Phoenix,77.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07635,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,Phoenix,77.0,1.0,2,True,True,4.0,4.0
+07650,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07665,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07680,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,3,False,False,0.0,0.0
+07695,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07710,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,4,False,False,0.0,0.0
+07725,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07740,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07755,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,5,False,False,0.0,0.0
+07770,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07785,Goblin Giant,43.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,6,False,False,0.0,0.0
+07800,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Rage,81.0,Goblin Giant,43.0,1.0,0,True,True,6.0,6.0
+07815,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,1,False,False,0.0,0.0
+07830,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,1,False,False,0.0,0.0
+07845,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,1,False,False,0.0,0.0
+07860,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07875,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Rage,81.0,,,,2,False,False,0.0,0.0
+07890,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,Rage,81.0,4.0,3,True,False,0.0,2.0
+07905,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07920,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07935,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,True,1.0,0.0
+07950,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07965,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+07980,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+07995,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08010,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08025,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08040,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08055,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08070,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08085,Elite Barbarians,25.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08100,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,Elite Barbarians,25.0,1.0,1,True,True,5.0,6.0
+08115,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+08130,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+08145,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08160,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08175,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08190,Mother Witch,72.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08205,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,Mother Witch,72.0,1.0,1,True,True,3.0,4.0
+08220,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,1,False,False,0.0,0.0
+08235,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+08250,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+08265,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08280,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08295,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08310,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08325,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08340,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08355,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08370,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,3,False,True,3.0,0.0
+08385,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08400,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08415,Phoenix,77.0,Zap,107.0,Sparky,95.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08430,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,Sparky,95.0,3.0,3,True,True,1.0,6.0
+08445,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08460,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08475,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08490,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08505,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08520,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08535,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+08550,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,7,False,False,0.0,0.0
+08565,Phoenix,77.0,Zap,107.0,Goblin Giant,43.0,Dark Prince,18.0,,,,8,False,False,0.0,0.0
+08580,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,Goblin Giant,43.0,3.0,2,True,True,6.0,6.0
+08595,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08610,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08625,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08640,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08655,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08670,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08685,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,6,False,False,0.0,0.0
+08700,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,3,False,True,3.0,0.0
+08715,Phoenix,77.0,Zap,107.0,Rage,81.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08730,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,Rage,81.0,3.0,2,True,True,1.0,2.0
+08745,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0
+08760,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08775,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,3,False,False,0.0,0.0
+08790,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08805,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,4,False,False,0.0,0.0
+08820,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08835,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,5,False,False,0.0,0.0
+08850,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,2,False,True,3.0,0.0
+08865,Phoenix,77.0,Zap,107.0,Mother Witch,72.0,Dark Prince,18.0,,,,2,False,False,0.0,0.0

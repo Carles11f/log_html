@@ -1,0 +1,413 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00900,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+00915,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+00930,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+00945,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,8,False,False,0.0,0.0
+00960,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+00975,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+00990,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+01005,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+01020,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,9,False,False,0.0,0.0
+01035,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01050,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01065,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01080,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01095,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01110,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01125,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01140,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01155,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tombstone,100.0,,,,10,False,False,0.0,0.0
+01170,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,Tombstone,100.0,4.0,10,True,False,0.0,3.0
+01185,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01200,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01215,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01230,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01245,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01260,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,10,False,False,0.0,0.0
+01275,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,True,2.0,0.0
+01290,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01305,Electro Wizard,24.0,Skeleton King,93.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01320,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,Skeleton King,93.0,2.0,4,True,True,4.0,4.0
+01335,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01350,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01365,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01380,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01395,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01410,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+01425,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01440,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01455,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01470,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01485,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01500,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01515,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01530,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01545,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01560,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01575,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01590,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01605,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01620,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01635,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01650,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01665,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01680,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01695,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01710,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01725,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01740,Electro Wizard,24.0,Baby Dragon,3.0,Baby Dragon,3.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+01755,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,Baby Dragon,3.0,3.0,6,True,True,3.0,4.0
+01770,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01785,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01800,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01815,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01830,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,6,False,False,0.0,0.0
+01845,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01860,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01875,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01890,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01905,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01920,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+01935,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01950,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01965,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01980,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+01995,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,8,False,False,0.0,0.0
+02010,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02025,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02040,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02055,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02070,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02085,Electro Wizard,24.0,Baby Dragon,3.0,Lightning,60.0,Tornado,101.0,,,,9,False,False,0.0,0.0
+02100,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,Lightning,60.0,3.0,4,True,True,5.0,6.0
+02115,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02130,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,4,False,False,0.0,0.0
+02145,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,Electro Wizard,24.0,1.0,0,True,True,4.0,4.0
+02160,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+02175,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,0,False,False,0.0,0.0
+02190,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02205,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02220,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02235,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02250,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02265,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,1,False,False,0.0,0.0
+02280,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02295,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02310,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02325,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02340,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+02355,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02370,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02385,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+02400,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,Tornado,101.0,4.0,4,True,False,0.0,3.0
+02415,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02430,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02445,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02460,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02475,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02490,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02505,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02520,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,True,2.0,0.0
+02535,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+02550,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+02565,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+02580,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+02595,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+02610,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+02625,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+02640,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+02655,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+02670,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+02685,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+02700,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02715,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02730,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02745,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02760,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+02775,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,5,False,False,0.0,0.0
+02790,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,5,False,False,0.0,0.0
+02805,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,5,False,False,0.0,0.0
+02820,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,5,False,False,0.0,0.0
+02835,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,5,False,False,0.0,0.0
+02850,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,5,False,False,0.0,0.0
+02865,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,6,False,False,0.0,0.0
+02880,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,6,False,False,0.0,0.0
+02895,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,6,False,False,0.0,0.0
+02910,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,6,False,False,0.0,0.0
+02925,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,6,False,False,0.0,0.0
+02940,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,6,False,False,0.0,0.0
+02955,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,7,False,False,0.0,0.0
+02970,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,7,False,False,0.0,0.0
+02985,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,7,False,False,0.0,0.0
+03000,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,7,False,False,0.0,0.0
+03015,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,7,False,False,0.0,0.0
+03030,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,8,False,False,0.0,0.0
+03045,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,8,False,False,0.0,0.0
+03060,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,8,False,False,0.0,0.0
+03075,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,8,False,False,0.0,0.0
+03090,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,8,False,False,0.0,0.0
+03105,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,8,False,False,0.0,0.0
+03120,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,9,False,False,0.0,0.0
+03135,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,9,False,False,0.0,0.0
+03150,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,9,False,False,0.0,0.0
+03165,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,9,False,False,0.0,0.0
+03180,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,9,False,False,0.0,0.0
+03195,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,True,5.0,0.0
+03210,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+03225,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+03240,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+03255,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+03270,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,Baby Dragon,3.0,2.0,0,True,True,4.0,4.0
+03285,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,1,False,False,0.0,0.0
+03300,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,1,False,False,0.0,0.0
+03315,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,1,False,False,0.0,0.0
+03330,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,1,False,False,0.0,0.0
+03345,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,1,False,False,0.0,0.0
+03360,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,1,False,False,0.0,0.0
+03375,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+03390,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+03405,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+03420,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+03435,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,2,False,False,0.0,0.0
+03450,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+03465,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+03480,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+03495,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+03510,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+03525,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,3,False,False,0.0,0.0
+03540,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+03555,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Skeleton King,93.0,,,,4,False,False,0.0,0.0
+03570,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,Skeleton King,93.0,4.0,0,True,True,4.0,4.0
+03585,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+03600,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+03615,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,0,False,False,0.0,0.0
+03630,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03645,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03660,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03675,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03690,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,1,False,False,0.0,0.0
+03705,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03720,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03735,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03750,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03765,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03780,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,2,False,False,0.0,0.0
+03795,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03810,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03825,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03840,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03855,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03870,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03885,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03900,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Electro Wizard,24.0,,,,4,False,False,0.0,0.0
+03915,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,Electro Wizard,24.0,4.0,5,True,False,0.0,4.0
+03930,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03945,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03960,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,5,False,False,0.0,0.0
+03975,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+03990,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04005,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04020,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04035,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,7,False,False,0.0,0.0
+04050,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,2,False,True,5.0,0.0
+04065,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04080,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04095,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04110,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,2,False,False,0.0,0.0
+04125,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04140,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04155,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Tornado,101.0,,,,3,False,False,0.0,0.0
+04170,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,Tornado,101.0,4.0,4,True,False,0.0,3.0
+04185,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04200,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04215,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04230,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04245,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04260,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04275,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04290,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,2,False,True,2.0,0.0
+04305,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+04320,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+04335,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+04350,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+04365,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+04380,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04395,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04410,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+04425,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04440,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04455,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04470,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04485,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04500,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04515,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04530,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04545,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+04560,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+04575,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+04590,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+04605,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+04620,Tombstone,100.0,Lightning,60.0,Bowler,14.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+04635,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,Bowler,14.0,3.0,5,True,True,4.0,5.0
+04650,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04665,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04680,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04695,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04710,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04725,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04740,Tombstone,100.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04755,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,Tombstone,100.0,1.0,5,True,True,2.0,3.0
+04770,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04785,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04800,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04815,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04830,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04845,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04860,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04875,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+04890,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+04905,Baby Dragon,3.0,Lightning,60.0,Skeleton King,93.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+04920,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,Skeleton King,93.0,3.0,4,True,True,4.0,4.0
+04935,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04950,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04965,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+04980,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+04995,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05010,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05025,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05040,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05055,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+05070,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+05085,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+05100,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+05115,Baby Dragon,3.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+05130,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,Baby Dragon,3.0,1.0,5,True,True,4.0,4.0
+05145,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05160,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05175,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05190,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05205,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05220,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+05235,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+05250,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+05265,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+05280,Tornado,101.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+05295,Bowler,14.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,Tornado,101.0,1.0,6,True,True,3.0,3.0
+05310,Bowler,14.0,Lightning,60.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05325,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,Lightning,60.0,2.0,7,True,True,5.0,6.0
+05340,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+05355,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+05370,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+05385,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+05400,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05415,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05430,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,2,False,True,1.0,0.0
+05445,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+05460,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+05475,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05490,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05505,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05520,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+05535,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+05550,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+05565,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05580,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05595,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05610,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05625,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05640,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,True,3.0,0.0
+05655,Bowler,14.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05670,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,Bowler,14.0,1.0,2,True,True,1.0,5.0
+05685,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05700,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05715,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05730,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+05745,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+05760,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+05775,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05790,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05805,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05820,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05835,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05850,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,True,3.0,0.0
+05865,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05880,Baby Dragon,3.0,Tombstone,100.0,Electro Wizard,24.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+05895,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,Tombstone,100.0,2.0,5,True,False,0.0,3.0
+05910,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05925,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+05940,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05955,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05970,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+05985,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06000,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06015,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06030,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06045,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06060,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+06075,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+06090,Baby Dragon,3.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+06105,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,Baby Dragon,3.0,1.0,6,True,True,3.0,4.0
+06120,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06135,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06150,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06165,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06180,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06195,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06210,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06225,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06240,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+06255,Lightning,60.0,Tornado,101.0,Electro Wizard,24.0,Lava Hound,59.0,,,,9,False,False,0.0,0.0
+06270,Lightning,60.0,Tornado,101.0,Skeleton King,93.0,Lava Hound,59.0,Electro Wizard,24.0,3.0,5,True,True,4.0,4.0
+06285,Lightning,60.0,Tornado,101.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06300,Lightning,60.0,Tornado,101.0,Skeleton King,93.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06315,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,Skeleton King,93.0,3.0,3,True,True,3.0,4.0
+06330,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06345,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06360,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06375,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06390,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06405,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06420,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06435,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06450,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06465,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06480,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06495,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06510,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06525,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06540,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06555,Lightning,60.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,8,False,False,0.0,0.0
+06570,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,Lightning,60.0,1.0,3,True,True,5.0,6.0
+06585,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06600,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06615,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06630,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06645,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06660,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06675,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06690,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06705,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06720,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06735,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06750,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06765,Tombstone,100.0,Tornado,101.0,Bowler,14.0,Lava Hound,59.0,,,,7,False,False,0.0,0.0
+06780,Tombstone,100.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,Tornado,101.0,2.0,5,True,True,2.0,3.0
+06795,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,Tombstone,100.0,1.0,2,True,True,3.0,3.0
+06810,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,2,False,False,0.0,0.0
+06825,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06840,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06855,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+06870,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06885,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06900,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+06915,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06930,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,5,False,False,0.0,0.0
+06945,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06960,Electro Wizard,24.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,6,False,False,0.0,0.0
+06975,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,Electro Wizard,24.0,1.0,2,True,True,4.0,4.0
+06990,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+07005,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+07020,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,3,False,False,0.0,0.0
+07035,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+07050,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,4,False,False,0.0,0.0
+07065,Skeleton King,93.0,Baby Dragon,3.0,Bowler,14.0,Lava Hound,59.0,,,,0,False,True,4.0,0.0

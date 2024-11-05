@@ -1,0 +1,581 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00990,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,,,,,,8,False,False,0.0,0.0
+01005,,,Fireball,30.0,Barbarians,8.0,,,,,,8,False,False,0.0,0.0
+01020,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,4.0,8,True,False,0.0,0.0
+01035,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,8,False,False,0.0,0.0
+01050,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01065,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01080,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01095,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01110,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01125,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,10,False,False,0.0,0.0
+01140,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Giant,36.0,,,,10,False,False,0.0,0.0
+01155,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,Giant,36.0,4.0,10,True,True,5.0,5.0
+01170,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01185,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01200,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01215,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01230,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01245,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01260,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01275,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01290,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01305,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01320,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01335,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01350,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01365,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01380,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01395,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01410,Goblin Drill,41.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01425,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,Goblin Drill,41.0,1.0,8,True,False,0.0,4.0
+01440,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01455,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01470,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01485,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01500,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01515,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01530,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01545,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01560,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01575,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01590,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,True,2.0,0.0
+01605,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01620,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01635,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01650,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01665,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01680,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01695,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01710,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01725,Zappies,108.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01740,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,Zappies,108.0,1.0,4,True,True,4.0,4.0
+01755,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01770,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01785,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01800,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01815,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01830,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01845,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01860,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01875,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01890,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01905,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,4.0,3,True,True,3.0,3.0
+01920,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+01935,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01950,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01965,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01980,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+01995,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02010,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02025,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02040,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02055,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02070,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02085,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02100,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02115,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02130,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02145,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02160,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02175,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02190,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02205,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02220,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02235,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02250,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02265,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,2.0,4,True,True,3.0,4.0
+02280,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02295,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02310,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02325,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02340,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02355,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02370,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,1.0,3,True,True,2.0,2.0
+02385,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02400,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02415,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02430,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02445,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02460,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02475,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02490,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02505,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02520,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,2,False,True,2.0,0.0
+02535,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02550,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02565,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02580,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02595,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+02610,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02625,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02640,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02655,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02670,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+02685,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02700,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02715,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02730,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02745,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02760,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+02775,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02790,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02805,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02820,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02835,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+02850,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02865,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02880,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02895,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02910,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02925,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+02940,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02955,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02970,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+02985,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03000,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03015,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03030,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03045,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03060,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03075,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03090,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03105,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03120,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03135,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03150,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03165,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03180,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03195,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Zappies,108.0,1.0,6,True,True,3.0,4.0
+03210,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03225,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03240,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03255,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03270,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03285,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03300,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03315,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03330,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03345,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03360,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03375,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03390,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03405,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03420,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03435,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03450,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03465,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03480,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03495,Arrows,2.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03510,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,2.0,4,True,True,5.0,5.0
+03525,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03540,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03555,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03570,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03585,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03600,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+03615,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03630,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03645,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03660,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03675,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03690,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03705,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03720,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03735,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03750,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,True,1.0,0.0
+03765,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03780,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03795,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03810,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03825,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03840,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03855,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+03870,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03885,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03900,Arrows,2.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+03915,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,1.0,6,True,True,3.0,3.0
+03930,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03945,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+03960,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03975,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+03990,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04005,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04020,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04035,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04050,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04065,Bomber,13.0,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04080,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,2.0,9,True,True,5.0,4.0
+04095,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04110,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+04125,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04140,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04155,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04170,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04185,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04200,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04215,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04230,Bomber,13.0,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04245,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,2.0,6,True,False,0.0,4.0
+04260,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04275,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04290,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04305,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04320,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04335,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04350,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04365,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04380,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04395,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04410,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04425,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04440,Bomber,13.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04455,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,1.0,10,True,True,2.0,2.0
+04470,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+04485,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04500,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,True,3.0,0.0
+04515,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04530,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04545,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04560,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04575,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04590,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04605,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04620,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04635,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04650,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04665,Zappies,108.0,Giant,36.0,Barbarians,8.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+04680,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,2.0,5,True,True,4.0,5.0
+04695,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04710,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04725,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04740,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04755,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04770,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04785,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04800,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04815,Zappies,108.0,Arrows,2.0,Barbarians,8.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+04830,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,Barbarians,8.0,3.0,3,True,True,5.0,5.0
+04845,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+04860,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+04875,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+04890,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04905,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04920,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+04935,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04950,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04965,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+04980,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+04995,Zappies,108.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05010,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,Zappies,108.0,1.0,4,True,True,3.0,4.0
+05025,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05040,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05055,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05070,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05085,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05100,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05115,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05130,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05145,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05160,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05175,Bomber,13.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05190,Bomber,13.0,Goblin Drill,41.0,Fireball,30.0,Graveyard,48.0,Arrows,2.0,2.0,5,True,True,2.0,3.0
+05205,Bomber,13.0,Goblin Drill,41.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05220,Bomber,13.0,Goblin Drill,41.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05235,Bomber,13.0,Goblin Drill,41.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05250,Bomber,13.0,Goblin Drill,41.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05265,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,Goblin Drill,41.0,2.0,7,True,True,3.0,4.0
+05280,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05295,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05310,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05325,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05340,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05355,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05370,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05385,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05400,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05415,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05430,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05445,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05460,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05475,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05490,Bomber,13.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05505,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,Bomber,13.0,1.0,7,True,True,2.0,2.0
+05520,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05535,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05550,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05565,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05580,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05595,Barbarians,8.0,Giant,36.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05610,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,Giant,36.0,2.0,5,True,True,4.0,5.0
+05625,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05640,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05655,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05670,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05685,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05700,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,3,False,True,3.0,0.0
+05715,Barbarians,8.0,Zappies,108.0,Fireball,30.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+05730,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,Zappies,108.0,2.0,3,True,True,1.0,4.0
+05745,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05760,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05775,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+05790,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05805,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+05820,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05835,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05850,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+05865,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05880,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05895,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+05910,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05925,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05940,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+05955,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05970,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+05985,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+06000,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+06015,Barbarians,8.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,10,False,False,0.0,0.0
+06030,Goblin Drill,41.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,Barbarians,8.0,1.0,5,True,True,5.0,5.0
+06045,Goblin Drill,41.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06060,Goblin Drill,41.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06075,Goblin Drill,41.0,Arrows,2.0,Fireball,30.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06090,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,Fireball,30.0,3.0,2,True,True,4.0,4.0
+06105,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06120,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06135,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06150,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06165,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06180,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06195,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06210,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06225,Goblin Drill,41.0,Arrows,2.0,Bomber,13.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06240,Goblin Drill,41.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,Bomber,13.0,3.0,4,True,True,1.0,2.0
+06255,Goblin Drill,41.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06270,Goblin Drill,41.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06285,Goblin Drill,41.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06300,Goblin Drill,41.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06315,Goblin Drill,41.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06330,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,Goblin Drill,41.0,1.0,6,True,False,0.0,4.0
+06345,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06360,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06375,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+06390,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+06405,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+06420,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+06435,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,5,False,True,2.0,0.0
+06450,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06465,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06480,Zappies,108.0,Arrows,2.0,Giant,36.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06495,Zappies,108.0,Barbarians,8.0,Giant,36.0,Graveyard,48.0,Arrows,2.0,2.0,4,True,True,2.0,3.0
+06510,Zappies,108.0,Barbarians,8.0,Giant,36.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06525,Zappies,108.0,Barbarians,8.0,Giant,36.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06540,Zappies,108.0,Barbarians,8.0,Giant,36.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06555,Zappies,108.0,Barbarians,8.0,Giant,36.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06570,Zappies,108.0,Barbarians,8.0,Giant,36.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06585,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,Giant,36.0,3.0,7,True,True,6.0,5.0
+06600,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,1,False,False,0.0,0.0
+06615,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,1,False,False,0.0,0.0
+06630,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06645,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06660,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06675,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06690,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06705,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06720,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06735,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06750,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,Fireball,30.0,3.0,4,True,False,0.0,4.0
+06765,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06780,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06795,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,2,False,True,2.0,0.0
+06810,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06825,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,2,False,False,0.0,0.0
+06840,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06855,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,3,False,False,0.0,0.0
+06870,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06885,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06900,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,4,False,False,0.0,0.0
+06915,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06930,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06945,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,5,False,False,0.0,0.0
+06960,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06975,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+06990,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,6,False,False,0.0,0.0
+07005,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07020,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07035,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07050,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+07065,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+07080,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Graveyard,48.0,Bomber,13.0,3.0,9,True,True,2.0,2.0
+07095,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Graveyard,48.0,,,,9,False,False,0.0,0.0
+07110,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Graveyard,48.0,,,,7,False,False,0.0,0.0
+07125,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+07140,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Graveyard,48.0,,,,8,False,False,0.0,0.0
+07155,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,Graveyard,48.0,4.0,3,True,True,5.0,5.0
+07170,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07185,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07200,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07215,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07230,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07245,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07260,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+07275,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+07290,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+07305,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+07320,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+07335,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+07350,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+07365,Zappies,108.0,Barbarians,8.0,Goblin Drill,41.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+07380,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Arrows,2.0,Goblin Drill,41.0,3.0,9,True,False,0.0,4.0
+07395,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+07410,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,Arrows,2.0,4.0,6,True,True,3.0,3.0
+07425,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07440,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07455,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07470,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,5,False,True,2.0,0.0
+07485,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,5,False,False,0.0,0.0
+07500,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,6,False,False,0.0,0.0
+07515,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,6,False,False,0.0,0.0
+07530,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,6,False,False,0.0,0.0
+07545,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07560,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07575,Zappies,108.0,Barbarians,8.0,Fireball,30.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07590,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,Fireball,30.0,3.0,4,True,True,3.0,4.0
+07605,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,4,False,False,0.0,0.0
+07620,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,4,False,False,0.0,0.0
+07635,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,5,False,False,0.0,0.0
+07650,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,5,False,False,0.0,0.0
+07665,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,5,False,False,0.0,0.0
+07680,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,6,False,False,0.0,0.0
+07695,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,6,False,False,0.0,0.0
+07710,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07725,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07740,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,7,False,False,0.0,0.0
+07755,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,8,False,False,0.0,0.0
+07770,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,8,False,False,0.0,0.0
+07785,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,8,False,False,0.0,0.0
+07800,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,9,False,False,0.0,0.0
+07815,Zappies,108.0,Barbarians,8.0,Bomber,13.0,Giant,36.0,,,,9,False,False,0.0,0.0
+07830,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,Bomber,13.0,3.0,7,True,True,2.0,2.0
+07845,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,Giant,36.0,4.0,8,True,True,5.0,5.0
+07860,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+07875,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+07890,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07905,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+07920,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07935,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07950,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+07965,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+07980,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+07995,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,Zappies,108.0,1.0,2,True,True,4.0,4.0
+08010,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+08025,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08040,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08055,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08070,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,Arrows,2.0,4.0,2,True,True,3.0,3.0
+08085,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08100,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08115,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08130,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08145,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08160,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08175,Goblin Drill,41.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08190,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,Goblin Drill,41.0,1.0,6,True,False,0.0,4.0
+08205,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+08220,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,Fireball,30.0,4.0,3,True,True,4.0,4.0
+08235,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,1,False,True,2.0,0.0
+08250,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,2,False,False,0.0,0.0
+08265,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,2,False,False,0.0,0.0
+08280,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,3,False,False,0.0,0.0
+08295,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,3,False,False,0.0,0.0
+08310,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,4,False,False,0.0,0.0
+08325,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,4,False,False,0.0,0.0
+08340,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,5,False,False,0.0,0.0
+08355,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,5,False,False,0.0,0.0
+08370,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,6,False,False,0.0,0.0
+08385,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,6,False,False,0.0,0.0
+08400,Giant,36.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,7,False,False,0.0,0.0
+08415,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,Giant,36.0,1.0,7,True,True,3.0,5.0
+08430,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,7,False,False,0.0,0.0
+08445,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,4,False,False,0.0,0.0
+08460,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,4,False,False,0.0,0.0
+08475,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,5,False,False,0.0,0.0
+08490,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,Bomber,13.0,4.0,3,True,True,2.0,2.0
+08505,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08520,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+08535,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+08550,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,Arrows,2.0,4.0,2,True,True,3.0,3.0
+08565,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08580,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+08595,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08610,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+08625,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+08640,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+08655,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,Fireball,30.0,4.0,2,True,True,4.0,4.0
+08670,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,3,False,False,0.0,0.0
+08685,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,3,False,False,0.0,0.0
+08700,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+08715,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,4,False,False,0.0,0.0
+08730,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+08745,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,5,False,False,0.0,0.0
+08760,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,6,False,False,0.0,0.0
+08775,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,6,False,False,0.0,0.0
+08790,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,7,False,False,0.0,0.0
+08805,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,7,False,False,0.0,0.0
+08820,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,8,False,False,0.0,0.0
+08835,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,9,False,False,0.0,0.0
+08850,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,9,False,False,0.0,0.0
+08865,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Goblin Drill,41.0,,,,10,False,False,0.0,0.0
+08880,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,Goblin Drill,41.0,4.0,10,True,True,2.0,4.0
+08895,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,,,,10,False,False,0.0,0.0
+08910,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,,,,8,False,False,0.0,0.0
+08925,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Giant,36.0,,,,9,False,False,0.0,0.0
+08940,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,Giant,36.0,4.0,4,True,True,5.0,5.0
+08955,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,5,False,False,0.0,0.0
+08970,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,5,False,False,0.0,0.0
+08985,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,6,False,False,0.0,0.0
+09000,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,6,False,False,0.0,0.0
+09015,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Bomber,13.0,,,,3,False,False,0.0,0.0
+09030,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,Bomber,13.0,4.0,5,True,True,3.0,2.0
+09045,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+09060,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+09075,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+09090,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+09105,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+09120,Zappies,108.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+09135,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,Zappies,108.0,1.0,5,True,True,4.0,4.0
+09150,Fireball,30.0,Barbarians,8.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+09165,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,Barbarians,8.0,2.0,1,True,True,5.0,5.0
+09180,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+09195,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+09210,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+09225,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+09240,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+09255,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+09270,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+09285,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+09300,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+09315,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+09330,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+09345,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+09360,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+09375,Fireball,30.0,Bomber,13.0,Graveyard,48.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+09390,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,Graveyard,48.0,3.0,1,True,True,8.0,5.0
+09405,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+09420,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+09435,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+09450,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+09465,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+09480,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+09495,Fireball,30.0,Bomber,13.0,Giant,36.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+09510,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,Arrows,2.0,4.0,3,True,True,2.0,3.0
+09525,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+09540,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+09555,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+09570,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+09585,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,5,False,False,0.0,0.0
+09600,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,6,False,False,0.0,0.0
+09615,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,2,False,True,4.0,0.0
+09630,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+09645,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,3,False,False,0.0,0.0
+09660,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,4,False,False,0.0,0.0
+09675,Fireball,30.0,Bomber,13.0,Giant,36.0,Zappies,108.0,,,,4,False,False,0.0,0.0

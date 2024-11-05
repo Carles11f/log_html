@@ -1,0 +1,596 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+01005,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+01020,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+01035,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+01050,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+01065,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+01080,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+01095,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+01110,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+01125,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+01140,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+01155,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01170,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01185,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01200,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01215,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01230,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01245,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01260,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01275,Tornado,101.0,Sparky,95.0,Archers,1.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+01290,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,Goblins,45.0,4.0,8,True,True,2.0,2.0
+01305,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01320,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01335,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01350,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01365,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+01380,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01395,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01410,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01425,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01440,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01455,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,9,False,False,0.0,0.0
+01470,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01485,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01500,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01515,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01530,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01545,Tornado,101.0,Sparky,95.0,Archers,1.0,Royal Ghost,86.0,,,,10,False,False,0.0,0.0
+01560,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,2.0,4,True,True,6.0,6.0
+01575,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01590,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01605,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01620,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01635,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+01650,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01665,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01680,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01695,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01710,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01725,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+01740,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01755,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01770,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01785,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01800,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+01815,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,,,,2,False,False,0.0,0.0
+01830,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,Royal Ghost,86.0,4.0,4,True,True,4.0,3.0
+01845,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+01860,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+01875,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+01890,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+01905,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+01920,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+01935,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+01950,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+01965,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+01980,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+01995,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02010,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02025,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02040,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02055,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02070,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02085,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02100,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02115,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02130,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02145,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02160,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,Archers,1.0,3.0,5,True,True,2.0,3.0
+02175,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02190,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02205,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02220,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02235,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02250,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02265,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02280,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02295,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02310,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02325,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02340,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02355,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02370,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02385,Tornado,101.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02400,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,Miner,66.0,3.0,5,True,True,2.0,3.0
+02415,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02430,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02445,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02460,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02475,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02490,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02505,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02520,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,Tornado,101.0,1.0,3,True,True,3.0,3.0
+02535,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+02550,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+02565,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+02580,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+02595,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+02610,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+02625,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+02640,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+02655,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02670,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02685,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02700,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02715,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02730,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+02745,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02760,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02775,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02790,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02805,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02820,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+02835,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02850,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02865,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02880,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02895,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+02910,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+02925,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+02940,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+02955,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+02970,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+02985,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03000,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03015,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03030,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03045,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03060,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03075,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03090,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03105,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03120,Sparky,95.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03135,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,Goblins,45.0,3.0,8,True,True,2.0,2.0
+03150,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03165,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03180,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03195,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03210,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03225,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03240,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03255,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03270,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03285,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03300,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03315,Sparky,95.0,Electro Giant,22.0,Royal Ghost,86.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03330,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,Royal Ghost,86.0,3.0,10,True,True,3.0,3.0
+03345,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+03360,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03375,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03390,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03405,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03420,Sparky,95.0,Electro Giant,22.0,Archers,1.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03435,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,Archers,1.0,3.0,5,True,True,3.0,3.0
+03450,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+03465,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+03480,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+03495,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+03510,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+03525,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+03540,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+03555,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+03570,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+03585,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03600,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03615,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03630,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03645,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03660,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+03675,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03690,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03705,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03720,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03735,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+03750,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03765,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03780,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03795,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03810,Sparky,95.0,Electro Giant,22.0,Miner,66.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+03825,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,Electro Giant,22.0,2.0,2,True,True,7.0,7.0
+03840,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+03855,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+03870,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+03885,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+03900,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+03915,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+03930,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+03945,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+03960,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+03975,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+03990,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+04005,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04020,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04035,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04050,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04065,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04080,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04095,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04110,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04125,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04140,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04155,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04170,Sparky,95.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04185,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,Sparky,95.0,1.0,7,True,False,0.0,6.0
+04200,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04215,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04230,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04245,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04260,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,2,False,True,5.0,0.0
+04275,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,2,False,False,0.0,0.0
+04290,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,2,False,False,0.0,0.0
+04305,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,2,False,False,0.0,0.0
+04320,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,2,False,False,0.0,0.0
+04335,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,2,False,False,0.0,0.0
+04350,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04365,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04380,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04395,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04410,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04425,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+04440,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+04455,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+04470,Goblins,45.0,Tornado,101.0,Miner,66.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04485,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,Miner,66.0,3.0,2,True,True,3.0,3.0
+04500,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,2,False,False,0.0,0.0
+04515,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04530,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04545,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,3,False,False,0.0,0.0
+04560,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+04575,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,4,False,False,0.0,0.0
+04590,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04605,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04620,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,5,False,False,0.0,0.0
+04635,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04650,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04665,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,6,False,False,0.0,0.0
+04680,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04695,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04710,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04725,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+04740,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+04755,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+04770,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+04785,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+04800,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+04815,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,Royal Ghost,86.0,3.0,10,True,True,3.0,3.0
+04830,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,10,False,False,0.0,0.0
+04845,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,7,False,False,0.0,0.0
+04860,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+04875,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+04890,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,8,False,False,0.0,0.0
+04905,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+04920,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+04935,Goblins,45.0,Tornado,101.0,Archers,1.0,Golden Knight,46.0,,,,9,False,False,0.0,0.0
+04950,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,Golden Knight,46.0,4.0,6,True,True,3.0,4.0
+04965,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+04980,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+04995,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05010,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05025,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05040,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05055,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05070,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05085,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05100,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05115,Goblins,45.0,Tornado,101.0,Archers,1.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05130,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,Archers,1.0,3.0,10,True,False,0.0,3.0
+05145,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05160,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05175,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05190,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,8,False,True,2.0,0.0
+05205,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05220,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05235,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05250,Goblins,45.0,Tornado,101.0,Sparky,95.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05265,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,Sparky,95.0,3.0,4,True,True,5.0,6.0
+05280,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,4,False,False,0.0,0.0
+05295,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,4,False,False,0.0,0.0
+05310,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,5,False,False,0.0,0.0
+05325,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,5,False,False,0.0,0.0
+05340,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,5,False,False,0.0,0.0
+05355,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+05370,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+05385,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+05400,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05415,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05430,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05445,Goblins,45.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05460,Royal Ghost,86.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,Goblins,45.0,1.0,6,True,True,2.0,2.0
+05475,Royal Ghost,86.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05490,Royal Ghost,86.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05505,Royal Ghost,86.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05520,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,Royal Ghost,86.0,1.0,5,True,True,2.0,3.0
+05535,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,5,False,False,0.0,0.0
+05550,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,5,False,False,0.0,0.0
+05565,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+05580,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+05595,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,6,False,False,0.0,0.0
+05610,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,7,False,False,0.0,0.0
+05625,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05640,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05655,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05670,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05685,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05700,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05715,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,9,False,False,0.0,0.0
+05730,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05745,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05760,Archers,1.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05775,Sparky,95.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,Archers,1.0,1.0,10,True,True,2.0,3.0
+05790,Sparky,95.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,10,False,False,0.0,0.0
+05805,Sparky,95.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05820,Sparky,95.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05835,Sparky,95.0,Tornado,101.0,Miner,66.0,Electro Giant,22.0,,,,8,False,False,0.0,0.0
+05850,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,Electro Giant,22.0,4.0,2,True,True,6.0,7.0
+05865,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,2,False,False,0.0,0.0
+05880,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,2,False,False,0.0,0.0
+05895,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+05910,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+05925,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+05940,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+05955,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+05970,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+05985,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06000,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06015,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06030,Sparky,95.0,Tornado,101.0,Miner,66.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06045,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,Miner,66.0,3.0,3,True,True,3.0,3.0
+06060,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+06075,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+06090,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+06105,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06120,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06135,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06150,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06165,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06180,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06195,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06210,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06225,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06240,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06255,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06270,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06285,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06300,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06315,Sparky,95.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+06330,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,Sparky,95.0,1.0,4,True,True,6.0,6.0
+06345,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+06360,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+06375,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06390,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06405,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06420,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06435,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06450,Royal Ghost,86.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06465,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,Royal Ghost,86.0,1.0,4,True,True,3.0,3.0
+06480,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+06495,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06510,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06525,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+06540,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06555,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06570,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06585,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06600,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06615,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06630,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06645,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06660,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06675,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06690,Archers,1.0,Tornado,101.0,Golden Knight,46.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06705,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Golden Knight,46.0,3.0,6,True,True,3.0,4.0
+06720,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06735,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06750,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06765,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06780,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06795,Archers,1.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06810,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,Archers,1.0,1.0,5,True,True,3.0,3.0
+06825,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06840,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06855,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+06870,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06885,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06900,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06915,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+06930,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06945,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,8,False,False,0.0,0.0
+06960,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06975,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+06990,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,9,False,False,0.0,0.0
+07005,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+07020,Miner,66.0,Tornado,101.0,Electro Giant,22.0,Goblins,45.0,,,,10,False,False,0.0,0.0
+07035,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,Electro Giant,22.0,3.0,3,True,True,7.0,7.0
+07050,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+07065,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+07080,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+07095,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+07110,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+07125,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+07140,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+07155,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+07170,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+07185,Miner,66.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+07200,Miner,66.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,Goblins,45.0,4.0,5,True,True,1.0,2.0
+07215,Miner,66.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07230,Miner,66.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07245,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,Miner,66.0,1.0,6,True,True,3.0,3.0
+07260,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+07275,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+07290,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+07305,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+07320,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07335,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07350,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07365,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+07380,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+07395,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,6,False,False,0.0,0.0
+07410,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+07425,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+07440,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,7,False,False,0.0,0.0
+07455,Golden Knight,46.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,8,False,False,0.0,0.0
+07470,Archers,1.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,Golden Knight,46.0,1.0,4,True,True,4.0,4.0
+07485,Archers,1.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+07500,Archers,1.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07515,Archers,1.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,5,False,False,0.0,0.0
+07530,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,Archers,1.0,1.0,3,True,True,2.0,3.0
+07545,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+07560,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,3,False,False,0.0,0.0
+07575,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+07590,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+07605,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Royal Ghost,86.0,,,,4,False,False,0.0,0.0
+07620,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,Royal Ghost,86.0,4.0,2,True,True,2.0,3.0
+07635,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,2,False,False,0.0,0.0
+07650,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,1,False,True,1.0,0.0
+07665,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,2,False,False,0.0,0.0
+07680,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,2,False,False,0.0,0.0
+07695,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,2,False,False,0.0,0.0
+07710,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+07725,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,3,False,False,0.0,0.0
+07740,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+07755,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+07770,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,4,False,False,0.0,0.0
+07785,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+07800,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+07815,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+07830,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+07845,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+07860,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+07875,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,Goblins,45.0,4.0,5,True,True,1.0,2.0
+07890,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07905,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,5,False,False,0.0,0.0
+07920,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07935,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07950,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,3,False,True,3.0,0.0
+07965,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07980,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+07995,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08010,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08025,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08040,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08055,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08070,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08085,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08100,Electro Giant,22.0,Tornado,101.0,Sparky,95.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08115,Electro Giant,22.0,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,3.0,4,True,False,0.0,6.0
+08130,Electro Giant,22.0,Tornado,101.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08145,Electro Giant,22.0,Tornado,101.0,Archers,1.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08160,Electro Giant,22.0,Tornado,101.0,Archers,1.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08175,Electro Giant,22.0,Tornado,101.0,Archers,1.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08190,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Archers,1.0,3.0,4,True,True,2.0,3.0
+08205,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08220,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08235,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08250,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08265,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08280,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,7,False,False,0.0,0.0
+08295,Electro Giant,22.0,Tornado,101.0,Golden Knight,46.0,Miner,66.0,,,,2,False,False,0.0,0.0
+08310,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,Golden Knight,46.0,3.0,4,True,True,5.0,4.0
+08325,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08340,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08355,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,5,False,False,0.0,0.0
+08370,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08385,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,6,False,False,0.0,0.0
+08400,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,7,False,False,0.0,0.0
+08415,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,8,False,False,0.0,0.0
+08430,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,8,False,False,0.0,0.0
+08445,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,9,False,False,0.0,0.0
+08460,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,9,False,False,0.0,0.0
+08475,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,10,False,False,0.0,0.0
+08490,Electro Giant,22.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,10,False,False,0.0,0.0
+08505,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,Electro Giant,22.0,1.0,3,True,True,7.0,7.0
+08520,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,3,False,False,0.0,0.0
+08535,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08550,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,Miner,66.0,4.0,4,True,True,2.0,3.0
+08565,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+08580,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+08595,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+08610,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+08625,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+08640,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+08655,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+08670,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08685,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08700,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+08715,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+08730,Goblins,45.0,Tornado,101.0,Royal Ghost,86.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+08745,Goblins,45.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,Tornado,101.0,2.0,5,True,True,3.0,3.0
+08760,Goblins,45.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08775,Goblins,45.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,5,False,True,1.0,0.0
+08790,Goblins,45.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08805,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,Goblins,45.0,1.0,4,True,True,2.0,2.0
+08820,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+08835,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+08850,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08865,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+08880,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+08895,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+08910,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+08925,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+08940,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,9,False,False,0.0,0.0
+08955,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+08970,Electro Giant,22.0,Archers,1.0,Royal Ghost,86.0,Sparky,95.0,,,,10,False,False,0.0,0.0
+08985,Electro Giant,22.0,Archers,1.0,Miner,66.0,Sparky,95.0,Royal Ghost,86.0,3.0,7,True,True,3.0,3.0
+09000,Electro Giant,22.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+09015,Electro Giant,22.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+09030,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,Electro Giant,22.0,1.0,2,True,True,6.0,7.0
+09045,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+09060,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09075,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09090,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09105,Tornado,101.0,Archers,1.0,Miner,66.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09120,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Sparky,95.0,Archers,1.0,2.0,2,True,True,2.0,3.0
+09135,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+09150,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09165,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09180,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09195,Tornado,101.0,Golden Knight,46.0,Miner,66.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+09210,Tornado,101.0,Goblins,45.0,Miner,66.0,Sparky,95.0,Golden Knight,46.0,2.0,7,True,True,5.0,4.0
+09225,Tornado,101.0,Goblins,45.0,Miner,66.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+09240,Tornado,101.0,Goblins,45.0,Miner,66.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+09255,Tornado,101.0,Goblins,45.0,Miner,66.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09270,Tornado,101.0,Goblins,45.0,Miner,66.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09285,Tornado,101.0,Goblins,45.0,Miner,66.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09300,Tornado,101.0,Goblins,45.0,Royal Ghost,86.0,Sparky,95.0,Miner,66.0,3.0,1,True,True,3.0,3.0
+09315,Tornado,101.0,Goblins,45.0,Royal Ghost,86.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+09330,Tornado,101.0,Goblins,45.0,Royal Ghost,86.0,Sparky,95.0,,,,2,False,False,0.0,0.0
+09345,Tornado,101.0,Goblins,45.0,Royal Ghost,86.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09360,Tornado,101.0,Goblins,45.0,Royal Ghost,86.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09375,Tornado,101.0,Electro Giant,22.0,Royal Ghost,86.0,Sparky,95.0,Goblins,45.0,2.0,2,True,True,1.0,2.0
+09390,Tornado,101.0,Electro Giant,22.0,Royal Ghost,86.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09405,Tornado,101.0,Electro Giant,22.0,Royal Ghost,86.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09420,Tornado,101.0,Electro Giant,22.0,Royal Ghost,86.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09435,Tornado,101.0,Electro Giant,22.0,Royal Ghost,86.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09450,Tornado,101.0,Electro Giant,22.0,Royal Ghost,86.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+09465,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,Royal Ghost,86.0,3.0,2,True,True,3.0,3.0
+09480,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09495,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,3,False,False,0.0,0.0
+09510,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09525,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,4,False,False,0.0,0.0
+09540,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+09555,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,5,False,False,0.0,0.0
+09570,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,6,False,False,0.0,0.0
+09585,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+09600,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,7,False,False,0.0,0.0
+09615,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Sparky,95.0,,,,8,False,False,0.0,0.0
+09630,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,Sparky,95.0,4.0,2,True,True,6.0,6.0
+09645,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,3,False,False,0.0,0.0
+09660,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,3,False,False,0.0,0.0
+09675,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09690,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09705,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,5,False,False,0.0,0.0
+09720,Tornado,101.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,5,False,False,0.0,0.0
+09735,Goblins,45.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,Tornado,101.0,1.0,3,True,True,2.0,3.0
+09750,Goblins,45.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,3,False,False,0.0,0.0
+09765,Goblins,45.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09780,Goblins,45.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,5,False,False,0.0,0.0
+09795,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,Goblins,45.0,1.0,3,True,True,2.0,2.0
+09810,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09825,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09840,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09855,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09870,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09885,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09900,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09915,Royal Ghost,86.0,Electro Giant,22.0,Archers,1.0,Miner,66.0,,,,4,False,False,0.0,0.0

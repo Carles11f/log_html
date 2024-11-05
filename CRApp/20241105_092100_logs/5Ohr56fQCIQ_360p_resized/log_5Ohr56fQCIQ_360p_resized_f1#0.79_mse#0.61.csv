@@ -1,0 +1,597 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+01020,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01035,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01050,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01065,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01080,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01095,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01110,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01125,Bandit,5.0,Skeleton Barrel,91.0,Zap,107.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01140,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,Skeleton Barrel,91.0,2.0,6,True,True,3.0,3.0
+01155,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+01170,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+01185,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01200,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01215,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01230,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01245,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01260,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01275,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01290,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01305,Bandit,5.0,Bats,9.0,Zap,107.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01320,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,Zap,107.0,3.0,6,True,True,2.0,2.0
+01335,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+01350,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01365,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01380,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01395,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+01410,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01425,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01440,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01455,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01470,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01485,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01500,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+01515,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01530,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01545,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01560,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01575,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01590,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+01605,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01620,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01635,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01650,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01665,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,Bandit,5.0,1.0,10,True,False,0.0,3.0
+01680,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+01695,Inferno Dragon,56.0,Mega Knight,63.0,Miner,66.0,Goblin Gang,42.0,Bats,9.0,2.0,10,True,False,0.0,2.0
+01710,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,Miner,66.0,3.0,2,True,True,8.0,3.0
+01725,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+01740,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+01755,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+01770,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+01785,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+01800,Miner,66.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+01815,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,Miner,66.0,1.0,3,True,False,0.0,3.0
+01830,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+01845,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+01860,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+01875,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+01890,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+01905,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+01920,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+01935,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+01950,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+01965,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+01980,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+01995,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+02010,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+02025,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+02040,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+02055,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+02070,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+02085,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+02100,Inferno Dragon,56.0,Mega Knight,63.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+02115,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,Mega Knight,63.0,2.0,0,True,True,7.0,7.0
+02130,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,0,False,False,0.0,0.0
+02145,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,0,False,False,0.0,0.0
+02160,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,0,False,False,0.0,0.0
+02175,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02190,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02205,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02220,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02235,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02250,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02265,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02280,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02295,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02310,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02325,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02340,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02355,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02370,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02385,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02400,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02415,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02430,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02445,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02460,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,Inferno Dragon,56.0,1.0,0,True,True,4.0,4.0
+02475,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,0,False,False,0.0,0.0
+02490,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,0,False,False,0.0,0.0
+02505,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02520,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02535,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02550,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02565,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02580,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+02595,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02610,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02625,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02640,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02655,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02670,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02685,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02700,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02715,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,Zap,107.0,2.0,4,True,False,0.0,2.0
+02730,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02745,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02760,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,True,2.0,0.0
+02775,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02790,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02805,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02820,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+02835,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02850,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02865,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02880,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02895,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02910,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+02925,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02940,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02955,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02970,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+02985,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+03000,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+03015,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03030,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03045,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03060,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03075,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03090,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03105,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03120,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03135,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03150,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03165,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03180,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03195,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03210,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03225,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,7,False,True,1.0,0.0
+03240,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03255,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03270,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03285,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03300,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03315,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03330,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03345,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03360,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03375,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03390,Bandit,5.0,Bats,9.0,Skeleton Barrel,91.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03405,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,Skeleton Barrel,91.0,3.0,6,True,True,3.0,3.0
+03420,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03435,Bandit,5.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+03450,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,Bandit,5.0,1.0,4,True,True,3.0,3.0
+03465,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+03480,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+03495,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+03510,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03525,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03540,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03555,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03570,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03585,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+03600,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03615,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03630,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03645,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03660,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03675,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+03690,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03705,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03720,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03735,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03750,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+03765,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03780,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03795,Mega Knight,63.0,Bats,9.0,Bats,9.0,Goblin Gang,42.0,Miner,66.0,3.0,8,True,False,0.0,3.0
+03810,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,Bats,9.0,3.0,8,True,False,0.0,2.0
+03825,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03840,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+03855,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03870,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03885,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03900,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03915,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+03930,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+03945,Mega Knight,63.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+03960,Miner,66.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,Mega Knight,63.0,1.0,10,True,False,0.0,7.0
+03975,Miner,66.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+03990,Miner,66.0,Bats,9.0,Miner,66.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+04005,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,Bats,9.0,2.0,10,True,True,3.0,2.0
+04020,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04035,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,2,False,True,5.0,0.0
+04050,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04065,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04080,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04095,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04110,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+04125,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04140,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04155,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04170,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04185,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04200,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+04215,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04230,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04245,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04260,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04275,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+04290,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04305,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04320,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04335,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04350,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04365,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+04380,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04395,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04410,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04425,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04440,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+04455,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04470,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04485,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+04500,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+04515,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+04530,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+04545,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+04560,Inferno Dragon,56.0,Zap,107.0,Miner,66.0,Skeleton Barrel,91.0,Goblin Gang,42.0,4.0,6,True,True,3.0,3.0
+04575,Bandit,5.0,Zap,107.0,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,1.0,7,True,False,0.0,4.0
+04590,Bandit,5.0,Zap,107.0,Miner,66.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+04605,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,Miner,66.0,3.0,7,True,False,0.0,3.0
+04620,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+04635,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+04650,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+04665,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,2,False,True,5.0,0.0
+04680,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+04695,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+04710,Bandit,5.0,Zap,107.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+04725,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,Zap,107.0,2.0,3,True,True,1.0,2.0
+04740,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+04755,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+04770,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+04785,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+04800,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+04815,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+04830,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+04845,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+04860,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+04875,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+04890,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+04905,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+04920,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+04935,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+04950,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+04965,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+04980,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+04995,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05010,Bandit,5.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05025,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,Bandit,5.0,1.0,5,True,True,3.0,3.0
+05040,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05055,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05070,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05085,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+05100,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+05115,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+05130,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05145,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05160,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05175,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,9,False,False,0.0,0.0
+05190,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,9,False,False,0.0,0.0
+05205,Goblin Gang,42.0,Bats,9.0,Mega Knight,63.0,Skeleton Barrel,91.0,,,,10,False,False,0.0,0.0
+05220,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,Mega Knight,63.0,3.0,3,True,True,7.0,7.0
+05235,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+05250,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+05265,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+05280,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+05295,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+05310,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+05325,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+05340,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+05355,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05370,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05385,Goblin Gang,42.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+05400,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,Goblin Gang,42.0,1.0,4,True,True,3.0,3.0
+05415,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+05430,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+05445,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+05460,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+05475,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05490,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05505,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+05520,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+05535,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,7,False,False,0.0,0.0
+05550,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05565,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05580,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,8,False,False,0.0,0.0
+05595,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,9,False,False,0.0,0.0
+05610,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,4.0,6,True,True,3.0,3.0
+05625,Miner,66.0,Bats,9.0,Inferno Dragon,56.0,Zap,107.0,,,,6,False,False,0.0,0.0
+05640,Miner,66.0,Bandit,5.0,Inferno Dragon,56.0,Zap,107.0,Bats,9.0,2.0,5,True,True,1.0,2.0
+05655,Mega Knight,63.0,Bandit,5.0,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,3.0,2,True,True,3.0,4.0
+05670,Mega Knight,63.0,Bandit,5.0,Bandit,5.0,Zap,107.0,,,,2,False,False,0.0,0.0
+05685,Mega Knight,63.0,Bandit,5.0,Bandit,5.0,Zap,107.0,,,,3,False,False,0.0,0.0
+05700,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Zap,107.0,Bandit,5.0,3.0,3,True,False,0.0,3.0
+05715,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+05730,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+05745,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+05760,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+05775,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+05790,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+05805,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+05820,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+05835,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+05850,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05865,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05880,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+05895,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05910,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05925,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+05940,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05955,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05970,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+05985,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06000,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06015,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06030,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06045,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06060,Mega Knight,63.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+06075,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bandit,5.0,2.0,7,True,True,3.0,3.0
+06090,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06105,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06120,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06135,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06150,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06165,Mega Knight,63.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06180,Bats,9.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,Mega Knight,63.0,1.0,2,True,True,7.0,7.0
+06195,Bats,9.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06210,Bats,9.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06225,Bats,9.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06240,Bats,9.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06255,Bats,9.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06270,Bats,9.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,Skeleton Barrel,91.0,2.0,4,True,True,2.0,3.0
+06285,Bats,9.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06300,Bats,9.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06315,Bats,9.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06330,Bats,9.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06345,Bats,9.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06360,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Miner,66.0,2.0,3,True,True,2.0,3.0
+06375,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+06390,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,1,False,False,0.0,0.0
+06405,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06420,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06435,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06450,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bats,9.0,1.0,2,True,False,0.0,2.0
+06465,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06480,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06495,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06510,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+06525,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06540,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06555,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+06570,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06585,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06600,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+06615,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06630,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06645,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+06660,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06675,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06690,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+06705,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06720,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06735,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+06750,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06765,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06780,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06795,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06810,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06825,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+06840,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bandit,5.0,1.0,10,True,False,0.0,3.0
+06855,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+06870,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+06885,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,10,False,False,0.0,0.0
+06900,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,True,2.0,0.0
+06915,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+06930,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06945,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+06960,Skeleton Barrel,91.0,Zap,107.0,Miner,66.0,Goblin Gang,42.0,Inferno Dragon,56.0,3.0,2,True,True,7.0,4.0
+06975,Skeleton Barrel,91.0,Zap,107.0,Bandit,5.0,Goblin Gang,42.0,Miner,66.0,3.0,3,True,False,0.0,3.0
+06990,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bandit,5.0,3.0,3,True,False,0.0,3.0
+07005,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07020,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07035,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+07050,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07065,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07080,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+07095,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07110,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07125,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+07140,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07155,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07170,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07185,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+07200,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+07215,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07230,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+07245,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,Goblin Gang,42.0,4.0,6,True,True,3.0,3.0
+07260,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07275,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07290,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07305,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07320,Skeleton Barrel,91.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,8,False,False,0.0,0.0
+07335,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,Skeleton Barrel,91.0,1.0,5,True,True,3.0,3.0
+07350,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07365,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07380,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07395,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07410,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,7,False,False,0.0,0.0
+07425,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,Bats,9.0,1.0,6,True,True,1.0,2.0
+07440,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,6,False,False,0.0,0.0
+07455,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,Miner,66.0,4.0,3,True,True,3.0,3.0
+07470,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,4,False,False,0.0,0.0
+07485,Goblin Gang,42.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,Bandit,5.0,1.0,1,True,True,3.0,3.0
+07500,Goblin Gang,42.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,1,False,False,0.0,0.0
+07515,Goblin Gang,42.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,2,False,False,0.0,0.0
+07530,Goblin Gang,42.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,2,False,False,0.0,0.0
+07545,Goblin Gang,42.0,Zap,107.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,2,False,False,0.0,0.0
+07560,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,Zap,107.0,2.0,3,True,False,0.0,2.0
+07575,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,3,False,False,0.0,0.0
+07590,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,3,False,False,0.0,0.0
+07605,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,2,False,True,1.0,0.0
+07620,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,2,False,False,0.0,0.0
+07635,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,3,False,False,0.0,0.0
+07650,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,3,False,False,0.0,0.0
+07665,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,3,False,False,0.0,0.0
+07680,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,4,False,False,0.0,0.0
+07695,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,4,False,False,0.0,0.0
+07710,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,4,False,False,0.0,0.0
+07725,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,5,False,False,0.0,0.0
+07740,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,5,False,False,0.0,0.0
+07755,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,5,False,False,0.0,0.0
+07770,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+07785,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+07800,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,6,False,False,0.0,0.0
+07815,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+07830,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+07845,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,7,False,False,0.0,0.0
+07860,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+07875,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,8,False,False,0.0,0.0
+07890,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Mega Knight,63.0,,,,9,False,False,0.0,0.0
+07905,Goblin Gang,42.0,Skeleton Barrel,91.0,Bandit,5.0,Bats,9.0,Mega Knight,63.0,4.0,2,True,True,7.0,7.0
+07920,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,Bandit,5.0,3.0,2,True,False,0.0,3.0
+07935,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07950,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07965,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,3,False,False,0.0,0.0
+07980,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,4,False,False,0.0,0.0
+07995,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08010,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,4,False,False,0.0,0.0
+08025,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08040,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,5,False,False,0.0,0.0
+08055,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08070,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,6,False,False,0.0,0.0
+08085,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08100,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08115,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,7,False,False,0.0,0.0
+08130,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,8,False,False,0.0,0.0
+08145,Goblin Gang,42.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bats,9.0,,,,9,False,False,0.0,0.0
+08160,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,Bats,9.0,4.0,5,True,True,4.0,2.0
+08175,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+08190,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+08205,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+08220,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+08235,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+08250,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+08265,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+08280,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+08295,Miner,66.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Zap,107.0,Bandit,5.0,4.0,6,True,True,3.0,3.0
+08310,Miner,66.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,Skeleton Barrel,91.0,2.0,4,True,True,2.0,3.0
+08325,Miner,66.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08340,Miner,66.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08355,Miner,66.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,,,,5,False,False,0.0,0.0
+08370,Goblin Gang,42.0,Mega Knight,63.0,Mega Knight,63.0,Zap,107.0,Inferno Dragon,56.0,3.0,3,True,True,2.0,4.0
+08385,Goblin Gang,42.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,Mega Knight,63.0,3.0,4,True,False,0.0,7.0
+08400,Goblin Gang,42.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,,,,4,False,False,0.0,0.0
+08415,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,Goblin Gang,42.0,1.0,2,True,True,2.0,3.0
+08430,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,,,,2,False,False,0.0,0.0
+08445,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Zap,107.0,,,,3,False,False,0.0,0.0
+08460,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Bandit,5.0,Zap,107.0,4.0,3,True,True,1.0,2.0
+08475,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+08490,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+08505,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+08520,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+08535,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+08550,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,Bandit,5.0,4.0,1,True,True,3.0,3.0
+08565,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,2,False,False,0.0,0.0
+08580,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+08595,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,3,False,False,0.0,0.0
+08610,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,4,False,False,0.0,0.0
+08625,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Miner,66.0,Skeleton Barrel,91.0,4.0,4,True,True,2.0,3.0
+08640,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Miner,66.0,,,,2,False,False,0.0,0.0
+08655,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Miner,66.0,,,,2,False,False,0.0,0.0
+08670,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Miner,66.0,,,,3,False,False,0.0,0.0
+08685,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Miner,66.0,,,,3,False,False,0.0,0.0
+08700,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Miner,66.0,,,,4,False,False,0.0,0.0
+08715,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,Miner,66.0,4.0,1,True,True,3.0,3.0
+08730,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08745,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+08760,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08775,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08790,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+08805,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08820,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+08835,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08850,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+08865,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08880,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+08895,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+08910,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,8,False,False,0.0,0.0
+08925,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+08940,Bats,9.0,Mega Knight,63.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,9,False,False,0.0,0.0
+08955,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Mega Knight,63.0,2.0,3,True,True,6.0,7.0
+08970,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+08985,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09000,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09015,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,5,False,False,0.0,0.0
+09030,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+09045,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+09060,Bats,9.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,7,False,False,0.0,0.0
+09075,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bats,9.0,1.0,7,True,True,1.0,2.0
+09090,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+09105,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,6,False,False,0.0,0.0
+09120,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09135,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,Goblin Gang,42.0,4.0,4,True,True,3.0,3.0
+09150,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+09165,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,5,False,False,0.0,0.0
+09180,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Skeleton Barrel,91.0,,,,6,False,False,0.0,0.0
+09195,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Bandit,5.0,Skeleton Barrel,91.0,4.0,3,True,True,3.0,3.0
+09210,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,Bandit,5.0,4.0,4,True,False,0.0,3.0
+09225,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09240,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,5,False,False,0.0,0.0
+09255,Bandit,5.0,Zap,107.0,Skeleton Barrel,91.0,Miner,66.0,Inferno Dragon,56.0,3.0,3,True,True,2.0,4.0
+09270,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,Skeleton Barrel,91.0,3.0,3,True,False,0.0,3.0
+09285,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Miner,66.0,,,,4,False,False,0.0,0.0
+09300,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Bats,9.0,Miner,66.0,4.0,4,True,True,2.0,3.0
+09315,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Bats,9.0,,,,2,False,False,0.0,0.0
+09330,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Bats,9.0,,,,2,False,False,0.0,0.0
+09345,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Bats,9.0,,,,3,False,False,0.0,0.0
+09360,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bats,9.0,4.0,1,True,True,2.0,2.0
+09375,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09390,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09405,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,Zap,107.0,2.0,2,True,False,0.0,2.0
+09420,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09435,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09450,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09465,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09480,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09495,Bandit,5.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,Skeleton Barrel,91.0,2.0,1,True,True,3.0,3.0
+09510,Bandit,5.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09525,Bandit,5.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09540,Bandit,5.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09555,Bandit,5.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09570,Bandit,5.0,Bandit,5.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09585,Bandit,5.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bandit,5.0,2.0,4,True,True,2.0,3.0
+09600,Bandit,5.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09615,Bandit,5.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09630,Bandit,5.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09645,Bandit,5.0,Miner,66.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09660,Bandit,5.0,Bats,9.0,Inferno Dragon,56.0,Goblin Gang,42.0,Miner,66.0,2.0,1,True,True,3.0,3.0
+09675,Bandit,5.0,Bats,9.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09690,Bandit,5.0,Bats,9.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09705,Bandit,5.0,Bats,9.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09720,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,Bats,9.0,2.0,3,True,True,1.0,2.0
+09735,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09750,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09765,Bandit,5.0,Zap,107.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09780,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,Zap,107.0,2.0,3,True,True,1.0,2.0
+09795,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09810,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,2,False,False,0.0,0.0
+09825,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,3,False,False,0.0,0.0
+09840,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09855,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09870,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09885,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09900,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09915,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09930,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0
+09945,Bandit,5.0,Skeleton Barrel,91.0,Inferno Dragon,56.0,Goblin Gang,42.0,,,,4,False,False,0.0,0.0

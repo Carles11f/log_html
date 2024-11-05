@@ -1,0 +1,476 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,0,predicted_elixirConsumed
+00930,Bomber,13.0,,,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+00945,Bomber,13.0,,,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+00960,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+00975,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,,,
+00990,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+01005,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+01020,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01035,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01050,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01065,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,10,False,False,,,
+01080,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,10,False,False,,,
+01095,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,10,False,False,,,
+01110,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,10,True,False,,Cannon,3.0
+01125,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,True,,Cannon Cart,5.0
+01140,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01155,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01170,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01185,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01200,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01215,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+01230,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+01245,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+01260,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+01275,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+01290,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01305,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01320,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01335,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01350,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01365,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01380,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01395,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01410,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01425,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Bomber,13.0,1.0,10,True,False,,Bomber,2.0
+01440,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,10,False,False,,,
+01455,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,True,,,
+01470,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01485,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01500,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01515,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01530,Phoenix,77.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01545,Phoenix,77.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,9,True,False,,Cannon,3.0
+01560,Phoenix,77.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+01575,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,5,True,True,,Cannon Cart,5.0
+01590,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,5,True,False,,Cannon,3.0
+01605,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,5,True,False,,Cannon Cart,5.0
+01620,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+01635,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01650,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,6,True,False,,Cannon,3.0
+01665,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,False,,Cannon Cart,5.0
+01680,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+01695,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,6,True,False,,Cannon,3.0
+01710,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,7,True,False,,Cannon Cart,5.0
+01725,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01740,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01755,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01770,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01785,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,True,,,
+01800,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01815,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01830,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+01845,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+01860,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,8,True,False,,Cannon Cart,5.0
+01875,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01890,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01905,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01920,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+01935,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,9,True,False,,Cannon,3.0
+01950,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+01965,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,Cannon,15.0,3.0,7,True,True,,Cannon,3.0
+01980,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+01995,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02010,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02025,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02040,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02055,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02070,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02085,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02100,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02115,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02130,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,8,False,False,,,
+02145,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,,,
+02160,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,,,
+02175,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,,,
+02190,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,,,
+02205,Lightning,60.0,Electro Giant,22.0,Barbarian Barrel,6.0,Tornado,101.0,,,,9,False,False,,,
+02220,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,Barbarian Barrel,6.0,3.0,8,True,True,,Barbarian Barrel,2.0
+02235,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,8,False,False,,,
+02250,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,8,False,False,,,
+02265,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,8,False,False,,,
+02280,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,8,False,False,,,
+02295,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,8,False,False,,,
+02310,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,9,False,False,,,
+02325,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,9,False,False,,,
+02340,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,9,False,False,,,
+02355,Lightning,60.0,Electro Giant,22.0,Bomber,13.0,Tornado,101.0,,,,9,False,False,,,
+02370,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,Bomber,13.0,3.0,7,True,True,,Bomber,2.0
+02385,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02400,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02415,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02430,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02445,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02460,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02475,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02490,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02505,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02520,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02535,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02550,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02565,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,10,False,False,,,
+02580,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,6,False,True,,,
+02595,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,6,False,False,,,
+02610,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,6,False,False,,,
+02625,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,6,False,False,,,
+02640,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,6,False,False,,,
+02655,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,6,False,False,,,
+02670,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,7,False,False,,,
+02685,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,7,False,False,,,
+02700,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,7,False,False,,,
+02715,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,7,False,False,,,
+02730,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,7,False,False,,,
+02745,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02760,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02775,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02790,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02805,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02820,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,8,False,False,,,
+02835,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02850,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02865,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02880,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02895,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02910,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,9,False,False,,,
+02925,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,10,False,False,,,
+02940,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,10,False,False,,,
+02955,Lightning,60.0,Electro Giant,22.0,Phoenix,77.0,Tornado,101.0,,,,10,False,False,,,
+02970,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Phoenix,77.0,3.0,6,True,True,,Phoenix,4.0
+02985,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03000,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03015,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03030,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03045,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03060,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+03075,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03090,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+03105,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,8,True,False,,Cannon Cart,5.0
+03120,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03135,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03150,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03165,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03180,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03195,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03210,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03225,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,9,True,False,,Cannon,3.0
+03240,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+03255,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+03270,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,9,True,False,,Cannon,3.0
+03285,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+03300,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,10,True,False,,Cannon,3.0
+03315,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,3,False,True,,,
+03330,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,3,True,False,,Cannon Cart,5.0
+03345,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,3,True,False,,Cannon,3.0
+03360,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,3,True,False,,Cannon Cart,5.0
+03375,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+03390,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+03405,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+03420,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+03435,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+03450,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+03465,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+03480,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+03495,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+03510,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+03525,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+03540,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+03555,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,5,True,False,,Cannon,3.0
+03570,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,False,,Cannon Cart,5.0
+03585,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03600,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03615,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03630,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03645,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+03660,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+03675,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+03690,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,7,True,False,,Cannon,3.0
+03705,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+03720,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+03735,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,,,
+03750,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,,,
+03765,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,8,True,False,,Cannon Cart,5.0
+03780,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03795,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+03810,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,,,
+03825,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+03840,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+03855,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+03870,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+03885,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,10,True,False,,Barbarian Barrel,2.0
+03900,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,10,False,False,,,
+03915,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,8,False,True,,,
+03930,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+03945,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Bomber,13.0,2.0,6,True,True,,Bomber,2.0
+03960,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03975,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+03990,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+04005,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+04020,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,7,True,False,,Cannon,3.0
+04035,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,7,True,False,,Cannon Cart,5.0
+04050,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+04065,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+04080,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,8,True,False,,Cannon Cart,5.0
+04095,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+04110,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+04125,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,8,True,False,,Cannon Cart,5.0
+04140,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+04155,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+04170,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+04185,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,True,,,
+04200,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+04215,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+04230,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+04245,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+04260,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+04275,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+04290,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+04305,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+04320,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+04335,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+04350,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,,,,8,False,False,,,
+04365,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,True,,,
+04380,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04395,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04410,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,,,,6,False,False,,,
+04425,Lightning,60.0,Phoenix,77.0,Electro Giant,22.0,Tornado,101.0,,,,6,False,False,,,
+04440,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,Phoenix,77.0,2.0,2,True,True,,Phoenix,4.0
+04455,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,3,False,False,,,
+04470,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,3,False,False,,,
+04485,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,3,False,False,,,
+04500,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,4,False,False,,,
+04515,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,4,False,False,,,
+04530,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04545,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04560,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04575,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04590,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04605,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,5,False,False,,,
+04620,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,6,False,False,,,
+04635,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,6,False,False,,,
+04650,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,6,False,False,,,
+04665,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,7,False,False,,,
+04680,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,7,False,False,,,
+04695,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,7,False,False,,,
+04710,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,8,False,False,,,
+04725,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,8,False,False,,,
+04740,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,9,False,False,,,
+04755,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,9,False,False,,,
+04770,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,9,False,False,,,
+04785,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,10,False,False,,,
+04800,Lightning,60.0,Barbarian Barrel,6.0,Electro Giant,22.0,Tornado,101.0,,,,10,False,False,,,
+04815,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,Electro Giant,22.0,3.0,3,True,True,,Electro Giant,7.0
+04830,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,3,False,False,,,
+04845,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,3,False,False,,,
+04860,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,4,False,False,,,
+04875,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,4,False,False,,,
+04890,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,4,False,False,,,
+04905,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,5,False,False,,,
+04920,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,5,False,False,,,
+04935,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,5,False,False,,,
+04950,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,6,False,False,,,
+04965,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,6,False,False,,,
+04980,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,6,False,False,,,
+04995,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,7,False,False,,,
+05010,Lightning,60.0,Barbarian Barrel,6.0,Bomber,13.0,Tornado,101.0,,,,7,False,False,,,
+05025,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Bomber,13.0,3.0,6,True,True,,Bomber,2.0
+05040,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,False,,Cannon Cart,5.0
+05055,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+05070,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05085,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05100,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05115,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,6,True,True,,Barbarian Barrel,2.0
+05130,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,6,True,False,,Cannon,3.0
+05145,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,False,,Cannon Cart,5.0
+05160,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,3,False,True,,,
+05175,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,3,True,False,,Cannon,3.0
+05190,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Phoenix,77.0,2.0,3,True,False,,Phoenix,4.0
+05205,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,4,True,False,,Cannon Cart,5.0
+05220,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,4,True,False,,Cannon,3.0
+05235,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,5,True,False,,Cannon Cart,5.0
+05250,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05265,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,5,True,False,,Cannon,3.0
+05280,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,2,True,True,,Cannon Cart,5.0
+05295,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+05310,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+05325,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05340,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05355,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,2,True,True,,Cannon,3.0
+05370,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,3,True,False,,Cannon Cart,5.0
+05385,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05400,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05415,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+05430,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+05445,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05460,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05475,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05490,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+05505,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+05520,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Lightning,60.0,1.0,7,True,False,,Lightning,6.0
+05535,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05550,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05565,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05580,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,2,False,True,,,
+05595,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+05610,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+05625,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05640,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05655,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+05670,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+05685,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+05700,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05715,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05730,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+05745,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+05760,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+05775,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+05790,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05805,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05820,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+05835,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+05850,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+05865,Bomber,13.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+05880,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,9,True,False,,Cannon,3.0
+05895,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+05910,Bomber,13.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,10,False,False,,,
+05925,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,3,True,True,,Cannon Cart,5.0
+05940,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05955,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+05970,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+05985,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+06000,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06015,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06030,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06045,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06060,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06075,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06090,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06105,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06120,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06135,Bomber,13.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+06150,Phoenix,77.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Bomber,13.0,1.0,6,True,True,,Bomber,2.0
+06165,Phoenix,77.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06180,Phoenix,77.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06195,Phoenix,77.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06210,Phoenix,77.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+06225,Phoenix,77.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+06240,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Phoenix,77.0,1.0,4,True,True,,Phoenix,4.0
+06255,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06270,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06285,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06300,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06315,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,2,False,True,,,
+06330,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+06345,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06360,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06375,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,3,True,False,,Cannon,3.0
+06390,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,,,
+06405,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,4,True,False,,Cannon Cart,5.0
+06420,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Barbarian Barrel,6.0,2.0,2,True,True,,Barbarian Barrel,2.0
+06435,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06450,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06465,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+06480,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+06495,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+06510,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06525,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06540,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06555,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06570,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,5,True,False,,Cannon,3.0
+06585,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,,,
+06600,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,False,,Cannon Cart,5.0
+06615,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06630,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06645,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06660,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+06675,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+06690,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+06705,Lightning,60.0,Electro Giant,22.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+06720,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,Electro Giant,22.0,2.0,2,True,True,,Electro Giant,7.0
+06735,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+06750,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+06765,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06780,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06795,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Bomber,13.0,2.0,1,True,True,,Bomber,2.0
+06810,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+06825,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+06840,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+06855,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+06870,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,3,True,False,,Cannon,3.0
+06885,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,4,True,False,,Cannon Cart,5.0
+06900,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+06915,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+06930,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06945,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06960,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+06975,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+06990,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+07005,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,6,True,False,,Cannon,3.0
+07020,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,7,True,False,,Cannon Cart,5.0
+07035,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+07050,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+07065,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+07080,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,8,False,False,,,
+07095,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,9,False,False,,,
+07110,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,9,True,False,,Cannon,3.0
+07125,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,9,True,False,,Cannon Cart,5.0
+07140,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Phoenix,77.0,2.0,6,True,True,,Phoenix,4.0
+07155,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+07170,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+07185,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+07200,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,7,True,False,,Cannon,3.0
+07215,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,7,True,False,,Cannon Cart,5.0
+07230,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+07245,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,8,True,False,,Cannon Cart,5.0
+07260,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,8,True,False,,Cannon,3.0
+07275,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+07290,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,9,False,False,,,
+07305,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,True,,,
+07320,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,,,
+07335,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,,,
+07350,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+07365,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+07380,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+07395,Lightning,60.0,Barbarian Barrel,6.0,Cannon Cart,16.0,Tornado,101.0,,,,8,False,False,,,
+07410,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,7,True,True,,Cannon Cart,5.0
+07425,Lightning,60.0,Barbarian Barrel,6.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+07440,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,6,True,True,,Cannon,3.0
+07455,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,,,
+07470,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,6,False,False,,,
+07485,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+07500,Lightning,60.0,Electro Giant,22.0,Cannon Cart,16.0,Tornado,101.0,,,,7,False,False,,,
+07515,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,7,True,False,,Cannon Cart,5.0
+07530,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+07545,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,7,False,False,,,
+07560,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,2,False,True,,,
+07575,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+07590,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+07605,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+07620,Lightning,60.0,Bomber,13.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+07635,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Bomber,13.0,2.0,3,True,False,,Bomber,2.0
+07650,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,True,,,
+07665,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+07680,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+07695,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+07710,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,3,True,False,,Cannon,3.0
+07725,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,,,
+07740,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,,,
+07755,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,,,,4,False,False,,,
+07770,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,5,True,False,,Cannon Cart,5.0
+07785,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,Cannon,15.0,3.0,5,True,False,,Cannon,3.0
+07800,Lightning,60.0,Phoenix,77.0,Cannon Cart,16.0,Tornado,101.0,,,,5,False,False,,,
+07815,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Cannon Cart,16.0,3.0,6,True,False,,Cannon Cart,5.0
+07830,Lightning,60.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,6,False,False,,,
+07845,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,Lightning,60.0,1.0,0,True,True,,Lightning,6.0
+07860,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,1,False,False,,,
+07875,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,1,False,False,,,
+07890,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,1,False,False,,,
+07905,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+07920,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,2,False,False,,,
+07935,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+07950,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,3,False,False,,,
+07965,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+07980,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,4,False,False,,,
+07995,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+08010,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+08025,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
+08040,Barbarian Barrel,6.0,Phoenix,77.0,Cannon,15.0,Tornado,101.0,,,,5,False,False,,,
