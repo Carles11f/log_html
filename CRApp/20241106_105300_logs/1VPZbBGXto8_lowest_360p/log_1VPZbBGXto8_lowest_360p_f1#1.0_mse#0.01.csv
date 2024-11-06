@@ -1,0 +1,353 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00225,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00240,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00255,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00270,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00285,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00300,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00315,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00330,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00345,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00360,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00375,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00390,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00405,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00420,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00435,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00450,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00465,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00480,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00495,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00510,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00525,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00540,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00555,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00570,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00585,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00600,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00615,Hunter,52.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00630,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,Hunter,52.0,1.0,6,True,True,4.0,4.0
+00645,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00660,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00675,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00690,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,6,False,False,0.0,0.0
+00705,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00720,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00735,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00750,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00765,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00780,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+00795,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00810,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00825,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00840,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00855,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+00870,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00885,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00900,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00915,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00930,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00945,Fisherman,32.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+00960,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,Fisherman,32.0,1.0,10,True,True,3.0,3.0
+00975,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+00990,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+01005,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+01020,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+01035,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,7,False,False,0.0,0.0
+01050,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+01065,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+01080,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+01095,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+01110,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,8,False,False,0.0,0.0
+01125,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01140,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01155,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01170,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01185,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01200,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,9,False,False,0.0,0.0
+01215,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,Barbarian Barrel,6.0,,,,10,False,False,0.0,0.0
+01230,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,Barbarian Barrel,6.0,4.0,8,True,True,2.0,2.0
+01245,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01260,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01275,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01290,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01305,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01320,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01335,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01350,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01365,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01380,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01395,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01410,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01425,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01440,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01455,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01470,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01485,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01500,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01515,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01530,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01545,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01560,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01575,Electro Wizard,24.0,Dark Prince,18.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01590,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,Dark Prince,18.0,2.0,6,True,True,4.0,4.0
+01605,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01620,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01635,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01650,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01665,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+01680,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+01695,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+01710,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+01725,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+01740,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+01755,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01770,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01785,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01800,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01815,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+01830,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01845,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01860,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01875,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01890,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01905,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+01920,Electro Wizard,24.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+01935,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,Fireball,30.0,3.0,6,True,True,4.0,4.0
+01950,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01965,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01980,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+01995,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+02010,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02025,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02040,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02055,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02070,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02085,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02100,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+02115,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+02130,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+02145,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+02160,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+02175,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+02190,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+02205,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+02220,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+02235,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+02250,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+02265,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+02280,Electro Wizard,24.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+02295,Electro Wizard,24.0,Ram Rider,82.0,Fisherman,32.0,P.E.K.K.A,76.0,Hunter,52.0,3.0,6,True,True,4.0,4.0
+02310,Electro Wizard,24.0,Ram Rider,82.0,Fisherman,32.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+02325,Electro Wizard,24.0,Ram Rider,82.0,Fisherman,32.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+02340,Electro Wizard,24.0,Ram Rider,82.0,Fisherman,32.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+02355,Electro Wizard,24.0,Ram Rider,82.0,Fisherman,32.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+02370,Electro Wizard,24.0,Ram Rider,82.0,Fisherman,32.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+02385,Electro Wizard,24.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,Fisherman,32.0,3.0,4,True,True,3.0,3.0
+02400,Electro Wizard,24.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02415,Electro Wizard,24.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02430,Electro Wizard,24.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02445,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,Electro Wizard,24.0,1.0,0,True,True,4.0,4.0
+02460,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02475,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02490,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02505,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02520,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02535,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02550,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02565,Dark Prince,18.0,Ram Rider,82.0,Barbarian Barrel,6.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02580,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,Barbarian Barrel,6.0,3.0,0,True,True,2.0,2.0
+02595,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,0,False,False,0.0,0.0
+02610,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,0,False,False,0.0,0.0
+02625,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02640,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02655,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02670,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02685,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02700,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+02715,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02730,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02745,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02760,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02775,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+02790,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+02805,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+02820,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+02835,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+02850,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+02865,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+02880,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02895,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02910,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02925,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02940,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+02955,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+02970,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+02985,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+03000,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+03015,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+03030,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+03045,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+03060,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+03075,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+03090,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+03105,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+03120,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+03135,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+03150,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+03165,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+03180,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+03195,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+03210,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+03225,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+03240,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+03255,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+03270,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+03285,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+03300,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+03315,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+03330,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+03345,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+03360,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+03375,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+03390,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,P.E.K.K.A,76.0,4.0,3,True,True,7.0,7.0
+03405,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03420,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03435,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03450,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03465,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,3,False,False,0.0,0.0
+03480,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03495,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03510,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03525,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03540,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,4,False,False,0.0,0.0
+03555,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03570,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03585,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03600,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03615,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03630,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Hunter,52.0,,,,5,False,False,0.0,0.0
+03645,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,Hunter,52.0,4.0,2,True,True,3.0,4.0
+03660,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03675,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03690,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03705,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03720,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+03735,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03750,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03765,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03780,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03795,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03810,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03825,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03840,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03855,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+03870,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+03885,Dark Prince,18.0,Ram Rider,82.0,Fireball,30.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+03900,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,Fireball,30.0,3.0,3,True,True,3.0,4.0
+03915,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03930,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+03945,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03960,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+03975,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+03990,Dark Prince,18.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04005,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,Dark Prince,18.0,1.0,1,True,True,4.0,4.0
+04020,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+04035,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+04050,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+04065,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04080,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04095,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04110,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,Fisherman,32.0,4.0,1,True,True,2.0,3.0
+04125,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+04140,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+04155,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+04170,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+04185,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+04200,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+04215,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+04230,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+04245,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+04260,Barbarian Barrel,6.0,Ram Rider,82.0,Electro Wizard,24.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+04275,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,Electro Wizard,24.0,3.0,1,True,True,3.0,4.0
+04290,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+04305,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,1,False,False,0.0,0.0
+04320,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+04335,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+04350,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,2,False,False,0.0,0.0
+04365,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+04380,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,3,False,False,0.0,0.0
+04395,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+04410,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+04425,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,4,False,False,0.0,0.0
+04440,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+04455,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+04470,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,5,False,False,0.0,0.0
+04485,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+04500,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+04515,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,6,False,False,0.0,0.0
+04530,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+04545,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+04560,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,7,False,False,0.0,0.0
+04575,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+04590,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,8,False,False,0.0,0.0
+04605,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+04620,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+04635,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,9,False,False,0.0,0.0
+04650,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04665,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04680,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04695,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04710,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04725,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04740,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04755,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04770,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04785,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04800,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04815,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04830,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04845,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04860,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04875,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04890,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04905,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04920,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04935,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04950,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04965,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04980,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+04995,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05010,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05025,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05040,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05055,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05070,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05085,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05100,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05115,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05130,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05145,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05160,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05175,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05190,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05205,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05220,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05235,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05250,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05265,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05280,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05295,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05310,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05325,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05340,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05355,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05370,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05385,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05400,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05415,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05430,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05445,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05460,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05475,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
+05490,Barbarian Barrel,6.0,Ram Rider,82.0,Hunter,52.0,P.E.K.K.A,76.0,,,,10,False,False,0.0,0.0
