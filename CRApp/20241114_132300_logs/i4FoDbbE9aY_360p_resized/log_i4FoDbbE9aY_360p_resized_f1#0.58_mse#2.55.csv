@@ -1,0 +1,549 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00990,Mortar,71.0,Inferno Tower,57.0,Rascals,82.0,Giant,36.0,,,,8,False,False,0.0,0.0
+01005,Mortar,71.0,Inferno Tower,57.0,Rascals,82.0,,,,,,8,False,False,0.0,0.0
+01020,Mortar,71.0,Inferno Tower,57.0,Rascals,82.0,Giant,36.0,,,4.0,8,True,False,0.0,0.0
+01035,Mortar,71.0,Giant,36.0,Rascals,82.0,Giant,36.0,Inferno Tower,57.0,2.0,8,True,False,0.0,5.0
+01050,Mortar,71.0,Giant,36.0,Rascals,82.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01065,Mortar,71.0,Giant,36.0,Rascals,82.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01080,Mortar,71.0,Giant,36.0,Rascals,82.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01095,Mortar,71.0,Giant,36.0,Rascals,82.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01110,Mortar,71.0,Giant,36.0,Rascals,82.0,Giant,36.0,,,,9,False,False,0.0,0.0
+01125,Mortar,71.0,Giant,36.0,Rascals,82.0,Mortar,71.0,Giant,36.0,4.0,6,True,True,3.0,5.0
+01140,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,Giant,36.0,2.0,7,True,False,0.0,5.0
+01155,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+01170,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+01185,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+01200,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+01215,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01230,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01245,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01260,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01275,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01290,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01305,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+01320,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+01335,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+01350,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+01365,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+01380,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+01395,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+01410,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+01425,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Giant,36.0,Mortar,71.0,4.0,10,True,False,0.0,4.0
+01440,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,Giant,36.0,4.0,10,True,False,0.0,5.0
+01455,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+01470,Mortar,71.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+01485,Mortar,71.0,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Royal Recruits,88.0,2.0,8,True,True,2.0,7.0
+01500,Mortar,71.0,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+01515,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,Mortar,71.0,4.0,4,True,True,4.0,4.0
+01530,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01545,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01560,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01575,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01590,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01605,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01620,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01635,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+01650,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01665,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01680,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01695,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01710,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+01725,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01740,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01755,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01770,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01785,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01800,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+01815,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01830,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01845,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01860,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01875,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+01890,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01905,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01920,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+01935,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,True,5.0,0.0
+01950,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01965,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+01980,Inferno Tower,57.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,Giant Snowball,38.0,1.0,3,True,True,1.0,2.0
+01995,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,Inferno Tower,57.0,1.0,3,True,False,0.0,5.0
+02010,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02025,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02040,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02055,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02070,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02085,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02100,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02115,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02130,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02145,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,2,False,True,2.0,0.0
+02160,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02175,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02190,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02205,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02220,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+02235,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02250,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02265,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02280,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02295,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02310,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+02325,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02340,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02355,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02370,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02385,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02400,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02415,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02430,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02445,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02460,Giant,36.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Rascals,82.0,3.0,3,True,True,2.0,5.0
+02475,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,3.0,3,True,False,0.0,4.0
+02490,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02505,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02520,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02535,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02550,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02565,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+02580,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02595,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02610,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02625,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02640,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,5,False,False,0.0,0.0
+02655,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02670,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02685,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02700,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02715,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02730,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+02745,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02760,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02775,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02790,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02805,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+02820,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02835,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02850,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02865,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02880,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02895,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+02910,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02925,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02940,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+02955,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,Rascals,82.0,3.0,9,True,False,0.0,5.0
+02970,Giant,36.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,3.0,9,True,False,0.0,2.0
+02985,Giant,36.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03000,Giant,36.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03015,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,3.0,10,True,False,0.0,4.0
+03030,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,Rascals,82.0,3.0,6,True,True,4.0,5.0
+03045,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03060,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03075,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03090,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03105,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03120,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03135,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03150,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,Mortar,71.0,3.0,7,True,False,0.0,4.0
+03165,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03180,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03195,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03210,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03225,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,Giant Snowball,38.0,3.0,8,True,False,0.0,2.0
+03240,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,Skeleton Dragons,91.0,2.0,8,True,False,0.0,4.0
+03255,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03270,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03285,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03300,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03315,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03330,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,True,1.0,0.0
+03345,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03360,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03375,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03390,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03405,Giant,36.0,Giant Snowball,38.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03420,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,Giant Snowball,38.0,2.0,10,True,True,2.0,2.0
+03435,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03450,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03465,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03480,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03495,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,2.0,8,True,False,0.0,5.0
+03510,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03525,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03540,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03555,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03570,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03585,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03600,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+03615,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03630,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03645,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03660,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03675,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03690,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+03705,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,7,False,True,3.0,0.0
+03720,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03735,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03750,Giant,36.0,Royal Recruits,88.0,Mortar,71.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+03765,Giant,36.0,Giant,36.0,Mortar,71.0,Giant Snowball,38.0,Royal Recruits,88.0,2.0,6,True,True,2.0,7.0
+03780,Giant,36.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,Giant,36.0,2.0,6,True,False,0.0,5.0
+03795,Giant,36.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+03810,Giant,36.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+03825,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Mortar,71.0,Giant Snowball,38.0,Rascals,82.0,2.0,3,True,True,4.0,5.0
+03840,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,Skeleton Dragons,91.0,2.0,3,True,False,0.0,4.0
+03855,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+03870,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+03885,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,4,False,False,0.0,0.0
+03900,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03915,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,Giant Snowball,38.0,4.0,2,True,True,2.0,2.0
+03930,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+03945,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,Skeletons,93.0,4.0,2,True,False,0.0,1.0
+03960,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Giant Snowball,38.0,,,,2,False,False,0.0,0.0
+03975,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,Giant Snowball,38.0,4.0,3,True,False,0.0,2.0
+03990,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04005,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04020,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04035,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04050,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04065,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04080,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04095,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04110,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04125,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04140,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04155,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04170,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04185,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04200,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04215,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04230,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04245,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04260,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04275,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04290,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04305,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04320,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04335,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04350,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04365,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,Rascals,82.0,2.0,7,True,False,0.0,5.0
+04380,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04395,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+04410,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+04425,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+04440,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,9,False,False,0.0,0.0
+04455,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,9,False,False,0.0,0.0
+04470,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,9,False,False,0.0,0.0
+04485,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04500,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,Skeleton Dragons,91.0,1.0,6,True,True,3.0,4.0
+04515,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04530,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04545,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04560,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,6,False,True,1.0,0.0
+04575,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04590,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04605,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+04620,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,Royal Recruits,88.0,1.0,6,True,True,2.0,7.0
+04635,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,Giant,36.0,1.0,6,True,True,3.0,5.0
+04650,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04665,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04680,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04695,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04710,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04725,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04740,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04755,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+04770,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04785,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+04800,Giant Snowball,38.0,Inferno Tower,57.0,Rascals,82.0,Skeletons,93.0,Mortar,71.0,3.0,6,True,False,0.0,4.0
+04815,Giant Snowball,38.0,Inferno Tower,57.0,Rascals,82.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04830,Giant Snowball,38.0,Inferno Tower,57.0,Rascals,82.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04845,Giant Snowball,38.0,Inferno Tower,57.0,Rascals,82.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+04860,Giant Snowball,38.0,Inferno Tower,57.0,Rascals,82.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+04875,Giant Snowball,38.0,Skeletons,93.0,Rascals,82.0,Skeletons,93.0,Inferno Tower,57.0,2.0,3,True,True,5.0,5.0
+04890,Giant Snowball,38.0,Skeletons,93.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+04905,Giant Snowball,38.0,Skeletons,93.0,Rascals,82.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04920,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Skeletons,93.0,Skeletons,93.0,2.0,4,True,False,0.0,1.0
+04935,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04950,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+04965,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,Skeleton Dragons,91.0,2.0,4,True,True,2.0,4.0
+04980,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+04995,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+05010,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+05025,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+05040,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+05055,Giant Snowball,38.0,Royal Recruits,88.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+05070,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,Royal Recruits,88.0,2.0,2,True,True,1.0,7.0
+05085,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+05100,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+05115,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+05130,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+05145,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+05160,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+05175,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+05190,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+05205,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+05220,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+05235,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+05250,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+05265,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+05280,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeletons,93.0,4.0,7,True,False,0.0,1.0
+05295,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05310,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05325,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05340,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05355,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Skeleton Dragons,91.0,Giant Snowball,38.0,4.0,6,True,True,2.0,2.0
+05370,Giant Snowball,38.0,Giant,36.0,Rascals,82.0,Mortar,71.0,Skeleton Dragons,91.0,4.0,7,True,False,0.0,4.0
+05385,Giant Snowball,38.0,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,Rascals,82.0,3.0,7,True,False,0.0,5.0
+05400,Giant Snowball,38.0,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+05415,Giant Snowball,38.0,Giant,36.0,Skeleton Dragons,91.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+05430,Giant Snowball,38.0,Skeleton Dragons,91.0,Rascals,82.0,Mortar,71.0,Skeleton Dragons,91.0,3.0,8,True,False,0.0,4.0
+05445,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Rascals,82.0,3.0,5,True,True,3.0,5.0
+05460,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05475,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05490,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,2,False,True,3.0,0.0
+05505,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+05520,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,2,False,False,0.0,0.0
+05535,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+05550,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+05565,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+05580,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+05595,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+05610,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,Skeleton Dragons,91.0,2.0,5,True,True,1.0,4.0
+05625,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05640,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+05655,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05670,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05685,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+05700,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+05715,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,Mortar,71.0,4.0,6,True,False,0.0,4.0
+05730,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,6,False,False,0.0,0.0
+05745,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05760,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05775,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,7,False,False,0.0,0.0
+05790,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+05805,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,3,False,False,0.0,0.0
+05820,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,Giant Snowball,38.0,4.0,4,True,True,5.0,2.0
+05835,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+05850,Giant Snowball,38.0,Royal Recruits,88.0,Skeletons,93.0,Rascals,82.0,Skeletons,93.0,4.0,2,True,True,2.0,1.0
+05865,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,Skeletons,93.0,3.0,3,True,False,0.0,1.0
+05880,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+05895,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+05910,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+05925,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+05940,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+05955,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05970,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+05985,Giant Snowball,38.0,Royal Recruits,88.0,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,3.0,2,True,True,3.0,5.0
+06000,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,Royal Recruits,88.0,2.0,3,True,True,1.0,7.0
+06015,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06030,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+06045,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+06060,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+06075,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06090,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06105,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06120,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,Giant Snowball,38.0,1.0,2,True,True,1.0,2.0
+06135,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,Skeleton Dragons,91.0,1.0,2,True,False,0.0,4.0
+06150,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+06165,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06180,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06195,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06210,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06225,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,Royal Recruits,88.0,3.0,4,True,False,0.0,7.0
+06240,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+06255,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+06270,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+06285,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+06300,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+06315,Mortar,71.0,Skeleton Dragons,91.0,Mortar,71.0,Rascals,82.0,Giant,36.0,3.0,6,True,False,0.0,5.0
+06330,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,Mortar,71.0,3.0,3,True,True,3.0,4.0
+06345,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06360,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06375,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06390,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Skeleton Dragons,91.0,Rascals,82.0,4.0,4,True,False,0.0,5.0
+06405,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeleton Dragons,91.0,Royal Recruits,88.0,3.0,4,True,False,0.0,7.0
+06420,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,Skeleton Dragons,91.0,4.0,4,True,False,0.0,4.0
+06435,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,Rascals,82.0,4.0,5,True,False,0.0,5.0
+06450,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+06465,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+06480,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+06495,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+06510,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+06525,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+06540,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+06555,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+06570,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,Giant,36.0,3.0,4,True,True,4.0,5.0
+06585,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+06600,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+06615,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+06630,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+06645,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+06660,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+06675,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+06690,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+06705,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+06720,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+06735,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+06750,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+06765,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+06780,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,Skeletons,93.0,4.0,8,True,False,0.0,1.0
+06795,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,9,False,False,0.0,0.0
+06810,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,Giant Snowball,38.0,4.0,9,True,False,0.0,2.0
+06825,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,Skeletons,93.0,4.0,9,True,False,0.0,1.0
+06840,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+06855,Skeletons,93.0,Royal Recruits,88.0,Inferno Tower,57.0,Giant Snowball,38.0,Mortar,71.0,1.0,5,True,True,5.0,4.0
+06870,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,Giant Snowball,38.0,4.0,3,True,True,2.0,2.0
+06885,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+06900,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06915,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06930,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+06945,Giant Snowball,38.0,Royal Recruits,88.0,Inferno Tower,57.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+06960,Giant Snowball,38.0,Royal Recruits,88.0,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,3.0,2,True,True,3.0,5.0
+06975,Giant Snowball,38.0,Royal Recruits,88.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+06990,Giant Snowball,38.0,Giant,36.0,Royal Recruits,88.0,Rascals,82.0,Royal Recruits,88.0,2.0,1,True,True,1.0,7.0
+07005,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,Giant,36.0,2.0,1,True,False,0.0,5.0
+07020,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+07035,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+07050,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,2,False,False,0.0,0.0
+07065,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+07080,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+07095,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,3,False,False,0.0,0.0
+07110,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+07125,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+07140,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+07155,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,4.0,3,True,True,1.0,5.0
+07170,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,1.0,3,True,False,0.0,4.0
+07185,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,Skeleton Dragons,91.0,4.0,3,True,False,0.0,4.0
+07200,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+07215,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,4,False,False,0.0,0.0
+07230,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+07245,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+07260,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,5,False,False,0.0,0.0
+07275,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+07290,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+07305,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,6,False,False,0.0,0.0
+07320,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+07335,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,,,,7,False,False,0.0,0.0
+07350,Mortar,71.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Rascals,82.0,Giant,36.0,3.0,7,True,False,0.0,5.0
+07365,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeleton Dragons,91.0,Rascals,82.0,4.0,8,True,False,0.0,5.0
+07380,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+07395,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Rascals,82.0,Skeleton Dragons,91.0,4.0,8,True,False,0.0,4.0
+07410,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,Rascals,82.0,4.0,5,True,True,3.0,5.0
+07425,Mortar,71.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+07440,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,Giant,36.0,3.0,2,True,True,3.0,5.0
+07455,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+07470,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,1,False,True,1.0,0.0
+07485,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+07500,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+07515,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+07530,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07545,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07560,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07575,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+07590,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+07605,Mortar,71.0,Royal Recruits,88.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+07620,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,Royal Recruits,88.0,2.0,3,True,True,1.0,7.0
+07635,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07650,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+07665,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+07680,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+07695,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+07710,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+07725,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+07740,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+07755,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+07770,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+07785,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+07800,Mortar,71.0,Giant Snowball,38.0,Inferno Tower,57.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+07815,Mortar,71.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,Inferno Tower,57.0,3.0,7,True,False,0.0,5.0
+07830,Mortar,71.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+07845,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,Mortar,71.0,1.0,8,True,True,1.0,4.0
+07860,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+07875,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+07890,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+07905,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,2,False,True,5.0,0.0
+07920,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+07935,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,2,False,False,0.0,0.0
+07950,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07965,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07980,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,3,False,False,0.0,0.0
+07995,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+08010,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+08025,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+08040,Rascals,82.0,Giant Snowball,38.0,Giant,36.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+08055,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,Giant Snowball,38.0,2.0,4,True,True,1.0,2.0
+08070,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,4,False,False,0.0,0.0
+08085,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,5,False,False,0.0,0.0
+08100,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+08115,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,6,False,False,0.0,0.0
+08130,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+08145,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,7,False,False,0.0,0.0
+08160,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+08175,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,8,False,False,0.0,0.0
+08190,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Skeletons,93.0,,,,9,False,False,0.0,0.0
+08205,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeletons,93.0,4.0,9,True,False,0.0,1.0
+08220,Rascals,82.0,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,,,,10,False,False,0.0,0.0
+08235,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Rascals,82.0,1.0,6,True,True,4.0,5.0
+08250,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,4.0,5,True,True,1.0,2.0
+08265,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Mortar,71.0,Skeleton Dragons,91.0,4.0,5,True,False,0.0,4.0
+08280,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08295,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08310,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+08325,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,Mortar,71.0,,,,3,False,False,0.0,0.0
+08340,Royal Recruits,88.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Giant,36.0,3.0,4,True,True,0.0,5.0
+08355,Giant Snowball,38.0,Skeleton Dragons,91.0,Skeletons,93.0,Mortar,71.0,Inferno Tower,57.0,3.0,2,True,True,2.0,5.0
+08370,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Skeletons,93.0,3.0,3,True,False,0.0,1.0
+08385,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,Skeleton Dragons,91.0,2.0,3,True,False,0.0,4.0
+08400,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,4,False,False,0.0,0.0
+08415,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+08430,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,False,0.0,0.0
+08445,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08460,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,5,False,True,1.0,0.0
+08475,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08490,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08505,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08520,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Giant Snowball,38.0,Mortar,71.0,4.0,7,True,False,0.0,4.0
+08535,Giant Snowball,38.0,Rascals,82.0,Inferno Tower,57.0,Giant Snowball,38.0,,,,8,False,False,0.0,0.0
+08550,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,4.0,8,True,False,0.0,2.0
+08565,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+08580,Giant Snowball,38.0,Giant,36.0,Inferno Tower,57.0,Mortar,71.0,Skeleton Dragons,91.0,2.0,5,True,True,4.0,4.0
+08595,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Giant,36.0,2.0,6,True,False,0.0,5.0
+08610,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08625,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08640,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+08655,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+08670,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+08685,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+08700,Giant Snowball,38.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+08715,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,1.0,8,True,True,2.0,2.0
+08730,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+08745,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+08760,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Giant,36.0,1.0,9,True,False,0.0,5.0
+08775,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+08790,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+08805,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+08820,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,6,False,True,4.0,0.0
+08835,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,6,False,False,0.0,0.0
+08850,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08865,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08880,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,7,False,False,0.0,0.0
+08895,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,8,False,False,0.0,0.0
+08910,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,9,False,False,0.0,0.0
+08925,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Giant Snowball,38.0,Mortar,71.0,4.0,9,True,False,0.0,4.0
+08940,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,Giant Snowball,38.0,4.0,10,True,False,0.0,2.0
+08955,Royal Recruits,88.0,Giant Snowball,38.0,Inferno Tower,57.0,Mortar,71.0,,,,10,False,False,0.0,0.0
+08970,Royal Recruits,88.0,Giant,36.0,Inferno Tower,57.0,Skeleton Dragons,91.0,Mortar,71.0,4.0,3,True,True,7.0,4.0
+08985,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,Skeleton Dragons,91.0,Giant,36.0,2.0,3,True,False,0.0,5.0
+09000,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+09015,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+09030,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+09045,Royal Recruits,88.0,Rascals,82.0,Inferno Tower,57.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+09060,Royal Recruits,88.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,Inferno Tower,57.0,3.0,3,True,True,3.0,5.0
+09075,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,Royal Recruits,88.0,1.0,2,True,True,1.0,7.0
+09090,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09105,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+09120,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+09135,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,True,1.0,0.0
+09150,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09165,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+09180,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+09195,Giant,36.0,Rascals,82.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0

@@ -1,0 +1,598 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00975,Barbarians,108.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00990,Barbarians,108.0,Skeleton Dragons,91.0,,,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01005,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,3.0,8,True,False,0.0,0.0
+01020,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01035,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01050,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01065,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01080,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01095,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+01110,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+01125,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,7,True,True,0.0,4.0
+01140,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01155,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Barbarians,108.0,1.0,7,True,False,0.0,5.0
+01170,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01185,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,7,True,False,0.0,2.0
+01200,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01215,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01230,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01245,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01260,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01275,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+01290,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Inferno Tower,57.0,2.0,5,True,True,4.0,5.0
+01305,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Barbarians,108.0,1.0,5,True,False,0.0,5.0
+01320,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,5,True,False,0.0,4.0
+01335,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+01350,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Barbarians,108.0,1.0,5,True,False,0.0,5.0
+01365,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+01380,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+01395,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+01410,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,6,True,False,0.0,2.0
+01425,Barbarians,108.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+01440,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Inferno Tower,57.0,2.0,6,True,False,0.0,5.0
+01455,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01470,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01485,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01500,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01515,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01530,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01545,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,8,True,False,0.0,2.0
+01560,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01575,Barbarians,108.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01590,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Barbarians,108.0,1.0,8,True,False,0.0,5.0
+01605,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,8,True,False,0.0,4.0
+01620,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01635,Giant Snowball,38.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01650,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,7,True,True,2.0,2.0
+01665,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01680,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01695,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+01710,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01725,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01740,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01755,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01770,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01785,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+01800,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01815,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01830,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+01845,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Fireball,30.0,Royal Recruits,88.0,4.0,9,True,False,0.0,7.0
+01860,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Fireball,30.0,4.0,9,True,False,0.0,4.0
+01875,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,9,True,True,5.0,4.0
+01890,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,10,False,False,0.0,0.0
+01905,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+01920,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Inferno Tower,57.0,2.0,5,True,False,0.0,5.0
+01935,Giant,36.0,Inferno Tower,57.0,Archer Queen,1.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,5,True,False,0.0,4.0
+01950,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Inferno Tower,57.0,2.0,5,True,False,0.0,5.0
+01965,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+01980,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+01995,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+02010,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+02025,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+02040,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+02055,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+02070,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02085,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02100,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02115,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02130,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02145,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Archer Queen,1.0,3.0,8,True,False,0.0,5.0
+02160,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02175,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02190,Giant,36.0,Skeleton Dragons,91.0,Archer Queen,1.0,Royal Recruits,88.0,Giant,36.0,3.0,8,True,False,0.0,5.0
+02205,Giant,36.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,Archer Queen,1.0,3.0,4,True,True,4.0,5.0
+02220,Giant,36.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02235,Giant,36.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02250,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,7,True,False,0.0,4.0
+02265,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02280,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02295,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02310,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02325,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,True,5.0,0.0
+02340,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02355,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02370,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02385,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02400,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02415,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02430,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02445,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02460,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02475,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02490,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02505,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02520,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02535,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02550,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02565,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02580,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02595,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02610,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02625,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02640,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02655,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,True,5.0,0.0
+02670,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02685,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02700,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02715,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02730,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+02745,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02760,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02775,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02790,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02805,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+02820,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02835,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02850,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02865,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02880,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02895,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+02910,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02925,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02940,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02955,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02970,Giant,36.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+02985,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,Giant,36.0,1.0,5,True,False,0.0,5.0
+03000,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+03015,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+03030,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+03045,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+03060,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+03075,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+03090,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+03105,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,True,5.0,0.0
+03120,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+03135,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+03150,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+03165,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+03180,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+03195,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+03210,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+03225,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+03240,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+03255,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03270,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03285,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03300,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03315,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03330,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+03345,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+03360,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+03375,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,Royal Recruits,88.0,4.0,6,True,False,0.0,7.0
+03390,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03405,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03420,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+03435,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03450,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03465,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03480,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+03495,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,True,5.0,0.0
+03510,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03525,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03540,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03555,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03570,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03585,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03600,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03615,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03630,Archer Queen,1.0,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03645,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,Giant Snowball,38.0,2.0,3,True,True,1.0,2.0
+03660,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03675,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03690,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03705,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03720,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03735,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+03750,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03765,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03780,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03795,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03810,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03825,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+03840,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+03855,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,Fireball,30.0,4.0,4,True,False,0.0,4.0
+03870,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03885,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,Royal Recruits,88.0,4.0,4,True,False,0.0,7.0
+03900,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,Fireball,30.0,4.0,4,True,False,0.0,4.0
+03915,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+03930,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,Royal Recruits,88.0,4.0,5,True,False,0.0,7.0
+03945,Archer Queen,1.0,Skeleton Dragons,91.0,Inferno Tower,57.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+03960,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,Fireball,30.0,4.0,5,True,False,0.0,4.0
+03975,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+03990,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+04005,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,3,False,True,2.0,0.0
+04020,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04035,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04050,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04065,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04080,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04095,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04110,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04125,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04140,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04155,Archer Queen,1.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04170,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,Skeleton Dragons,91.0,3.0,5,True,False,0.0,4.0
+04185,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+04200,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+04215,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+04230,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,1,False,True,4.0,0.0
+04245,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,1,False,False,0.0,0.0
+04260,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04275,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04290,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04305,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04320,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04335,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04350,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04365,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04380,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04395,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04410,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04425,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04440,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04455,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+04470,Archer Queen,1.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+04485,Archer Queen,1.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,5,True,False,0.0,4.0
+04500,Archer Queen,1.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+04515,Archer Queen,1.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+04530,Archer Queen,1.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04545,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Archer Queen,1.0,1.0,7,True,False,0.0,5.0
+04560,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04575,Archer Queen,1.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Giant,36.0,1.0,8,True,False,0.0,5.0
+04590,Archer Queen,1.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+04605,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Archer Queen,1.0,1.0,8,True,False,0.0,5.0
+04620,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+04635,Giant,36.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+04650,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Giant,36.0,1.0,5,True,True,4.0,5.0
+04665,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+04680,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+04695,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,Inferno Tower,57.0,2.0,1,True,True,5.0,5.0
+04710,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04725,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04740,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04755,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04770,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04785,Giant Snowball,38.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04800,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,4,True,False,0.0,2.0
+04815,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,Skeleton Dragons,91.0,2.0,5,True,False,0.0,4.0
+04830,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Giant,36.0,2.0,5,True,False,0.0,5.0
+04845,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04860,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04875,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,True,5.0,0.0
+04890,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04905,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+04920,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04935,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+04950,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04965,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04980,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+04995,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+05010,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+05025,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+05040,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Fireball,30.0,Royal Recruits,88.0,4.0,6,True,False,0.0,7.0
+05055,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Fireball,30.0,4.0,6,True,False,0.0,4.0
+05070,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Fireball,30.0,Royal Recruits,88.0,4.0,6,True,False,0.0,7.0
+05085,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Fireball,30.0,4.0,7,True,False,0.0,4.0
+05100,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+05115,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Fireball,30.0,Royal Recruits,88.0,4.0,7,True,False,0.0,7.0
+05130,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,Fireball,30.0,4.0,8,True,False,0.0,4.0
+05145,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+05160,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05175,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,Inferno Tower,57.0,2.0,9,True,False,0.0,5.0
+05190,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,9,True,False,0.0,2.0
+05205,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Fireball,30.0,Royal Recruits,88.0,4.0,10,True,False,0.0,7.0
+05220,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Fireball,30.0,Giant Snowball,38.0,1.0,10,True,False,0.0,2.0
+05235,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,Fireball,30.0,4.0,10,True,False,0.0,4.0
+05250,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,10,False,False,0.0,0.0
+05265,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,10,False,False,0.0,0.0
+05280,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+05295,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+05310,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,Barbarians,108.0,1.0,9,True,True,0.0,5.0
+05325,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,Giant Snowball,38.0,1.0,9,True,True,3.0,2.0
+05340,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05355,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+05370,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+05385,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Fireball,30.0,Royal Recruits,88.0,4.0,6,True,False,0.0,7.0
+05400,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Fireball,30.0,Archer Queen,1.0,2.0,3,True,True,3.0,5.0
+05415,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05430,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05445,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05460,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05475,Barbarians,108.0,Skeleton Dragons,91.0,Giant,36.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05490,Barbarians,108.0,Giant,36.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,2.0,5,True,False,0.0,4.0
+05505,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,Fireball,30.0,4.0,7,True,True,5.0,4.0
+05520,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05535,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05550,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05565,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05580,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,3,True,False,0.0,2.0
+05595,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,3,True,False,0.0,5.0
+05610,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,4,True,False,0.0,2.0
+05625,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+05640,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+05655,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+05670,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+05685,Barbarians,108.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+05700,Giant Snowball,38.0,Giant,36.0,Giant,36.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,1,True,True,5.0,5.0
+05715,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,Giant,36.0,2.0,1,True,False,0.0,5.0
+05730,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05745,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05760,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,2,True,False,0.0,2.0
+05775,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05790,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05805,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05820,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,3,True,True,1.0,5.0
+05835,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05850,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05865,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05880,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+05895,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05910,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+05925,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,3,True,False,0.0,2.0
+05940,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+05955,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+05970,Barbarians,108.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+05985,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,1,True,True,3.0,5.0
+06000,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,1,False,False,0.0,0.0
+06015,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,1,False,False,0.0,0.0
+06030,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+06045,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+06060,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+06075,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+06090,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+06105,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+06120,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+06135,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+06150,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+06165,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+06180,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+06195,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06210,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06225,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06240,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06255,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06270,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06285,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06300,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06315,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,9,False,False,0.0,0.0
+06330,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,9,False,False,0.0,0.0
+06345,Giant Snowball,38.0,Archer Queen,1.0,Giant,36.0,Skeleton Dragons,91.0,,,,9,False,False,0.0,0.0
+06360,Giant Snowball,38.0,Archer Queen,1.0,Royal Recruits,88.0,Skeleton Dragons,91.0,Giant,36.0,3.0,5,True,True,4.0,5.0
+06375,Giant Snowball,38.0,Archer Queen,1.0,Fireball,30.0,Skeleton Dragons,91.0,Royal Recruits,88.0,3.0,5,True,False,0.0,7.0
+06390,Giant Snowball,38.0,Archer Queen,1.0,Fireball,30.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+06405,Barbarians,108.0,Archer Queen,1.0,Fireball,30.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,6,True,False,0.0,2.0
+06420,Barbarians,108.0,Archer Queen,1.0,Fireball,30.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06435,Barbarians,108.0,Archer Queen,1.0,Fireball,30.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06450,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,2.0,7,True,False,0.0,5.0
+06465,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06480,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06495,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06510,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06525,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,9,False,False,0.0,0.0
+06540,Giant Snowball,38.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,5,True,True,4.0,5.0
+06555,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,5,True,False,0.0,2.0
+06570,Giant Snowball,38.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,6,True,False,0.0,5.0
+06585,Giant Snowball,38.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06600,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,6,True,False,0.0,2.0
+06615,Giant Snowball,38.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,7,True,False,0.0,5.0
+06630,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,7,True,False,0.0,2.0
+06645,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06660,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06675,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06690,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06705,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,9,False,False,0.0,0.0
+06720,Barbarians,108.0,Giant,36.0,Fireball,30.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+06735,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Giant,36.0,2.0,5,True,True,5.0,5.0
+06750,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+06765,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+06780,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06795,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06810,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06825,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06840,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06855,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+06870,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06885,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,8,True,False,0.0,5.0
+06900,Giant Snowball,38.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+06915,Barbarians,108.0,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,9,True,False,0.0,2.0
+06930,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,Fireball,30.0,3.0,5,True,True,4.0,4.0
+06945,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06960,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06975,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+06990,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,True,3.0,0.0
+07005,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07020,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07035,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07050,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07065,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07080,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07095,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07110,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07125,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07140,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07155,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07170,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+07185,Giant Snowball,38.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,Barbarians,108.0,1.0,6,True,False,0.0,5.0
+07200,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,Giant Snowball,38.0,1.0,6,True,False,0.0,2.0
+07215,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+07230,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+07245,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+07260,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+07275,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+07290,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+07305,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,8,False,False,0.0,0.0
+07320,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Skeleton Dragons,91.0,,,,9,False,False,0.0,0.0
+07335,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,Skeleton Dragons,91.0,4.0,5,True,True,4.0,4.0
+07350,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+07365,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+07380,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+07395,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07410,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07425,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07440,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+07455,Barbarians,108.0,Inferno Tower,57.0,Giant,36.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+07470,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Inferno Tower,57.0,2.0,8,True,False,0.0,5.0
+07485,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+07500,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+07515,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,6,False,True,3.0,0.0
+07530,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07545,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07560,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Barbarians,108.0,1.0,8,True,False,0.0,5.0
+07575,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+07590,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+07605,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+07620,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Giant Snowball,38.0,1.0,9,True,False,0.0,2.0
+07635,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+07650,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Barbarians,108.0,1.0,10,True,False,0.0,5.0
+07665,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Giant Snowball,38.0,1.0,10,True,True,5.0,2.0
+07680,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+07695,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,5,False,False,0.0,0.0
+07710,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Barbarians,108.0,1.0,5,True,False,0.0,5.0
+07725,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Giant Snowball,38.0,1.0,5,True,False,0.0,2.0
+07740,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+07755,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+07770,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+07785,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07800,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07815,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+07830,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+07845,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,Archer Queen,1.0,4.0,8,True,False,0.0,5.0
+07860,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,9,False,False,0.0,0.0
+07875,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,9,False,False,0.0,0.0
+07890,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,9,False,False,0.0,0.0
+07905,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,10,False,False,0.0,0.0
+07920,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,Giant,36.0,4.0,6,True,True,4.0,5.0
+07935,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+07950,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,2,False,True,4.0,0.0
+07965,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+07980,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+07995,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+08010,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+08025,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+08040,Barbarians,108.0,Fireball,30.0,Giant,36.0,Skeleton Dragons,91.0,,,,7,False,False,0.0,0.0
+08055,Barbarians,108.0,Fireball,30.0,Giant,36.0,Inferno Tower,57.0,Skeleton Dragons,91.0,4.0,2,True,True,5.0,4.0
+08070,Barbarians,108.0,Fireball,30.0,Giant,36.0,Inferno Tower,57.0,,,,2,False,False,0.0,0.0
+08085,Barbarians,108.0,Fireball,30.0,Giant,36.0,Inferno Tower,57.0,,,,3,False,False,0.0,0.0
+08100,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,Inferno Tower,57.0,4.0,4,True,False,0.0,5.0
+08115,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,4,False,False,0.0,0.0
+08130,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,5,False,False,0.0,0.0
+08145,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,2,False,True,3.0,0.0
+08160,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,3,False,False,0.0,0.0
+08175,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,3,False,False,0.0,0.0
+08190,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,4,False,False,0.0,0.0
+08205,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Giant,36.0,Barbarians,108.0,1.0,4,True,False,0.0,5.0
+08220,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,Giant Snowball,38.0,1.0,5,True,False,0.0,2.0
+08235,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Giant,36.0,Barbarians,108.0,1.0,5,True,False,0.0,5.0
+08250,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08265,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08280,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,Giant Snowball,38.0,1.0,2,True,True,4.0,2.0
+08295,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Giant,36.0,4.0,2,True,False,0.0,5.0
+08310,Giant Snowball,38.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,3,False,False,0.0,0.0
+08325,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,Giant Snowball,38.0,1.0,4,True,False,0.0,2.0
+08340,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08355,Barbarians,108.0,Fireball,30.0,Giant,36.0,Archer Queen,1.0,,,,5,False,False,0.0,0.0
+08370,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,Archer Queen,1.0,4.0,5,True,False,0.0,5.0
+08385,Barbarians,108.0,Fireball,30.0,Giant,36.0,Giant,36.0,,,,6,False,False,0.0,0.0
+08400,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,Giant,36.0,4.0,1,True,True,5.0,5.0
+08415,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+08430,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+08445,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+08460,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+08475,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,Skeleton Dragons,91.0,4.0,4,True,False,0.0,4.0
+08490,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08505,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,5,False,False,0.0,0.0
+08520,Giant Snowball,38.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+08535,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,Giant Snowball,38.0,1.0,7,True,True,2.0,2.0
+08550,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+08565,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,5,False,False,0.0,0.0
+08580,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+08595,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,6,False,False,0.0,0.0
+08610,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+08625,Inferno Tower,57.0,Fireball,30.0,Skeleton Dragons,91.0,Archer Queen,1.0,,,,7,False,False,0.0,0.0
+08640,Inferno Tower,57.0,Fireball,30.0,Giant Snowball,38.0,Archer Queen,1.0,Skeleton Dragons,91.0,3.0,8,True,False,0.0,4.0
+08655,Inferno Tower,57.0,Fireball,30.0,Giant Snowball,38.0,Archer Queen,1.0,,,,8,False,False,0.0,0.0
+08670,Inferno Tower,57.0,Fireball,30.0,Giant Snowball,38.0,Archer Queen,1.0,,,,9,False,False,0.0,0.0
+08685,Inferno Tower,57.0,Fireball,30.0,Giant Snowball,38.0,Archer Queen,1.0,,,,10,False,False,0.0,0.0
+08700,Inferno Tower,57.0,Inferno Tower,57.0,Giant Snowball,38.0,Archer Queen,1.0,Fireball,30.0,2.0,6,True,True,4.0,4.0
+08715,Inferno Tower,57.0,Inferno Tower,57.0,Giant Snowball,38.0,Archer Queen,1.0,,,,3,False,True,3.0,0.0
+08730,Inferno Tower,57.0,Inferno Tower,57.0,Giant Snowball,38.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08745,Inferno Tower,57.0,Inferno Tower,57.0,Giant Snowball,38.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08760,Inferno Tower,57.0,Inferno Tower,57.0,Giant Snowball,38.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08775,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,Inferno Tower,57.0,2.0,4,True,False,0.0,5.0
+08790,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08805,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,4,False,False,0.0,0.0
+08820,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,2,False,True,2.0,0.0
+08835,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,3,False,False,0.0,0.0
+08850,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,3,False,False,0.0,0.0
+08865,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,3,False,False,0.0,0.0
+08880,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,3,False,False,0.0,0.0
+08895,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,3,False,False,0.0,0.0
+08910,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,5,False,False,0.0,0.0
+08925,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Archer Queen,1.0,,,,5,False,False,0.0,0.0
+08940,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,Archer Queen,1.0,4.0,2,True,True,3.0,5.0
+08955,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+08970,Inferno Tower,57.0,Giant,36.0,Barbarians,108.0,Royal Recruits,88.0,Skeleton Dragons,91.0,4.0,3,True,False,0.0,4.0
+08985,Inferno Tower,57.0,Giant,36.0,Barbarians,108.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+09000,Inferno Tower,57.0,Giant,36.0,Barbarians,108.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+09015,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,Barbarians,108.0,3.0,5,True,True,3.0,5.0
+09030,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+09045,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,,,,2,False,False,0.0,0.0
+09060,Inferno Tower,57.0,Giant,36.0,Barbarians,108.0,Royal Recruits,88.0,Giant Snowball,38.0,3.0,2,True,False,0.0,2.0
+09075,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,Barbarians,108.0,3.0,3,True,False,0.0,5.0
+09090,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+09105,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+09120,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+09135,Inferno Tower,57.0,Giant,36.0,Giant Snowball,38.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+09150,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,Giant Snowball,38.0,3.0,3,True,True,2.0,2.0
+09165,Inferno Tower,57.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,Skeleton Dragons,91.0,1.0,4,True,False,0.0,4.0
+09180,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,Inferno Tower,57.0,1.0,5,True,False,0.0,5.0
+09195,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+09210,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09225,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09240,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,True,3.0,0.0
+09255,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,3,False,False,0.0,0.0
+09270,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+09285,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,4,False,False,0.0,0.0
+09300,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Fireball,30.0,Royal Recruits,88.0,4.0,5,True,False,0.0,7.0
+09315,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,Fireball,30.0,4.0,5,True,False,0.0,4.0
+09330,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09345,Skeleton Dragons,91.0,Giant,36.0,Inferno Tower,57.0,Fireball,30.0,Royal Recruits,88.0,4.0,6,True,False,0.0,7.0
+09360,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Fireball,30.0,Inferno Tower,57.0,3.0,4,True,True,2.0,5.0
+09375,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,Fireball,30.0,4.0,5,True,False,0.0,4.0
+09390,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,5,False,False,0.0,0.0
+09405,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09420,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09435,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+09450,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+09465,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+09480,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+09495,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+09510,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+09525,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09540,Skeleton Dragons,91.0,Giant,36.0,Giant,36.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+09555,Skeleton Dragons,91.0,Giant,36.0,Archer Queen,1.0,Fireball,30.0,Royal Recruits,88.0,4.0,7,True,True,0.0,7.0
+09570,Skeleton Dragons,91.0,Giant,36.0,Archer Queen,1.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+09585,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Fireball,30.0,Archer Queen,1.0,3.0,4,True,True,5.0,5.0
+09600,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+09615,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+09630,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+09645,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,Fireball,30.0,4.0,2,True,True,3.0,4.0
+09660,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09675,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+09690,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,3,False,False,0.0,0.0
+09705,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,4,False,False,0.0,0.0
+09720,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+09735,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,5,False,False,0.0,0.0
+09750,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,6,False,False,0.0,0.0
+09765,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,1,False,True,5.0,0.0
+09780,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09795,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09810,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09825,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09840,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09855,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09870,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09885,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09900,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
+09915,Skeleton Dragons,91.0,Giant,36.0,Giant Snowball,38.0,Skeleton Dragons,91.0,,,,2,False,False,0.0,0.0
