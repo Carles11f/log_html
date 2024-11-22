@@ -1,0 +1,609 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,0,predicted_elixirConsumed
+00225,Guards,49.0,,,Rocket,83.0,Firecracker,31.0,,,,6,False,False,,,
+00240,,,,,Rocket,83.0,Firecracker,31.0,,,,6,False,False,,,
+00255,Guards,49.0,Knight,58.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,6,True,False,,Rocket,6.0
+00270,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,6,True,False,,Knight,3.0
+00285,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+00300,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+00315,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+00330,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,7,True,False,,Rocket,6.0
+00345,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,,,
+00360,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,,,
+00375,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00390,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00405,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00420,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00435,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00450,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00465,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00480,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00495,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00510,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00525,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+00540,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,10,True,False,,Rocket,6.0
+00555,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,10,True,False,,Knight,3.0
+00570,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,10,False,False,,,
+00585,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,10,False,False,,,
+00600,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,10,False,False,,,
+00615,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Firecracker,31.0,,,,10,False,False,,,
+00630,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Heal Spirit,50.0,2.0,8,True,True,,Heal Spirit,1.0
+00645,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,8,True,False,,Rocket,6.0
+00660,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00675,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00690,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+00705,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00720,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00735,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+00750,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+00765,Guards,49.0,Guards,49.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,9,True,False,,Rocket,6.0
+00780,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,Firecracker,31.0,4.0,6,True,True,,Firecracker,3.0
+00795,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+00810,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+00825,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+00840,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+00855,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+00870,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+00885,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+00900,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+00915,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+00930,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+00945,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+00960,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+00975,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+00990,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01005,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01020,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,True,,,
+01035,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01050,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01065,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01080,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01095,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01110,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01125,Guards,49.0,Guards,49.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01140,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Fireball,30.0,Guards,49.0,2.0,9,True,False,,Guards,3.0
+01155,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01170,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01185,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01200,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+01215,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Fireball,30.0,,,,10,False,False,,,
+01230,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,6,True,True,,Rocket,6.0
+01245,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,6,True,False,,Knight,3.0
+01260,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,6,True,False,,Rocket,6.0
+01275,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,6,True,False,,Knight,3.0
+01290,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+01305,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+01320,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+01335,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+01350,Guards,49.0,Rocket,83.0,Rocket,83.0,Fireball,30.0,Heal Spirit,50.0,2.0,7,True,False,,Heal Spirit,1.0
+01365,Guards,49.0,Rocket,83.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+01380,Guards,49.0,Rocket,83.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+01395,Guards,49.0,Rocket,83.0,Rocket,83.0,Fireball,30.0,,,,8,False,False,,,
+01410,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,Rocket,83.0,2.0,8,True,False,,Rocket,6.0
+01425,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,8,False,False,,,
+01440,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,8,False,False,,,
+01455,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,8,True,False,,Rocket,6.0
+01470,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,8,True,False,,Knight,3.0
+01485,Guards,49.0,Heal Spirit,50.0,Rocket,83.0,Fireball,30.0,,,,9,False,False,,,
+01500,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,Heal Spirit,50.0,2.0,10,True,False,,Heal Spirit,1.0
+01515,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,10,False,False,,,
+01530,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,10,False,False,,,
+01545,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,10,False,False,,,
+01560,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,10,False,False,,,
+01575,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,8,False,True,,,
+01590,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,8,False,False,,,
+01605,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,8,False,False,,,
+01620,Guards,49.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,8,True,False,,Rocket,6.0
+01635,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,8,True,False,,Knight,3.0
+01650,Guards,49.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,9,True,False,,Rocket,6.0
+01665,Guards,49.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,9,False,False,,,
+01680,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+01695,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,9,False,False,,,
+01710,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,True,,,
+01725,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+01740,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+01755,Electro Giant,22.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,Guards,49.0,1.0,7,True,False,,Guards,3.0
+01770,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,7,True,False,,Rocket,6.0
+01785,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+01800,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,7,False,False,,,
+01815,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01830,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01845,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01860,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01875,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01890,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,8,False,False,,,
+01905,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+01920,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,9,False,False,,,
+01935,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,3,False,True,,,
+01950,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,3,False,False,,,
+01965,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,3,False,False,,,
+01980,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,,,
+01995,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,,,
+02010,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,,,
+02025,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,,,
+02040,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,,,
+02055,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,,,
+02070,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,5,False,False,,,
+02085,Guards,49.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,Rocket,83.0,3.0,5,True,False,,Rocket,6.0
+02100,Guards,49.0,Firecracker,31.0,Knight,58.0,Fireball,30.0,,,,5,False,False,,,
+02115,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,Knight,58.0,3.0,5,True,False,,Knight,3.0
+02130,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,5,False,False,,,
+02145,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+02160,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+02175,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+02190,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+02205,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+02220,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,,,
+02235,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+02250,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+02265,Guards,49.0,Firecracker,31.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,,,
+02280,Guards,49.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,3.0,4,True,True,,Rocket,6.0
+02295,Guards,49.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02310,Guards,49.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02325,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,Guards,49.0,1.0,4,True,False,,Guards,3.0
+02340,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Fireball,30.0,Three Musketeers,98.0,3.0,3,True,True,,Three Musketeers,9.0
+02355,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Fireball,30.0,,,,3,False,False,,,
+02370,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Fireball,30.0,,,,3,False,False,,,
+02385,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Fireball,30.0,,,,3,False,False,,,
+02400,Heal Spirit,50.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,3.0,4,True,False,,Firecracker,3.0
+02415,Heal Spirit,50.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02430,Heal Spirit,50.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02445,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,2.0,1,True,True,,Firecracker,3.0
+02460,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,1,False,False,,,
+02475,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,1,False,False,,,
+02490,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,2,False,False,,,
+02505,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,2,False,False,,,
+02520,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,1.0,2,True,False,,Rocket,6.0
+02535,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,Heal Spirit,50.0,1.0,2,True,False,,Heal Spirit,1.0
+02550,Rocket,83.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,2,False,False,,,
+02565,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,1.0,2,True,False,,Rocket,6.0
+02580,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,3,False,False,,,
+02595,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,3,False,False,,,
+02610,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,3,False,False,,,
+02625,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,3,False,False,,,
+02640,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,3,False,False,,,
+02655,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02670,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02685,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02700,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02715,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02730,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+02745,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+02760,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+02775,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+02790,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+02805,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+02820,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+02835,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+02850,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+02865,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+02880,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+02895,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+02910,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+02925,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+02940,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+02955,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+02970,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+02985,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+03000,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+03015,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+03030,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+03045,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+03060,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+03075,Heal Spirit,50.0,Electro Giant,22.0,Three Musketeers,98.0,Fireball,30.0,,,,9,False,False,,,
+03090,Heal Spirit,50.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Electro Giant,22.0,2.0,9,True,False,,Electro Giant,7.0
+03105,Heal Spirit,50.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,9,False,False,,,
+03120,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,Guards,49.0,2.0,3,True,True,,Guards,3.0
+03135,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,2.0,3,True,False,,Knight,3.0
+03150,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,2.0,3,True,False,,Rocket,6.0
+03165,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+03180,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+03195,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+03210,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,2.0,4,True,False,,Knight,3.0
+03225,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,4,False,False,,,
+03240,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+03255,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+03270,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+03285,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+03300,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+03315,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+03330,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+03345,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+03360,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,2.0,6,True,False,,Rocket,6.0
+03375,Heal Spirit,50.0,Rocket,83.0,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,2.0,6,True,False,,Knight,3.0
+03390,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,2.0,6,True,False,,Rocket,6.0
+03405,Rocket,83.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,Heal Spirit,50.0,1.0,6,True,False,,Heal Spirit,1.0
+03420,Rocket,83.0,Knight,58.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+03435,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,Fireball,30.0,4.0,3,True,True,,Fireball,4.0
+03450,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,Heal Spirit,50.0,1.0,1,True,True,,Heal Spirit,1.0
+03465,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,1,False,False,,,
+03480,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,1,False,False,,,
+03495,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03510,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03525,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03540,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03555,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03570,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03585,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,3,False,False,,,
+03600,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,3,False,False,,,
+03615,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,Guards,49.0,,,,3,False,False,,,
+03630,Three Musketeers,98.0,Rocket,83.0,Three Musketeers,98.0,Guards,49.0,Knight,58.0,2.0,3,True,False,,Knight,3.0
+03645,Three Musketeers,98.0,Rocket,83.0,Three Musketeers,98.0,Guards,49.0,,,,3,False,False,,,
+03660,Three Musketeers,98.0,Rocket,83.0,Three Musketeers,98.0,Guards,49.0,,,,4,False,False,,,
+03675,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,2.0,1,True,True,,Rocket,6.0
+03690,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,1,False,False,,,
+03705,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,1,False,False,,,
+03720,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,1,False,False,,,
+03735,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,1,False,False,,,
+03750,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03765,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03780,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03795,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,2,False,False,,,
+03810,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,3,False,False,,,
+03825,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,3,False,False,,,
+03840,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,4,False,False,,,
+03855,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,4,False,False,,,
+03870,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,5,False,False,,,
+03885,Three Musketeers,98.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,5,False,False,,,
+03900,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,Three Musketeers,98.0,1.0,5,True,False,,Three Musketeers,9.0
+03915,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,6,False,False,,,
+03930,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,6,False,False,,,
+03945,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,6,False,False,,,
+03960,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,,,,7,False,False,,,
+03975,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Guards,49.0,Three Musketeers,98.0,3.0,8,True,False,,Three Musketeers,9.0
+03990,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Guards,49.0,,,,8,False,False,,,
+04005,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Guards,49.0,Firecracker,31.0,3.0,8,True,False,,Firecracker,3.0
+04020,Rocket,83.0,Firecracker,31.0,Guards,49.0,Guards,49.0,Three Musketeers,98.0,3.0,4,True,True,,Three Musketeers,9.0
+04035,Rocket,83.0,Firecracker,31.0,Guards,49.0,Fireball,30.0,Guards,49.0,4.0,3,True,True,,Guards,3.0
+04050,Rocket,83.0,Firecracker,31.0,Guards,49.0,Fireball,30.0,,,,4,False,False,,,
+04065,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,Firecracker,31.0,2.0,1,True,True,,Firecracker,3.0
+04080,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,2,False,False,,,
+04095,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,2,False,False,,,
+04110,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,2,False,False,,,
+04125,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,3,False,False,,,
+04140,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,3,False,False,,,
+04155,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,3,False,False,,,
+04170,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,4,False,False,,,
+04185,Rocket,83.0,Rocket,83.0,Guards,49.0,Fireball,30.0,Heal Spirit,50.0,2.0,4,True,False,,Heal Spirit,1.0
+04200,Rocket,83.0,Rocket,83.0,Guards,49.0,Fireball,30.0,,,,3,False,True,,,
+04215,Rocket,83.0,Rocket,83.0,Guards,49.0,Fireball,30.0,,,,4,False,False,,,
+04230,Knight,58.0,Rocket,83.0,Guards,49.0,Fireball,30.0,Rocket,83.0,1.0,4,True,False,,Rocket,6.0
+04245,Rocket,83.0,Rocket,83.0,Guards,49.0,Fireball,30.0,Knight,58.0,1.0,4,True,False,,Knight,3.0
+04260,Knight,58.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,Rocket,83.0,2.0,5,True,False,,Rocket,6.0
+04275,Knight,58.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,5,False,False,,,
+04290,Knight,58.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,,,,6,False,False,,,
+04305,Rocket,83.0,Heal Spirit,50.0,Guards,49.0,Fireball,30.0,Knight,58.0,1.0,6,True,False,,Knight,3.0
+04320,Rocket,83.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,Guards,49.0,3.0,4,True,True,,Guards,3.0
+04335,Rocket,83.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,Guards,49.0,2.0,5,True,False,,Guards,3.0
+04350,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,Rocket,83.0,1.0,5,True,False,,Rocket,6.0
+04365,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,5,False,False,,,
+04380,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,6,False,False,,,
+04395,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,6,False,False,,,
+04410,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,6,False,False,,,
+04425,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,7,False,False,,,
+04440,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,7,False,False,,,
+04455,Knight,58.0,Three Musketeers,98.0,Guards,49.0,Fireball,30.0,Electro Giant,22.0,3.0,7,True,False,,Electro Giant,7.0
+04470,Knight,58.0,Three Musketeers,98.0,Guards,49.0,Fireball,30.0,,,,8,False,False,,,
+04485,Knight,58.0,Three Musketeers,98.0,Guards,49.0,Fireball,30.0,,,,8,False,False,,,
+04500,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,Guards,49.0,3.0,9,True,False,,Guards,3.0
+04515,Knight,58.0,Three Musketeers,98.0,Electro Giant,22.0,Fireball,30.0,,,,9,False,False,,,
+04530,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,Three Musketeers,98.0,2.0,5,True,True,,Three Musketeers,9.0
+04545,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,6,False,False,,,
+04560,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,6,False,False,,,
+04575,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,6,False,False,,,
+04590,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,7,False,False,,,
+04605,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,7,False,False,,,
+04620,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,7,False,False,,,
+04635,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,8,False,False,,,
+04650,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,8,False,False,,,
+04665,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,8,False,False,,,
+04680,Knight,58.0,Guards,49.0,Guards,49.0,Fireball,30.0,Electro Giant,22.0,3.0,9,True,False,,Electro Giant,7.0
+04695,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,Guards,49.0,3.0,9,True,False,,Guards,3.0
+04710,Knight,58.0,Guards,49.0,Electro Giant,22.0,Fireball,30.0,,,,10,False,False,,,
+04725,Knight,58.0,Firecracker,31.0,Electro Giant,22.0,Fireball,30.0,Guards,49.0,2.0,9,True,True,,Guards,3.0
+04740,Knight,58.0,Firecracker,31.0,Guards,49.0,Fireball,30.0,Electro Giant,22.0,3.0,9,True,False,,Electro Giant,7.0
+04755,Knight,58.0,Firecracker,31.0,Electro Giant,22.0,Fireball,30.0,Guards,49.0,3.0,9,True,False,,Guards,3.0
+04770,Knight,58.0,Firecracker,31.0,Guards,49.0,Fireball,30.0,Electro Giant,22.0,3.0,10,True,False,,Electro Giant,7.0
+04785,Rocket,83.0,Firecracker,31.0,Guards,49.0,Fireball,30.0,Knight,58.0,1.0,10,True,False,,Knight,3.0
+04800,Rocket,83.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,Guards,49.0,3.0,4,True,True,,Guards,3.0
+04815,Rocket,83.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,4,False,False,,,
+04830,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,1.0,4,True,False,,Rocket,6.0
+04845,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,5,False,False,,,
+04860,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,5,False,False,,,
+04875,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,5,False,False,,,
+04890,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,,,
+04905,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,,,
+04920,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,,,
+04935,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,,,
+04950,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,6,False,False,,,
+04965,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,7,False,False,,,
+04980,Knight,58.0,Firecracker,31.0,Heal Spirit,50.0,Fireball,30.0,,,,7,False,False,,,
+04995,Knight,58.0,Firecracker,31.0,Electro Giant,22.0,Fireball,30.0,Heal Spirit,50.0,3.0,5,True,True,,Heal Spirit,1.0
+05010,Knight,58.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,Electro Giant,22.0,3.0,6,True,False,,Electro Giant,7.0
+05025,Knight,58.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+05040,Knight,58.0,Firecracker,31.0,Firecracker,31.0,Fireball,30.0,Three Musketeers,98.0,3.0,6,True,False,,Three Musketeers,9.0
+05055,Knight,58.0,Firecracker,31.0,Firecracker,31.0,Fireball,30.0,,,,7,False,False,,,
+05070,Knight,58.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,3.0,7,True,False,,Firecracker,3.0
+05085,Knight,58.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05100,Knight,58.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+05115,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,1.0,8,True,False,,Knight,3.0
+05130,Rocket,83.0,Firecracker,31.0,Three Musketeers,98.0,Fireball,30.0,,,,8,False,False,,,
+05145,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,2.0,6,True,True,,Firecracker,3.0
+05160,Knight,58.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,1.0,6,True,False,,Rocket,6.0
+05175,Knight,58.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05190,Knight,58.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05205,Knight,58.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05220,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,1.0,5,True,True,,Knight,3.0
+05235,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+05250,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,5,False,False,,,
+05265,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+05280,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+05295,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,6,False,False,,,
+05310,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05325,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05340,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,,,,7,False,False,,,
+05355,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Three Musketeers,98.0,Fireball,30.0,4.0,4,True,True,,Fireball,4.0
+05370,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Three Musketeers,98.0,4.0,4,True,False,,Three Musketeers,9.0
+05385,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,5,False,False,,,
+05400,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,5,False,False,,,
+05415,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,5,False,False,,,
+05430,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,6,False,False,,,
+05445,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,6,False,False,,,
+05460,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,6,False,False,,,
+05475,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+05490,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+05505,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+05520,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+05535,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+05550,Guards,49.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+05565,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,3.0,5,True,True,,Three Musketeers,9.0
+05580,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,,,,5,False,False,,,
+05595,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,,,
+05610,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,,,
+05625,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,,,
+05640,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,,,,7,False,False,,,
+05655,Electro Giant,22.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,,,,7,False,False,,,
+05670,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Knight,58.0,Heal Spirit,50.0,3.0,7,True,False,,Heal Spirit,1.0
+05685,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Knight,58.0,,,,7,False,False,,,
+05700,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,Knight,58.0,3.0,7,True,False,,Knight,3.0
+05715,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,7,False,False,,,
+05730,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,8,False,False,,,
+05745,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,8,False,False,,,
+05760,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,8,False,False,,,
+05775,Electro Giant,22.0,Firecracker,31.0,Knight,58.0,Knight,58.0,Heal Spirit,50.0,3.0,9,True,False,,Heal Spirit,1.0
+05790,Electro Giant,22.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+05805,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,Rocket,83.0,3.0,10,True,False,,Rocket,6.0
+05820,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,9,False,True,,,
+05835,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,9,False,False,,,
+05850,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,10,False,False,,,
+05865,Electro Giant,22.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,10,False,False,,,
+05880,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,Electro Giant,22.0,1.0,10,True,False,,Electro Giant,7.0
+05895,Fireball,30.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,Guards,49.0,1.0,10,True,False,,Guards,3.0
+05910,Fireball,30.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,4,False,True,,,
+05925,Fireball,30.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,4,False,False,,,
+05940,Fireball,30.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,5,False,False,,,
+05955,Fireball,30.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,,,,5,False,False,,,
+05970,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,Heal Spirit,50.0,3.0,5,True,False,,Heal Spirit,1.0
+05985,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Rocket,83.0,Knight,58.0,4.0,6,True,False,,Knight,3.0
+06000,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Rocket,83.0,,,,6,False,False,,,
+06015,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Rocket,83.0,,,,6,False,False,,,
+06030,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Rocket,83.0,,,,7,False,False,,,
+06045,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,Rocket,83.0,4.0,7,True,False,,Rocket,6.0
+06060,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,,,,7,False,False,,,
+06075,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,,,,8,False,False,,,
+06090,Fireball,30.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,,,,8,False,False,,,
+06105,Fireball,30.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,Rocket,83.0,3.0,8,True,False,,Rocket,6.0
+06120,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,Heal Spirit,50.0,3.0,7,True,True,,Heal Spirit,1.0
+06135,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+06150,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+06165,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+06180,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+06195,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06210,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06225,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Firecracker,31.0,2.0,6,True,True,,Firecracker,3.0
+06240,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+06255,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+06270,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,7,False,False,,,
+06285,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+06300,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+06315,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,False,,,
+06330,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06345,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,8,False,True,,,
+06360,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06375,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06390,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06405,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Knight,58.0,,,,9,False,False,,,
+06420,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Knight,58.0,4.0,9,True,False,,Knight,3.0
+06435,Fireball,30.0,Electro Giant,22.0,Three Musketeers,98.0,Knight,58.0,Rocket,83.0,4.0,9,True,False,,Rocket,6.0
+06450,Fireball,30.0,Electro Giant,22.0,Three Musketeers,98.0,Knight,58.0,,,,10,False,False,,,
+06465,Fireball,30.0,Electro Giant,22.0,Heal Spirit,50.0,Knight,58.0,Three Musketeers,98.0,3.0,6,True,True,,Three Musketeers,9.0
+06480,Fireball,30.0,Electro Giant,22.0,Heal Spirit,50.0,Knight,58.0,,,,6,False,False,,,
+06495,Fireball,30.0,Electro Giant,22.0,Heal Spirit,50.0,Knight,58.0,,,,3,False,True,,,
+06510,Fireball,30.0,Electro Giant,22.0,Heal Spirit,50.0,Knight,58.0,,,,3,False,False,,,
+06525,Fireball,30.0,Electro Giant,22.0,Heal Spirit,50.0,Firecracker,31.0,Knight,58.0,4.0,4,True,False,,Knight,3.0
+06540,Fireball,30.0,Electro Giant,22.0,Heal Spirit,50.0,Firecracker,31.0,,,,5,False,False,,,
+06555,Fireball,30.0,Guards,49.0,Heal Spirit,50.0,Firecracker,31.0,Electro Giant,22.0,2.0,5,True,False,,Electro Giant,7.0
+06570,Fireball,30.0,Guards,49.0,Heal Spirit,50.0,Firecracker,31.0,,,,5,False,False,,,
+06585,Fireball,30.0,Guards,49.0,Heal Spirit,50.0,Firecracker,31.0,,,,6,False,False,,,
+06600,Fireball,30.0,Guards,49.0,Heal Spirit,50.0,Firecracker,31.0,,,,6,False,False,,,
+06615,Guards,49.0,Electro Giant,22.0,Heal Spirit,50.0,Firecracker,31.0,Guards,49.0,2.0,2,True,True,,Guards,3.0
+06630,Guards,49.0,Electro Giant,22.0,Heal Spirit,50.0,Firecracker,31.0,,,,3,False,False,,,
+06645,Guards,49.0,Electro Giant,22.0,Heal Spirit,50.0,Firecracker,31.0,,,,3,False,False,,,
+06660,Guards,49.0,Electro Giant,22.0,Rocket,83.0,Electro Giant,22.0,Firecracker,31.0,4.0,2,True,True,,Firecracker,3.0
+06675,Guards,49.0,Electro Giant,22.0,Rocket,83.0,Electro Giant,22.0,,,,2,False,False,,,
+06690,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,Electro Giant,22.0,4.0,1,True,True,,Electro Giant,7.0
+06705,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,2,False,False,,,
+06720,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,2,False,False,,,
+06735,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,2,False,False,,,
+06750,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,,,
+06765,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,,,
+06780,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,,,
+06795,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,,,
+06810,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,3,False,True,,,
+06825,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,,,
+06840,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,,,
+06855,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,,,
+06870,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,,,
+06885,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,,,
+06900,Three Musketeers,98.0,Electro Giant,22.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,,,
+06915,Three Musketeers,98.0,Electro Giant,22.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,6,True,False,,Rocket,6.0
+06930,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,6,True,False,,Knight,3.0
+06945,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,,,
+06960,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+06975,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+06990,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+07005,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07020,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07035,Three Musketeers,98.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07050,Three Musketeers,98.0,Electro Giant,22.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,9,True,False,,Rocket,6.0
+07065,Three Musketeers,98.0,Electro Giant,22.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,,,
+07080,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+07095,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,10,False,False,,,
+07110,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,10,True,False,,Rocket,6.0
+07125,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,4,False,True,,,
+07140,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,5,False,False,,,
+07155,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,5,True,False,,Knight,3.0
+07170,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,5,True,False,,Rocket,6.0
+07185,Three Musketeers,98.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,6,True,False,,Knight,3.0
+07200,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,6,True,False,,Rocket,6.0
+07215,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,6,False,False,,,
+07230,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,,,
+07245,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,,,
+07260,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,,,
+07275,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+07290,Three Musketeers,98.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,,,
+07305,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,9,True,False,,Knight,3.0
+07320,Rocket,83.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,9,True,False,,Rocket,6.0
+07335,Rocket,83.0,Fireball,30.0,Knight,58.0,Firecracker,31.0,,,,5,False,True,,,
+07350,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,6,True,False,,Knight,3.0
+07365,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,,,
+07380,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,,,
+07395,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+07410,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+07425,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07440,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07455,Heal Spirit,50.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,,,
+07470,Heal Spirit,50.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Fireball,30.0,2.0,5,True,True,,Fireball,4.0
+07485,Heal Spirit,50.0,Guards,49.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,6,True,False,,Rocket,6.0
+07500,Heal Spirit,50.0,Guards,49.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,,,
+07515,Heal Spirit,50.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,7,True,False,,Knight,3.0
+07530,Heal Spirit,50.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07545,Heal Spirit,50.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,,,
+07560,Heal Spirit,50.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,,,
+07575,Heal Spirit,50.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,,,
+07590,Rocket,83.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Heal Spirit,50.0,1.0,10,True,False,,Heal Spirit,1.0
+07605,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,Firecracker,31.0,Rocket,83.0,3.0,7,True,True,,Rocket,6.0
+07620,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,Firecracker,31.0,,,,8,False,False,,,
+07635,Electro Giant,22.0,Guards,49.0,Fireball,30.0,Firecracker,31.0,Three Musketeers,98.0,3.0,6,True,True,,Three Musketeers,9.0
+07650,Guards,49.0,Guards,49.0,Fireball,30.0,Firecracker,31.0,Electro Giant,22.0,1.0,7,True,False,,Electro Giant,7.0
+07665,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,Guards,49.0,2.0,6,True,True,,Guards,3.0
+07680,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,,,,7,False,False,,,
+07695,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,,,,7,False,False,,,
+07710,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,,,,7,False,False,,,
+07725,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,,,,7,False,False,,,
+07740,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,,,,8,False,False,,,
+07755,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,Firecracker,31.0,,,,8,False,False,,,
+07770,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,Fireball,30.0,3.0,5,True,True,,Fireball,4.0
+07785,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,,,
+07800,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,,,
+07815,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+07830,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,,,
+07845,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Firecracker,31.0,Rocket,83.0,3.0,8,True,False,,Rocket,6.0
+07860,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,8,True,False,,Knight,3.0
+07875,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,,,
+07890,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,4.0,6,True,True,,Firecracker,3.0
+07905,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,Rocket,83.0,4.0,7,True,False,,Rocket,6.0
+07920,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,7,False,False,,,
+07935,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,8,False,False,,,
+07950,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,8,False,False,,,
+07965,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,9,False,False,,,
+07980,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,9,False,False,,,
+07995,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,10,False,False,,,
+08010,Guards,49.0,Three Musketeers,98.0,Knight,58.0,Heal Spirit,50.0,Rocket,83.0,3.0,10,True,False,,Rocket,6.0
+08025,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,Knight,58.0,3.0,10,True,False,,Knight,3.0
+08040,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Heal Spirit,50.0,,,,10,False,False,,,
+08055,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,Three Musketeers,98.0,2.0,6,True,True,,Three Musketeers,9.0
+08070,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,7,False,False,,,
+08085,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,8,False,False,,,
+08100,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,8,False,False,,,
+08115,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,8,False,False,,,
+08130,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,9,False,False,,,
+08145,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,9,False,False,,,
+08160,Guards,49.0,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,,,,10,False,False,,,
+08175,Guards,49.0,Guards,49.0,Knight,58.0,Heal Spirit,50.0,Rocket,83.0,3.0,10,True,False,,Rocket,6.0
+08190,Guards,49.0,Guards,49.0,Knight,58.0,Heal Spirit,50.0,,,,10,False,False,,,
+08205,Guards,49.0,Guards,49.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,3.0,7,True,True,,Knight,3.0
+08220,Guards,49.0,Knight,58.0,Guards,49.0,Heal Spirit,50.0,Guards,49.0,2.0,7,True,False,,Guards,3.0
+08235,Guards,49.0,Fireball,30.0,Guards,49.0,Heal Spirit,50.0,Knight,58.0,2.0,7,True,False,,Knight,3.0
+08250,Guards,49.0,Fireball,30.0,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,4.0,6,True,True,,Heal Spirit,1.0
+08265,Guards,49.0,Fireball,30.0,Guards,49.0,Firecracker,31.0,,,,6,False,False,,,
+08280,Guards,49.0,Fireball,30.0,Guards,49.0,Firecracker,31.0,,,,7,False,False,,,
+08295,Guards,49.0,Fireball,30.0,Guards,49.0,Firecracker,31.0,,,,7,False,False,,,
+08310,Guards,49.0,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,Firecracker,31.0,4.0,5,True,True,,Firecracker,3.0
+08325,Guards,49.0,Fireball,30.0,Guards,49.0,Three Musketeers,98.0,,,,5,False,False,,,
+08340,Guards,49.0,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,Fireball,30.0,2.0,2,True,True,,Fireball,4.0
+08355,Guards,49.0,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,,,,2,False,False,,,
+08370,Guards,49.0,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,,,,2,False,False,,,
+08385,Guards,49.0,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,,,,2,False,False,,,
+08400,Guards,49.0,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,,,,3,False,False,,,
+08415,Guards,49.0,Rocket,83.0,Guards,49.0,Three Musketeers,98.0,,,,4,False,False,,,
+08430,Guards,49.0,Rocket,83.0,Heal Spirit,50.0,Three Musketeers,98.0,Guards,49.0,3.0,3,True,True,,Guards,3.0
+08445,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,Heal Spirit,50.0,3.0,4,True,False,,Heal Spirit,1.0
+08460,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,Rocket,83.0,3.0,1,True,True,,Rocket,6.0
+08475,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,2,False,False,,,
+08490,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,2,False,False,,,
+08505,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,3,False,False,,,
+08520,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,3,False,False,,,
+08535,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,4,False,False,,,
+08550,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,4,False,False,,,
+08565,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,5,False,False,,,
+08580,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Three Musketeers,98.0,,,,5,False,False,,,
+08595,Guards,49.0,Firecracker,31.0,Fireball,30.0,Three Musketeers,98.0,Heal Spirit,50.0,3.0,4,True,True,,Heal Spirit,1.0
+08610,Guards,49.0,Firecracker,31.0,Fireball,30.0,Three Musketeers,98.0,,,,5,False,False,,,
+08625,Guards,49.0,Firecracker,31.0,Fireball,30.0,Three Musketeers,98.0,,,,5,False,False,,,
+08640,Guards,49.0,Firecracker,31.0,Fireball,30.0,Three Musketeers,98.0,,,,6,False,False,,,
+08655,Guards,49.0,Electro Giant,22.0,Fireball,30.0,Knight,58.0,Three Musketeers,98.0,4.0,2,True,True,,Three Musketeers,9.0
+08670,Guards,49.0,Firecracker,31.0,Fireball,30.0,Knight,58.0,Electro Giant,22.0,2.0,3,True,False,,Electro Giant,7.0
+08685,Guards,49.0,Firecracker,31.0,Fireball,30.0,Knight,58.0,,,,3,False,False,,,
+08700,Guards,49.0,Firecracker,31.0,Fireball,30.0,Knight,58.0,,,,4,False,False,,,
+08715,Guards,49.0,Firecracker,31.0,Fireball,30.0,Knight,58.0,,,,4,False,False,,,
+08730,Guards,49.0,Firecracker,31.0,Fireball,30.0,Knight,58.0,,,,5,False,False,,,
+08745,Guards,49.0,Electro Giant,22.0,Guards,49.0,Knight,58.0,Fireball,30.0,3.0,1,True,True,,Fireball,4.0
+08760,Guards,49.0,Electro Giant,22.0,Guards,49.0,Knight,58.0,,,,2,False,False,,,
+08775,Guards,49.0,Electro Giant,22.0,Guards,49.0,Knight,58.0,,,,1,False,True,,,
+08790,Guards,49.0,Electro Giant,22.0,Guards,49.0,Knight,58.0,,,,2,False,False,,,
+08805,Guards,49.0,Firecracker,31.0,Guards,49.0,Knight,58.0,Electro Giant,22.0,2.0,2,True,False,,Electro Giant,7.0
+08820,Guards,49.0,Firecracker,31.0,Guards,49.0,Knight,58.0,,,,3,False,False,,,
+08835,Guards,49.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,Guards,49.0,3.0,3,True,False,,Guards,3.0
+08850,Guards,49.0,Firecracker,31.0,Heal Spirit,50.0,Knight,58.0,Rocket,83.0,3.0,3,True,False,,Rocket,6.0
+08865,Guards,49.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,Heal Spirit,50.0,3.0,4,True,False,,Heal Spirit,1.0
+08880,Guards,49.0,Firecracker,31.0,Rocket,83.0,Knight,58.0,,,,4,False,False,,,
+08895,Guards,49.0,Electro Giant,22.0,Rocket,83.0,Three Musketeers,98.0,Knight,58.0,4.0,2,True,True,,Knight,3.0
+08910,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,Electro Giant,22.0,2.0,2,True,False,,Electro Giant,7.0
+08925,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,,,,3,False,False,,,
+08940,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,,,,1,False,True,,,
+08955,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,,,,2,False,False,,,
+08970,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,,,,2,False,False,,,
+08985,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,,,,3,False,False,,,
+09000,Guards,49.0,Firecracker,31.0,Rocket,83.0,Three Musketeers,98.0,,,,3,False,False,,,
+09015,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Three Musketeers,98.0,Firecracker,31.0,2.0,3,True,False,,Firecracker,3.0
+09030,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Three Musketeers,98.0,,,,2,False,True,,,
+09045,Guards,49.0,Three Musketeers,98.0,Rocket,83.0,Three Musketeers,98.0,,,,2,False,False,,,
+09060,Guards,49.0,Guards,49.0,Rocket,83.0,Three Musketeers,98.0,Three Musketeers,98.0,2.0,3,True,False,,Three Musketeers,9.0
+09075,Guards,49.0,Guards,49.0,Rocket,83.0,Three Musketeers,98.0,,,,2,False,True,,,
+09090,Guards,49.0,Guards,49.0,Rocket,83.0,Three Musketeers,98.0,,,,3,False,False,,,
+09105,Guards,49.0,Guards,49.0,Rocket,83.0,Three Musketeers,98.0,,,,3,False,False,,,
+09120,Guards,49.0,Guards,49.0,Rocket,83.0,Three Musketeers,98.0,,,,4,False,False,,,
+09135,Guards,49.0,Knight,58.0,Rocket,83.0,Three Musketeers,98.0,Guards,49.0,2.0,3,True,True,,Guards,3.0
+09150,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,Knight,58.0,2.0,4,True,False,,Knight,3.0
+09165,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,4,False,False,,,
+09180,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,5,False,False,,,
+09195,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09210,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09225,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09240,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09255,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09270,Guards,49.0,Rocket,83.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09285,Guards,49.0,Knight,58.0,Rocket,83.0,Three Musketeers,98.0,Rocket,83.0,2.0,6,True,False,,Rocket,6.0
+09300,Guards,49.0,Knight,58.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09315,Guards,49.0,Knight,58.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,
+09330,Guards,49.0,Knight,58.0,Rocket,83.0,Three Musketeers,98.0,,,,6,False,False,,,

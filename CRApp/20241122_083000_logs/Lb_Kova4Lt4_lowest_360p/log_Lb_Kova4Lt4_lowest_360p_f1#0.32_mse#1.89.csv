@@ -1,0 +1,190 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00255,Guards,49.0,,,,,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+00270,Guards,49.0,,,Knight,58.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+00285,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,2.0,6,True,False,0.0,0.0
+00300,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+00315,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+00330,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Guards,49.0,1.0,7,True,False,0.0,3.0
+00345,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+00360,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+00375,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Fisherman,32.0,1.0,8,True,False,0.0,3.0
+00390,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+00405,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+00420,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Guards,49.0,1.0,8,True,False,0.0,3.0
+00435,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+00450,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Fisherman,32.0,1.0,8,True,False,0.0,3.0
+00465,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Guards,49.0,1.0,9,True,False,0.0,3.0
+00480,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Fisherman,32.0,1.0,9,True,False,0.0,3.0
+00495,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+00510,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+00525,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+00540,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+00555,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+00570,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+00585,Fisherman,32.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Guards,49.0,1.0,10,True,False,0.0,3.0
+00600,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Fisherman,32.0,1.0,9,True,True,1.0,3.0
+00615,Guards,49.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+00630,Firecracker,31.0,Firecracker,31.0,Knight,58.0,Goblin Barrel,39.0,Guards,49.0,1.0,9,True,False,0.0,3.0
+00645,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,Goblin Barrel,39.0,4.0,6,True,True,3.0,3.0
+00660,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+00675,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+00690,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00705,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00720,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,7,False,True,1.0,0.0
+00735,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+00750,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+00765,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00780,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00795,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00810,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00825,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+00840,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+00855,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+00870,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+00885,Fisherman,32.0,Balloon,4.0,Knight,58.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+00900,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Knight,58.0,3.0,3,True,True,6.0,3.0
+00915,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+00930,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+00945,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+00960,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Fisherman,32.0,1.0,4,True,False,0.0,3.0
+00975,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+00990,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Guards,49.0,1.0,4,True,False,0.0,3.0
+01005,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Fisherman,32.0,1.0,5,True,False,0.0,3.0
+01020,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01035,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01050,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01065,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01080,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Guards,49.0,1.0,5,True,False,0.0,3.0
+01095,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Fisherman,32.0,1.0,6,True,False,0.0,3.0
+01110,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01125,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Guards,49.0,1.0,6,True,False,0.0,3.0
+01140,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01155,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01170,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01185,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01200,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01215,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Fisherman,32.0,1.0,8,True,True,1.0,3.0
+01230,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01245,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01260,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01275,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01290,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01305,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01320,Fisherman,32.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Guards,49.0,1.0,8,True,False,0.0,3.0
+01335,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,Fisherman,32.0,1.0,8,True,False,0.0,3.0
+01350,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01365,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01380,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01395,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01410,Guards,49.0,Guards,49.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01425,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,Rocket,83.0,3.0,4,True,True,5.0,6.0
+01440,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01455,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01470,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01485,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01500,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01515,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01530,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01545,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01560,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01575,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01590,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01605,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01620,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01635,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01650,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01665,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01680,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01695,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01710,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01725,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01740,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,7,False,True,1.0,0.0
+01755,Guards,49.0,Guards,49.0,Archers,109.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01770,Guards,49.0,Guards,49.0,Goblin Barrel,39.0,Firecracker,31.0,Archers,109.0,3.0,4,True,True,3.0,3.0
+01785,Guards,49.0,Guards,49.0,Goblin Barrel,39.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01800,Guards,49.0,Guards,49.0,Goblin Barrel,39.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+01815,Guards,49.0,Guards,49.0,Goblin Barrel,39.0,Firecracker,31.0,,,,3,False,True,1.0,0.0
+01830,Guards,49.0,Guards,49.0,Goblin Barrel,39.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+01845,Guards,49.0,Guards,49.0,Goblin Barrel,39.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+01860,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,Goblin Barrel,39.0,3.0,1,True,True,2.0,3.0
+01875,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+01890,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+01905,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+01920,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+01935,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+01950,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+01965,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+01980,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+01995,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02010,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02025,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02040,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02055,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,0,False,True,3.0,0.0
+02070,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,0,False,False,0.0,0.0
+02085,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,0,False,False,0.0,0.0
+02100,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+02115,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+02130,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+02145,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+02160,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+02175,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+02190,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02205,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02220,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02235,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02250,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02265,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+02280,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02295,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02310,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02325,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02340,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02355,Guards,49.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+02370,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,Guards,49.0,1.0,4,True,False,0.0,3.0
+02385,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+02400,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+02415,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+02430,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+02445,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+02460,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+02475,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+02490,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+02505,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+02520,Fisherman,32.0,Rocket,83.0,Guards,49.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02535,Fisherman,32.0,Rocket,83.0,Archers,109.0,Firecracker,31.0,Guards,49.0,3.0,6,True,False,0.0,3.0
+02550,Fisherman,32.0,Rocket,83.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02565,Guards,49.0,Rocket,83.0,Archers,109.0,Firecracker,31.0,Fisherman,32.0,1.0,6,True,False,0.0,3.0
+02580,Guards,49.0,Rocket,83.0,Archers,109.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02595,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Archers,109.0,3.0,6,True,False,0.0,3.0
+02610,Guards,49.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Fisherman,32.0,1.0,7,True,False,0.0,3.0
+02625,Guards,49.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+02640,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Guards,49.0,1.0,8,True,False,0.0,3.0
+02655,Guards,49.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Fisherman,32.0,1.0,8,True,True,1.0,3.0
+02670,Guards,49.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+02685,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Guards,49.0,1.0,7,True,False,0.0,3.0
+02700,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02715,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02730,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02745,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02760,Guards,49.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Fisherman,32.0,1.0,8,True,False,0.0,3.0
+02775,Guards,49.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02790,Fisherman,32.0,Knight,58.0,Balloon,4.0,Firecracker,31.0,Guards,49.0,1.0,9,True,False,0.0,3.0
+02805,Guards,49.0,Knight,58.0,Firecracker,31.0,Firecracker,31.0,Balloon,4.0,3.0,9,True,False,0.0,5.0
+02820,Fisherman,32.0,Knight,58.0,Firecracker,31.0,Firecracker,31.0,Guards,49.0,1.0,9,True,False,0.0,3.0
+02835,Fisherman,32.0,Knight,58.0,Firecracker,31.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02850,Fisherman,32.0,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Knight,58.0,2.0,9,True,False,0.0,3.0
+02865,Guards,49.0,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,Fisherman,32.0,1.0,7,True,True,2.0,3.0
+02880,Guards,49.0,Rocket,83.0,Archers,109.0,Archers,109.0,Firecracker,31.0,4.0,7,True,False,0.0,3.0
+02895,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,Archers,109.0,3.0,7,True,False,0.0,3.0
+02910,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,7,False,False,0.0,0.0
+02925,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,7,False,False,0.0,0.0
+02940,Guards,49.0,Knight,58.0,Balloon,4.0,Archers,109.0,Fisherman,32.0,1.0,7,True,False,0.0,3.0
+02955,Guards,49.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,8,False,False,0.0,0.0
+02970,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,Guards,49.0,1.0,8,True,False,0.0,3.0
+02985,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,8,False,False,0.0,0.0
+03000,Guards,49.0,Knight,58.0,Balloon,4.0,Archers,109.0,Fisherman,32.0,1.0,8,True,False,0.0,3.0
+03015,Guards,49.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,8,False,False,0.0,0.0
+03030,Guards,49.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,9,False,False,0.0,0.0
+03045,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,Guards,49.0,1.0,9,True,False,0.0,3.0
+03060,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,9,False,False,0.0,0.0
+03075,Fisherman,32.0,Knight,58.0,Balloon,4.0,Archers,109.0,,,,9,False,False,0.0,0.0

@@ -1,0 +1,343 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00870,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00885,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00900,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,8,False,False,0.0,0.0
+00915,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,Phoenix,76.0,1.0,9,True,False,0.0,4.0
+00930,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,Firecracker,31.0,1.0,9,True,False,0.0,3.0
+00945,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00960,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00975,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+00990,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Electro Wizard,24.0,,,,9,False,False,0.0,0.0
+01005,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,Electro Wizard,24.0,4.0,6,True,True,3.0,4.0
+01020,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,,,,6,False,False,0.0,0.0
+01035,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,,,,6,False,False,0.0,0.0
+01050,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,,,,6,False,False,0.0,0.0
+01065,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,,,,6,False,False,0.0,0.0
+01080,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,,,,6,False,False,0.0,0.0
+01095,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Phoenix,76.0,,,,7,False,False,0.0,0.0
+01110,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Phoenix,76.0,4.0,7,True,False,0.0,4.0
+01125,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Phoenix,76.0,1.0,7,True,False,0.0,4.0
+01140,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,1.0,7,True,False,0.0,3.0
+01155,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,7,False,False,0.0,0.0
+01170,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Phoenix,76.0,1.0,8,True,False,0.0,4.0
+01185,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,8,False,False,0.0,0.0
+01200,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,1.0,8,True,False,0.0,3.0
+01215,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Phoenix,76.0,1.0,8,True,False,0.0,4.0
+01230,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,1.0,8,True,False,0.0,3.0
+01245,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,8,False,False,0.0,0.0
+01260,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,9,False,False,0.0,0.0
+01275,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,9,False,False,0.0,0.0
+01290,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,9,False,False,0.0,0.0
+01305,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,9,False,False,0.0,0.0
+01320,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Rocket,83.0,,,,9,False,False,0.0,0.0
+01335,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Rocket,83.0,4.0,5,True,True,4.0,6.0
+01350,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01365,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01380,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01395,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Phoenix,76.0,1.0,5,True,False,0.0,4.0
+01410,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,1.0,5,True,False,0.0,3.0
+01425,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01440,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01455,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01470,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01485,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01500,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01515,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01530,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01545,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01560,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01575,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01590,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01605,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01620,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01635,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01650,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01665,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+01680,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01695,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01710,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01725,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01740,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01755,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+01770,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Rocket,83.0,3.0,5,True,True,4.0,6.0
+01785,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01800,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01815,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01830,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01845,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+01860,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01875,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01890,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01905,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+01920,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Phoenix,76.0,1.0,6,True,False,0.0,4.0
+01935,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01950,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01965,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01980,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+01995,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+02010,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+02025,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02040,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02055,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02070,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+02085,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Firecracker,31.0,1.0,8,True,False,0.0,3.0
+02100,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02115,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02130,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02145,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02160,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02175,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+02190,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,10,False,False,0.0,0.0
+02205,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Phoenix,76.0,1.0,6,True,True,4.0,4.0
+02220,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02235,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02250,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02265,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+02280,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,2,False,True,4.0,0.0
+02295,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02310,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02325,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02340,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02355,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02370,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02385,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02400,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02415,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02430,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,4.0,3,True,False,0.0,3.0
+02445,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02460,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02475,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+02490,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Electro Wizard,24.0,4.0,3,True,False,0.0,4.0
+02505,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02520,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02535,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02550,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02565,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Firecracker,31.0,1.0,3,True,False,0.0,3.0
+02580,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Lava Hound,59.0,1.0,3,True,False,0.0,7.0
+02595,Firecracker,31.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02610,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Firecracker,31.0,1.0,3,True,False,0.0,3.0
+02625,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02640,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02655,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02670,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02685,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02700,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02715,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02730,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02745,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02760,Dark Prince,18.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Lava Hound,59.0,1.0,3,True,False,0.0,7.0
+02775,Dark Prince,18.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02790,Dark Prince,18.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02805,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Dark Prince,18.0,1.0,3,True,False,0.0,4.0
+02820,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02835,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02850,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02865,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02880,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02895,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02910,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02925,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02940,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02955,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02970,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+02985,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+03000,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+03015,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+03030,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+03045,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+03060,Rocket,83.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Phoenix,76.0,1.0,3,True,False,0.0,4.0
+03075,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Firecracker,31.0,Rocket,83.0,1.0,3,True,False,0.0,6.0
+03090,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,4.0,3,True,False,0.0,3.0
+03105,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03120,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03135,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Electro Wizard,24.0,,,,3,False,False,0.0,0.0
+03150,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,Electro Wizard,24.0,4.0,3,True,False,0.0,4.0
+03165,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03180,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03195,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03210,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03225,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03240,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03255,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03270,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03285,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03300,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03315,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03330,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03345,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03360,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03375,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03390,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03405,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03420,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03435,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03450,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03465,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03480,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03495,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03510,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03525,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Rocket,83.0,,,,3,False,False,0.0,0.0
+03540,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,Rocket,83.0,4.0,4,True,False,0.0,6.0
+03555,Phoenix,76.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+03570,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,Phoenix,76.0,1.0,4,True,False,0.0,4.0
+03585,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+03600,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+03615,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+03630,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,5,False,False,0.0,0.0
+03645,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,5,False,False,0.0,0.0
+03660,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,5,False,False,0.0,0.0
+03675,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,5,False,False,0.0,0.0
+03690,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,5,False,False,0.0,0.0
+03705,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,2,False,True,3.0,0.0
+03720,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03735,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03750,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03765,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03780,Lava Hound,59.0,Fireball,30.0,Electro Dragon,21.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03795,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,Electro Dragon,21.0,3.0,3,True,False,0.0,5.0
+03810,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03825,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03840,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03855,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03870,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,2,False,True,1.0,0.0
+03885,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03900,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03915,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03930,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03945,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+03960,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03975,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+03990,Firecracker,31.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,Lava Hound,59.0,1.0,3,True,False,0.0,7.0
+04005,Firecracker,31.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+04020,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,Firecracker,31.0,1.0,3,True,False,0.0,3.0
+04035,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+04050,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,Phoenix,76.0,4.0,4,True,False,0.0,4.0
+04065,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04080,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04095,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04110,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04125,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+04140,Lava Hound,59.0,Fireball,30.0,Dark Prince,18.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+04155,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,Firecracker,31.0,4.0,6,True,False,0.0,3.0
+04170,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,6,False,False,0.0,0.0
+04185,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,7,False,False,0.0,0.0
+04200,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,7,False,False,0.0,0.0
+04215,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,2,False,True,5.0,0.0
+04230,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+04245,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+04260,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,2,False,False,0.0,0.0
+04275,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+04290,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+04305,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+04320,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+04335,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Firecracker,31.0,Phoenix,76.0,4.0,4,True,False,0.0,4.0
+04350,Lava Hound,59.0,Fireball,30.0,Electro Wizard,24.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04365,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Electro Wizard,24.0,3.0,1,True,True,3.0,4.0
+04380,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+04395,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,1,False,False,0.0,0.0
+04410,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+04425,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+04440,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,2,False,False,0.0,0.0
+04455,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+04470,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+04485,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,3,False,False,0.0,0.0
+04500,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04515,Lava Hound,59.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04530,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Lava Hound,59.0,1.0,5,True,False,0.0,7.0
+04545,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+04560,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+04575,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+04590,Firecracker,31.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+04605,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,1.0,3,True,True,3.0,3.0
+04620,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04635,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04650,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+04665,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+04680,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+04695,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+04710,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+04725,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+04740,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+04755,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+04770,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+04785,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+04800,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+04815,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+04830,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+04845,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+04860,Phoenix,76.0,Fireball,30.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+04875,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,4.0,6,True,True,3.0,3.0
+04890,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Rocket,83.0,4.0,6,True,False,0.0,6.0
+04905,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,4.0,6,True,False,0.0,3.0
+04920,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Rocket,83.0,4.0,7,True,False,0.0,6.0
+04935,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Rocket,83.0,Firecracker,31.0,4.0,8,True,False,0.0,3.0
+04950,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Rocket,83.0,4.0,8,True,False,0.0,6.0
+04965,Rocket,83.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Phoenix,76.0,1.0,8,True,False,0.0,4.0
+04980,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Rocket,83.0,1.0,8,True,False,0.0,6.0
+04995,Phoenix,76.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+05010,Lava Hound,59.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,Rocket,83.0,3.0,4,True,True,4.0,6.0
+05025,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Electro Wizard,24.0,3.0,4,True,False,0.0,4.0
+05040,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,4,False,False,0.0,0.0
+05055,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+05070,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+05085,Firecracker,31.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Lava Hound,59.0,1.0,6,True,False,0.0,7.0
+05100,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,Firecracker,31.0,1.0,6,True,False,0.0,3.0
+05115,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+05130,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+05145,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+05160,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,7,False,False,0.0,0.0
+05175,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+05190,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+05205,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,8,False,False,0.0,0.0
+05220,Lava Hound,59.0,Electro Dragon,21.0,Rocket,83.0,Firecracker,31.0,,,,9,False,False,0.0,0.0
+05235,Lava Hound,59.0,Electro Dragon,21.0,Firecracker,31.0,Firecracker,31.0,Rocket,83.0,3.0,4,True,True,5.0,6.0
+05250,Lava Hound,59.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,Firecracker,31.0,3.0,5,True,False,0.0,3.0
+05265,Lava Hound,59.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+05280,Lava Hound,59.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,,,,5,False,False,0.0,0.0
+05295,Lava Hound,59.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+05310,Lava Hound,59.0,Electro Dragon,21.0,Electro Wizard,24.0,Firecracker,31.0,,,,6,False,False,0.0,0.0
+05325,Lava Hound,59.0,Electro Dragon,21.0,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,4.0,2,True,True,4.0,3.0
+05340,Lava Hound,59.0,Electro Dragon,21.0,Lava Hound,59.0,Phoenix,76.0,,,,3,False,False,0.0,0.0
+05355,Lava Hound,59.0,Electro Dragon,21.0,Firecracker,31.0,Phoenix,76.0,Lava Hound,59.0,3.0,3,True,False,0.0,7.0
+05370,Lava Hound,59.0,Electro Dragon,21.0,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,3.0,3,True,False,0.0,3.0
+05385,Lava Hound,59.0,Electro Dragon,21.0,Lava Hound,59.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+05400,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Phoenix,76.0,Lava Hound,59.0,1.0,4,True,False,0.0,7.0
+05415,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Phoenix,76.0,,,,4,False,False,0.0,0.0
+05430,Firecracker,31.0,Electro Dragon,21.0,Firecracker,31.0,Phoenix,76.0,Lava Hound,59.0,3.0,5,True,False,0.0,7.0
+05445,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,Phoenix,76.0,4.0,7,True,True,5.0,4.0
+05460,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,7,False,False,0.0,0.0
+05475,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05490,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05505,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05520,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05535,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05550,Firecracker,31.0,Electro Dragon,21.0,Lava Hound,59.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05565,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,Lava Hound,59.0,3.0,2,True,True,2.0,7.0
+05580,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05595,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05610,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05625,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05640,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05655,Lava Hound,59.0,Phoenix,76.0,Firecracker,31.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05670,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,Firecracker,31.0,3.0,1,True,True,3.0,3.0
+05685,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05700,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,2,False,False,0.0,0.0
+05715,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05730,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05745,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05760,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05775,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05790,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,Lava Hound,59.0,1.0,4,True,False,0.0,7.0
+05805,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05820,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05835,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05850,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05865,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,6,False,False,0.0,0.0
+05880,Dark Prince,18.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,Firecracker,31.0,1.0,6,True,False,0.0,3.0
+05895,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,Dark Prince,18.0,1.0,3,True,True,3.0,4.0
+05910,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,3,False,False,0.0,0.0
+05925,Firecracker,31.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05940,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,Firecracker,31.0,1.0,4,True,False,0.0,3.0
+05955,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,4,False,False,0.0,0.0
+05970,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,5,False,False,0.0,0.0
+05985,Lava Hound,59.0,Phoenix,76.0,Rocket,83.0,Fireball,30.0,,,,7,False,False,0.0,0.0
