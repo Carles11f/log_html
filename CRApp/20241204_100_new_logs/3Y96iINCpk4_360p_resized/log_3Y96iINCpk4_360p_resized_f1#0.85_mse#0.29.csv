@@ -1,0 +1,487 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00960,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+00975,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+00990,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01005,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01020,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01035,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01050,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01065,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01080,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01095,Witch,103.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01110,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,2.0,9,True,False,0.0,1.0
+01125,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01140,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01155,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01170,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01185,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01200,Witch,103.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,10,False,False,0.0,0.0
+01215,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,1.0,10,True,False,0.0,5.0
+01230,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,10,False,False,0.0,0.0
+01245,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,10,False,False,0.0,0.0
+01260,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,10,False,False,0.0,0.0
+01275,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,True,5.0,0.0
+01290,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+01305,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+01320,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+01335,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+01350,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+01365,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,6,False,False,0.0,0.0
+01380,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,6,False,False,0.0,0.0
+01395,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,6,False,False,0.0,0.0
+01410,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,6,False,False,0.0,0.0
+01425,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,6,False,False,0.0,0.0
+01440,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01455,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01470,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01485,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01500,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01515,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01530,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01545,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01560,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01575,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01590,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01605,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01620,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01635,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01650,Ice Golem,53.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01665,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,1.0,7,True,True,2.0,2.0
+01680,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+01695,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01710,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01725,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01740,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01755,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01770,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+01785,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01800,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01815,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01830,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01845,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01860,X,105.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,10,False,False,0.0,0.0
+01875,X,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,2.0,9,True,True,1.0,1.0
+01890,X,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01905,X,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01920,X,105.0,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01935,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,2.0,3,True,True,6.0,6.0
+01950,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+01965,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+01980,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+01995,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+02010,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+02025,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+02040,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02055,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02070,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,True,1.0,0.0
+02085,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+02100,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+02115,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,4,False,False,0.0,0.0
+02130,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02145,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02160,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02175,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02190,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02205,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,6,False,False,0.0,0.0
+02220,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+02235,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+02250,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+02265,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+02280,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,7,False,False,0.0,0.0
+02295,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+02310,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+02325,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+02340,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+02355,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+02370,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,8,False,False,0.0,0.0
+02385,X,105.0,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,,,,9,False,False,0.0,0.0
+02400,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,The Log,97.0,Mini P.E.K.K.A,67.0,3.0,5,True,True,4.0,4.0
+02415,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02430,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02445,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,The Log,97.0,,,,5,False,False,0.0,0.0
+02460,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,The Log,97.0,,,,6,False,False,0.0,0.0
+02475,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,The Log,97.0,4.0,4,True,True,2.0,2.0
+02490,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+02505,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+02520,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+02535,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+02550,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+02565,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+02580,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+02595,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+02610,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+02625,X,105.0,Fire Spirit,29.0,Ice Golem,53.0,Witch,103.0,Electro Spirit,23.0,4.0,6,True,False,0.0,1.0
+02640,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,Ice Golem,53.0,3.0,4,True,True,2.0,2.0
+02655,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,,,,4,False,False,0.0,0.0
+02670,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,,,,4,False,False,0.0,0.0
+02685,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,,,,4,False,False,0.0,0.0
+02700,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,,,,4,False,False,0.0,0.0
+02715,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,,,,5,False,False,0.0,0.0
+02730,X,105.0,Fire Spirit,29.0,Elixir Collector,26.0,Witch,103.0,,,,5,False,False,0.0,0.0
+02745,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,Fire Spirit,29.0,2.0,4,True,True,1.0,1.0
+02760,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,5,False,False,0.0,0.0
+02775,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,5,False,False,0.0,0.0
+02790,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,5,False,False,0.0,0.0
+02805,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,6,False,False,0.0,0.0
+02820,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,6,False,False,0.0,0.0
+02835,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,6,False,False,0.0,0.0
+02850,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,6,False,False,0.0,0.0
+02865,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,6,False,False,0.0,0.0
+02880,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,7,False,False,0.0,0.0
+02895,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,7,False,False,0.0,0.0
+02910,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,7,False,False,0.0,0.0
+02925,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,7,False,False,0.0,0.0
+02940,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,7,False,False,0.0,0.0
+02955,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,7,False,False,0.0,0.0
+02970,X,105.0,Mini P.E.K.K.A,67.0,Elixir Collector,26.0,Witch,103.0,,,,8,False,False,0.0,0.0
+02985,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Elixir Collector,26.0,3.0,2,True,True,6.0,6.0
+03000,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,2,False,False,0.0,0.0
+03015,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,2,False,False,0.0,0.0
+03030,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,3,False,False,0.0,0.0
+03045,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+03060,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+03075,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+03090,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+03105,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+03120,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+03135,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+03150,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+03165,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+03180,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+03195,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+03210,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+03225,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+03240,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+03255,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+03270,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+03285,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,7,False,False,0.0,0.0
+03300,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,9,False,False,0.0,0.0
+03315,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,Witch,103.0,4.0,9,True,False,0.0,5.0
+03330,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03345,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+03360,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,4,False,False,0.0,0.0
+03375,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Elixir Collector,26.0,4.0,4,True,True,5.0,6.0
+03390,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03405,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03420,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03435,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03450,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03465,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03480,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+03495,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+03510,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+03525,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+03540,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+03555,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,8,False,False,0.0,0.0
+03570,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,9,False,False,0.0,0.0
+03585,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,9,False,False,0.0,0.0
+03600,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,10,False,False,0.0,0.0
+03615,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,X,105.0,1.0,4,True,True,6.0,6.0
+03630,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+03645,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+03660,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+03675,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+03690,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+03705,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,Electro Spirit,23.0,4.0,4,True,True,1.0,1.0
+03720,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03735,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03750,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03765,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+03780,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+03795,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+03810,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+03825,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,Fire Spirit,29.0,4.0,5,True,False,0.0,1.0
+03840,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,5,False,False,0.0,0.0
+03855,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03870,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03885,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,6,False,False,0.0,0.0
+03900,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,Elixir Collector,26.0,4.0,0,True,True,6.0,6.0
+03915,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,0,False,False,0.0,0.0
+03930,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,0,False,False,0.0,0.0
+03945,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,1,False,False,0.0,0.0
+03960,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,1,False,False,0.0,0.0
+03975,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,1,False,False,0.0,0.0
+03990,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,1,False,False,0.0,0.0
+04005,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,1,False,False,0.0,0.0
+04020,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,1,False,False,0.0,0.0
+04035,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,2,False,False,0.0,0.0
+04050,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,2,False,False,0.0,0.0
+04065,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,2,False,False,0.0,0.0
+04080,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,2,False,False,0.0,0.0
+04095,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,3,False,False,0.0,0.0
+04110,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+04125,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+04140,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+04155,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+04170,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+04185,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+04200,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,6,False,False,0.0,0.0
+04215,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,6,False,False,0.0,0.0
+04230,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,6,False,False,0.0,0.0
+04245,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,6,False,False,0.0,0.0
+04260,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,6,False,False,0.0,0.0
+04275,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,6,False,False,0.0,0.0
+04290,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+04305,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+04320,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+04335,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+04350,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+04365,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,9,False,False,0.0,0.0
+04380,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,9,False,False,0.0,0.0
+04395,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,9,False,False,0.0,0.0
+04410,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,10,False,False,0.0,0.0
+04425,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,X,105.0,4.0,4,True,True,6.0,6.0
+04440,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+04455,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+04470,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+04485,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+04500,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,1.0,5,True,True,1.0,2.0
+04515,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+04530,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+04545,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+04560,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+04575,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+04590,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+04605,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+04620,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+04635,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,9,False,False,0.0,0.0
+04650,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,9,False,False,0.0,0.0
+04665,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,10,False,False,0.0,0.0
+04680,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,10,False,False,0.0,0.0
+04695,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Electro Spirit,23.0,4.0,9,True,True,1.0,1.0
+04710,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,9,False,False,0.0,0.0
+04725,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Fire Spirit,29.0,1.0,8,True,True,1.0,1.0
+04740,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,10,False,False,0.0,0.0
+04755,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,10,False,False,0.0,0.0
+04770,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,10,False,False,0.0,0.0
+04785,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Elixir Collector,26.0,1.0,4,True,True,6.0,6.0
+04800,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+04815,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+04830,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+04845,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+04860,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+04875,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+04890,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+04905,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,8,False,False,0.0,0.0
+04920,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,8,False,False,0.0,0.0
+04935,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,8,False,False,0.0,0.0
+04950,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,9,False,False,0.0,0.0
+04965,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,X,105.0,1.0,4,True,True,5.0,6.0
+04980,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+04995,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+05010,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+05025,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,7,False,False,0.0,0.0
+05040,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,7,False,False,0.0,0.0
+05055,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,7,False,False,0.0,0.0
+05070,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,9,False,False,0.0,0.0
+05085,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,9,False,False,0.0,0.0
+05100,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,9,False,False,0.0,0.0
+05115,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Witch,103.0,4.0,5,True,True,4.0,5.0
+05130,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05145,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05160,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+05175,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,1.0,4,True,True,2.0,2.0
+05190,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+05205,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05220,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05235,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05250,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+05265,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+05280,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+05295,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+05310,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+05325,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Electro Spirit,23.0,4.0,7,True,False,0.0,1.0
+05340,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,Witch,103.0,4.0,8,True,False,0.0,5.0
+05355,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05370,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,9,False,False,0.0,0.0
+05385,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,Fire Spirit,29.0,1.0,8,True,True,1.0,1.0
+05400,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Elixir Collector,26.0,,,,8,False,False,0.0,0.0
+05415,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,Elixir Collector,26.0,4.0,3,True,True,5.0,6.0
+05430,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+05445,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+05460,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05475,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05490,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05505,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05520,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+05535,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+05550,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05565,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+05580,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+05595,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,8,False,False,0.0,0.0
+05610,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,9,False,False,0.0,0.0
+05625,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,X,105.0,1.0,4,True,True,5.0,6.0
+05640,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05655,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+05670,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Ice Golem,53.0,Electro Spirit,23.0,1.0,4,True,False,0.0,1.0
+05685,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Ice Golem,53.0,4.0,2,True,True,2.0,2.0
+05700,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,2,False,False,0.0,0.0
+05715,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+05730,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,4,False,False,0.0,0.0
+05745,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+05760,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+05775,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,5,False,False,0.0,0.0
+05790,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+05805,Fire Spirit,29.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,6,False,False,0.0,0.0
+05820,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,Fire Spirit,29.0,1.0,6,True,False,0.0,1.0
+05835,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,7,False,False,0.0,0.0
+05850,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Witch,103.0,,,,7,False,False,0.0,0.0
+05865,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Witch,103.0,4.0,8,True,True,4.0,5.0
+05880,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,8,False,False,0.0,0.0
+05895,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+05910,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+05925,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05940,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+05955,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+05970,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+05985,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+06000,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,8,False,False,0.0,0.0
+06015,X,105.0,Ice Golem,53.0,The Log,97.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,2.0,3,True,True,5.0,4.0
+06030,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,2.0,3,True,False,0.0,2.0
+06045,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+06060,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+06075,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+06090,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+06105,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+06120,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+06135,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+06150,X,105.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,7,False,False,0.0,0.0
+06165,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,X,105.0,1.0,3,True,True,4.0,6.0
+06180,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+06195,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+06210,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+06225,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,Electro Spirit,23.0,4.0,3,True,True,1.0,1.0
+06240,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,Ice Golem,53.0,1.0,1,True,True,2.0,2.0
+06255,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06270,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06285,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+06300,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+06315,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,Fire Spirit,29.0,4.0,3,True,True,1.0,1.0
+06330,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,3,False,False,0.0,0.0
+06345,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+06360,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,4,False,False,0.0,0.0
+06375,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,5,False,False,0.0,0.0
+06390,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,5,False,False,0.0,0.0
+06405,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,5,False,False,0.0,0.0
+06420,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+06435,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,8,False,False,0.0,0.0
+06450,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,X,105.0,4.0,2,True,True,6.0,6.0
+06465,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+06480,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+06495,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+06510,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+06525,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+06540,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+06555,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+06570,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+06585,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,Elixir Collector,26.0,1.0,1,True,True,5.0,6.0
+06600,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,1,False,False,0.0,0.0
+06615,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,1,False,False,0.0,0.0
+06630,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,2,False,False,0.0,0.0
+06645,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,2,False,False,0.0,0.0
+06660,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,2,False,False,0.0,0.0
+06675,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+06690,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+06705,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+06720,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+06735,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,6,False,False,0.0,0.0
+06750,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,Electro Spirit,23.0,4.0,5,True,True,1.0,1.0
+06765,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06780,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+06795,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,Fire Spirit,29.0,4.0,8,True,False,0.0,1.0
+06810,Ice Golem,53.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,8,False,False,0.0,0.0
+06825,Witch,103.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,Ice Golem,53.0,1.0,6,True,True,2.0,2.0
+06840,Witch,103.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+06855,Witch,103.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+06870,Witch,103.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+06885,Witch,103.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,9,False,False,0.0,0.0
+06900,Witch,103.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,9,False,False,0.0,0.0
+06915,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,Witch,103.0,1.0,4,True,True,5.0,5.0
+06930,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,5,False,False,0.0,0.0
+06945,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,5,False,False,0.0,0.0
+06960,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,5,False,False,0.0,0.0
+06975,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+06990,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,X,105.0,,,,7,False,False,0.0,0.0
+07005,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,X,105.0,4.0,2,True,True,5.0,6.0
+07020,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,2,False,False,0.0,0.0
+07035,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,2,False,False,0.0,0.0
+07050,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,3,False,False,0.0,0.0
+07065,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+07080,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,4,False,False,0.0,0.0
+07095,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+07110,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+07125,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,The Log,97.0,Electro Spirit,23.0,,,,5,False,False,0.0,0.0
+07140,Elixir Collector,26.0,Fire Spirit,29.0,The Log,97.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,2.0,2,True,True,3.0,4.0
+07155,Elixir Collector,26.0,Fire Spirit,29.0,The Log,97.0,Ice Golem,53.0,Electro Spirit,23.0,4.0,2,True,False,0.0,1.0
+07170,Elixir Collector,26.0,Fire Spirit,29.0,The Log,97.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07185,Elixir Collector,26.0,X,105.0,The Log,97.0,Ice Golem,53.0,Fire Spirit,29.0,2.0,2,True,False,0.0,1.0
+07200,Elixir Collector,26.0,X,105.0,The Log,97.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07215,Elixir Collector,26.0,X,105.0,The Log,97.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07230,Elixir Collector,26.0,X,105.0,The Log,97.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07245,Elixir Collector,26.0,X,105.0,The Log,97.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07260,Elixir Collector,26.0,X,105.0,The Log,97.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07275,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,The Log,97.0,3.0,3,True,True,3.0,2.0
+07290,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07305,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07320,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07335,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07350,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07365,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,5,False,True,1.0,0.0
+07380,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+07395,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07410,Elixir Collector,26.0,X,105.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07425,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,X,105.0,2.0,3,True,True,4.0,6.0
+07440,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07455,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07470,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07485,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07500,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07515,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07530,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07545,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+07560,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0
+07575,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Fire Spirit,29.0,Ice Golem,53.0,4.0,5,True,True,2.0,2.0
+07590,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07605,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07620,Elixir Collector,26.0,Electro Spirit,23.0,Mini P.E.K.K.A,67.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07635,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Fire Spirit,29.0,Electro Spirit,23.0,2.0,6,True,False,0.0,1.0
+07650,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07665,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Witch,103.0,Fire Spirit,29.0,4.0,5,True,True,1.0,1.0
+07680,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Witch,103.0,,,,6,False,False,0.0,0.0
+07695,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Witch,103.0,,,,7,False,False,0.0,0.0
+07710,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Witch,103.0,,,,7,False,False,0.0,0.0
+07725,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,Witch,103.0,4.0,3,True,True,4.0,5.0
+07740,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,3,False,False,0.0,0.0
+07755,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,3,False,False,0.0,0.0
+07770,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,4,False,False,0.0,0.0
+07785,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,5,False,False,0.0,0.0
+07800,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,5,False,False,0.0,0.0
+07815,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,6,False,False,0.0,0.0
+07830,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,X,105.0,,,,6,False,False,0.0,0.0
+07845,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,X,105.0,4.0,2,True,True,4.0,6.0
+07860,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07875,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07890,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07905,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07920,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+07935,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07950,Elixir Collector,26.0,The Log,97.0,Mini P.E.K.K.A,67.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+07965,Elixir Collector,26.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,Mini P.E.K.K.A,67.0,3.0,1,True,True,3.0,4.0
+07980,Elixir Collector,26.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+07995,Elixir Collector,26.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,,,,2,False,False,0.0,0.0
+08010,Elixir Collector,26.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+08025,Elixir Collector,26.0,The Log,97.0,Electro Spirit,23.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+08040,Elixir Collector,26.0,The Log,97.0,Fire Spirit,29.0,Ice Golem,53.0,Electro Spirit,23.0,3.0,2,True,True,1.0,1.0
+08055,Elixir Collector,26.0,The Log,97.0,Fire Spirit,29.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+08070,Elixir Collector,26.0,The Log,97.0,Fire Spirit,29.0,Ice Golem,53.0,,,,3,False,False,0.0,0.0
+08085,Elixir Collector,26.0,The Log,97.0,Fire Spirit,29.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+08100,Elixir Collector,26.0,The Log,97.0,X,105.0,Ice Golem,53.0,Fire Spirit,29.0,3.0,3,True,True,1.0,1.0
+08115,Elixir Collector,26.0,The Log,97.0,X,105.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+08130,Elixir Collector,26.0,The Log,97.0,X,105.0,Ice Golem,53.0,,,,4,False,False,0.0,0.0
+08145,Elixir Collector,26.0,The Log,97.0,X,105.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+08160,Elixir Collector,26.0,The Log,97.0,X,105.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+08175,Elixir Collector,26.0,The Log,97.0,X,105.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+08190,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,X,105.0,Ice Golem,53.0,The Log,97.0,2.0,4,True,True,2.0,2.0
+08205,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,X,105.0,Ice Golem,53.0,,,,5,False,False,0.0,0.0
+08220,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,X,105.0,Ice Golem,53.0,,,,6,False,False,0.0,0.0
+08235,Elixir Collector,26.0,Mini P.E.K.K.A,67.0,X,105.0,Ice Golem,53.0,,,,7,False,False,0.0,0.0

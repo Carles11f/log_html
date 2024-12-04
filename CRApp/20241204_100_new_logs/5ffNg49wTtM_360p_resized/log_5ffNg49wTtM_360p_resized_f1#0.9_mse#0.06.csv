@@ -1,0 +1,371 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00840,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+00855,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+00870,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+00885,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+00900,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+00915,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+00930,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+00945,Goblins,45.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+00960,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,Princess,79.0,4.0,6,True,True,3.0,3.0
+00975,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,6,False,False,0.0,0.0
+00990,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,7,False,False,0.0,0.0
+01005,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,7,False,False,0.0,0.0
+01020,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,7,False,False,0.0,0.0
+01035,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,7,False,False,0.0,0.0
+01050,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,7,False,False,0.0,0.0
+01065,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,7,False,False,0.0,0.0
+01080,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,8,False,False,0.0,0.0
+01095,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,8,False,False,0.0,0.0
+01110,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,8,False,False,0.0,0.0
+01125,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,8,False,False,0.0,0.0
+01140,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,8,False,False,0.0,0.0
+01155,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,9,False,False,0.0,0.0
+01170,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,9,False,False,0.0,0.0
+01185,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,9,False,False,0.0,0.0
+01200,Goblins,45.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,9,False,False,0.0,0.0
+01215,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,Mighty Miner,65.0,4.0,5,True,True,4.0,4.0
+01230,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+01245,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+01260,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+01275,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+01290,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+01305,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+01320,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+01335,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+01350,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+01365,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+01380,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+01395,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+01410,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+01425,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+01440,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+01455,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+01470,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+01485,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+01500,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+01515,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+01530,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+01545,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+01560,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+01575,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+01590,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+01605,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+01620,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+01635,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+01650,Goblins,45.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+01665,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,Goblin Barrel,39.0,4.0,7,True,True,3.0,3.0
+01680,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01695,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01710,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01725,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01740,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01755,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01770,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01785,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01800,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01815,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+01830,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+01845,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+01860,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+01875,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+01890,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+01905,Goblins,45.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+01920,Goblins,45.0,Cannon,15.0,Rocket,83.0,The Log,97.0,Ice Spirit,54.0,4.0,9,True,False,0.0,1.0
+01935,Goblins,45.0,Cannon,15.0,Rocket,83.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01950,Goblins,45.0,Cannon,15.0,Rocket,83.0,The Log,97.0,,,,9,False,False,0.0,0.0
+01965,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,The Log,97.0,4.0,5,True,True,4.0,2.0
+01980,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,5,False,False,0.0,0.0
+01995,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,5,False,False,0.0,0.0
+02010,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02025,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02040,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02055,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02070,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02085,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02100,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02115,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02130,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02145,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02160,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02175,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02190,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02205,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02220,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02235,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02250,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02265,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02280,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02295,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02310,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02325,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02340,Mighty Miner,65.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,10,False,False,0.0,0.0
+02355,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,Mighty Miner,65.0,1.0,6,True,True,4.0,4.0
+02370,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02385,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02400,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02415,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02430,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02445,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02460,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02475,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02490,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02505,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02520,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02535,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02550,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02565,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02580,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02595,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02610,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+02625,Goblin Barrel,39.0,Ice Spirit,54.0,Rocket,83.0,Princess,79.0,Cannon,15.0,2.0,6,True,True,3.0,3.0
+02640,Goblin Barrel,39.0,Ice Spirit,54.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02655,Goblin Barrel,39.0,Ice Spirit,54.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02670,Goblin Barrel,39.0,Ice Spirit,54.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02685,Goblin Barrel,39.0,Ice Spirit,54.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02700,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,Ice Spirit,54.0,2.0,6,True,True,1.0,1.0
+02715,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02730,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02745,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02760,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+02775,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02790,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02805,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02820,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02835,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02850,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+02865,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02880,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02895,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02910,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02925,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+02940,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,Princess,79.0,4.0,6,True,True,2.0,3.0
+02955,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,6,False,False,0.0,0.0
+02970,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,6,False,False,0.0,0.0
+02985,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,6,False,False,0.0,0.0
+03000,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,6,False,False,0.0,0.0
+03015,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,6,False,False,0.0,0.0
+03030,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,7,False,False,0.0,0.0
+03045,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,7,False,False,0.0,0.0
+03060,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,7,False,False,0.0,0.0
+03075,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,7,False,False,0.0,0.0
+03090,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,7,False,False,0.0,0.0
+03105,Cannon,15.0,Goblins,45.0,Rocket,83.0,The Log,97.0,Goblin Barrel,39.0,1.0,5,True,True,2.0,3.0
+03120,Cannon,15.0,Goblins,45.0,Rocket,83.0,The Log,97.0,,,,5,False,False,0.0,0.0
+03135,Cannon,15.0,Goblins,45.0,Rocket,83.0,Mighty Miner,65.0,The Log,97.0,4.0,3,True,True,2.0,2.0
+03150,Cannon,15.0,Goblins,45.0,Rocket,83.0,Mighty Miner,65.0,,,,3,False,False,0.0,0.0
+03165,Cannon,15.0,Goblins,45.0,Rocket,83.0,Mighty Miner,65.0,,,,3,False,False,0.0,0.0
+03180,Cannon,15.0,Goblins,45.0,Rocket,83.0,Mighty Miner,65.0,,,,3,False,False,0.0,0.0
+03195,Cannon,15.0,Goblins,45.0,Rocket,83.0,Mighty Miner,65.0,,,,4,False,False,0.0,0.0
+03210,Cannon,15.0,Goblins,45.0,Rocket,83.0,Mighty Miner,65.0,,,,4,False,False,0.0,0.0
+03225,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,Mighty Miner,65.0,4.0,0,True,True,4.0,4.0
+03240,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,0,False,False,0.0,0.0
+03255,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,0,False,False,0.0,0.0
+03270,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,0,False,False,0.0,0.0
+03285,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+03300,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+03315,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+03330,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+03345,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,1,False,False,0.0,0.0
+03360,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+03375,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+03390,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+03405,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+03420,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+03435,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,2,False,False,0.0,0.0
+03450,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+03465,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+03480,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+03495,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+03510,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,3,False,False,0.0,0.0
+03525,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+03540,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+03555,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+03570,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+03585,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+03600,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,4,False,False,0.0,0.0
+03615,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+03630,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+03645,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+03660,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+03675,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+03690,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+03705,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+03720,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+03735,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+03750,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+03765,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,6,False,False,0.0,0.0
+03780,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+03795,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+03810,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+03825,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+03840,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+03855,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,7,False,False,0.0,0.0
+03870,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+03885,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+03900,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+03915,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+03930,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+03945,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,8,False,False,0.0,0.0
+03960,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+03975,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+03990,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+04005,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+04020,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,9,False,False,0.0,0.0
+04035,Cannon,15.0,Goblins,45.0,Rocket,83.0,Ice Spirit,54.0,,,,10,False,False,0.0,0.0
+04050,Cannon,15.0,Goblins,45.0,Rocket,83.0,Princess,79.0,Ice Spirit,54.0,4.0,9,True,True,1.0,1.0
+04065,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,Cannon,15.0,1.0,6,True,True,3.0,3.0
+04080,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04095,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04110,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04125,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04140,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04155,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04170,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04185,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04200,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04215,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+04230,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+04245,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+04260,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,8,False,False,0.0,0.0
+04275,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+04290,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+04305,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,9,False,False,0.0,0.0
+04320,Goblin Barrel,39.0,Goblins,45.0,Rocket,83.0,Princess,79.0,,,,10,False,False,0.0,0.0
+04335,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,Rocket,83.0,3.0,4,True,True,6.0,6.0
+04350,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04365,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04380,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,5,False,False,0.0,0.0
+04395,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,5,False,False,0.0,0.0
+04410,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,5,False,False,0.0,0.0
+04425,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04440,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04455,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04470,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04485,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04500,Goblin Barrel,39.0,Goblins,45.0,Mighty Miner,65.0,Princess,79.0,,,,8,False,False,0.0,0.0
+04515,Goblin Barrel,39.0,The Log,97.0,Mighty Miner,65.0,Princess,79.0,Goblins,45.0,2.0,6,True,True,2.0,2.0
+04530,Goblin Barrel,39.0,The Log,97.0,Mighty Miner,65.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04545,Goblin Barrel,39.0,The Log,97.0,Mighty Miner,65.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04560,Goblin Barrel,39.0,The Log,97.0,Ice Spirit,54.0,Princess,79.0,Mighty Miner,65.0,3.0,3,True,True,4.0,4.0
+04575,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,The Log,97.0,2.0,1,True,True,2.0,2.0
+04590,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,2,False,False,0.0,0.0
+04605,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,2,False,False,0.0,0.0
+04620,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,1,False,True,1.0,0.0
+04635,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,2,False,False,0.0,0.0
+04650,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,2,False,False,0.0,0.0
+04665,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,2,False,False,0.0,0.0
+04680,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,3,False,False,0.0,0.0
+04695,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,3,False,False,0.0,0.0
+04710,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04725,Goblin Barrel,39.0,Cannon,15.0,Ice Spirit,54.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04740,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,Ice Spirit,54.0,3.0,3,True,True,1.0,1.0
+04755,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04770,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04785,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,4,False,False,0.0,0.0
+04800,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,5,False,False,0.0,0.0
+04815,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,5,False,False,0.0,0.0
+04830,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,5,False,False,0.0,0.0
+04845,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04860,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04875,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,6,False,False,0.0,0.0
+04890,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,7,False,False,0.0,0.0
+04905,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,Princess,79.0,4.0,4,True,True,3.0,3.0
+04920,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+04935,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+04950,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+04965,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+04980,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+04995,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+05010,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+05025,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+05040,Goblin Barrel,39.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,7,False,False,0.0,0.0
+05055,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,Goblin Barrel,39.0,1.0,5,True,True,2.0,3.0
+05070,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+05085,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,5,False,False,0.0,0.0
+05100,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+05115,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblins,45.0,,,,6,False,False,0.0,0.0
+05130,The Log,97.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,Goblins,45.0,4.0,5,True,True,1.0,2.0
+05145,The Log,97.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+05160,The Log,97.0,Cannon,15.0,Rocket,83.0,Ice Spirit,54.0,,,,5,False,False,0.0,0.0
+05175,The Log,97.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,Ice Spirit,54.0,4.0,6,True,False,0.0,1.0
+05190,The Log,97.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,6,False,False,0.0,0.0
+05205,The Log,97.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,6,False,False,0.0,0.0
+05220,The Log,97.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,6,False,False,0.0,0.0
+05235,The Log,97.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,6,False,False,0.0,0.0
+05250,The Log,97.0,Cannon,15.0,Rocket,83.0,Mighty Miner,65.0,,,,6,False,False,0.0,0.0
+05265,The Log,97.0,Cannon,15.0,Rocket,83.0,Princess,79.0,Mighty Miner,65.0,4.0,3,True,True,3.0,4.0
+05280,The Log,97.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,3,False,False,0.0,0.0
+05295,The Log,97.0,Cannon,15.0,Rocket,83.0,Princess,79.0,,,,3,False,False,0.0,0.0
+05310,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,Princess,79.0,4.0,1,True,True,2.0,3.0
+05325,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,1,False,False,0.0,0.0
+05340,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,2,False,False,0.0,0.0
+05355,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,2,False,False,0.0,0.0
+05370,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,2,False,False,0.0,0.0
+05385,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,3,False,False,0.0,0.0
+05400,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,3,False,False,0.0,0.0
+05415,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,3,False,False,0.0,0.0
+05430,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,4,False,False,0.0,0.0
+05445,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,4,False,False,0.0,0.0
+05460,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,4,False,False,0.0,0.0
+05475,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05490,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,4,False,True,1.0,0.0
+05505,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,4,False,False,0.0,0.0
+05520,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05535,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05550,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+05565,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+05580,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+05595,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+05610,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+05625,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+05640,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+05655,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+05670,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+05685,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+05700,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+05715,The Log,97.0,Cannon,15.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+05730,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,Cannon,15.0,2.0,7,True,True,2.0,3.0
+05745,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+05760,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+05775,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+05790,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+05805,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+05820,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+05835,The Log,97.0,Goblins,45.0,Rocket,83.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+05850,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,Rocket,83.0,3.0,4,True,True,5.0,6.0
+05865,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,,,,4,False,False,0.0,0.0
+05880,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,,,,4,False,False,0.0,0.0
+05895,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05910,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05925,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05940,The Log,97.0,Goblins,45.0,Ice Spirit,54.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+05955,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,Ice Spirit,54.0,3.0,5,True,True,1.0,1.0
+05970,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,5,False,False,0.0,0.0
+05985,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+06000,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,6,False,False,0.0,0.0
+06015,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+06030,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+06045,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,7,False,False,0.0,0.0
+06060,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+06075,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+06090,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+06105,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+06120,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+06135,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,9,False,False,0.0,0.0
+06150,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06165,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06180,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06195,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06210,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06225,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06240,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06255,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06270,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06285,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06300,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,True,2.0,0.0
+06315,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+06330,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0
+06345,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,10,False,False,0.0,0.0
+06360,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,True,2.0,0.0
+06375,The Log,97.0,Goblins,45.0,Mighty Miner,65.0,Goblin Barrel,39.0,,,,8,False,False,0.0,0.0

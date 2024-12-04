@@ -1,0 +1,488 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00945,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00960,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00975,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+00990,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01005,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01020,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01035,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01050,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01065,Royal Recruits,88.0,Giant Skeleton,37.0,Zappies,107.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01080,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,Zappies,107.0,3.0,5,True,True,4.0,4.0
+01095,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01110,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01125,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01140,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01155,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01170,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01185,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01200,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01215,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01230,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01245,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01260,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01275,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01290,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01305,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01320,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01335,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01350,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01365,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01380,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,True,6.0,0.0
+01395,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01410,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01425,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01440,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+01455,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+01470,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+01485,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+01500,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+01515,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+01530,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01545,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01560,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01575,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01590,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+01605,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01620,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01635,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01650,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01665,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01680,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+01695,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+01710,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01725,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01740,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01755,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01770,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01785,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01800,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01815,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01830,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01845,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+01860,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01875,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01890,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01905,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01920,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01935,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+01950,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,Royal Recruits,88.0,1.0,3,True,True,6.0,7.0
+01965,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01980,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+01995,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+02010,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+02025,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+02040,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02055,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02070,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02085,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02100,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02115,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+02130,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+02145,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+02160,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+02175,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+02190,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+02205,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+02220,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+02235,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+02250,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+02265,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+02280,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+02295,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+02310,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+02325,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+02340,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+02355,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+02370,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+02385,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+02400,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+02415,Electro Spirit,23.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+02430,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,Giant Skeleton,37.0,2.0,3,True,True,5.0,6.0
+02445,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+02460,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02475,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02490,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+02505,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,Flying Machine,33.0,2.0,0,True,True,4.0,4.0
+02520,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,0,False,False,0.0,0.0
+02535,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02550,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02565,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02580,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02595,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02610,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02625,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02640,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02655,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02670,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02685,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02700,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02715,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,True,1.0,0.0
+02730,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02745,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02760,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,Electro Spirit,23.0,1.0,0,True,True,1.0,1.0
+02775,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,0,False,False,0.0,0.0
+02790,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02805,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02820,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02835,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02850,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02865,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+02880,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02895,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02910,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02925,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02940,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+02955,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+02970,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+02985,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03000,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03015,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03030,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03045,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03060,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03075,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03090,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,Zappies,107.0,2.0,0,True,True,4.0,4.0
+03105,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,0,False,False,0.0,0.0
+03120,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,0,False,False,0.0,0.0
+03135,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+03150,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+03165,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+03180,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+03195,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+03210,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03225,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03240,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03255,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03270,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03285,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03300,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03315,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03330,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03345,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03360,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03375,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03390,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03405,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03420,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03435,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03450,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03465,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03480,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03495,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03510,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03525,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03540,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03555,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03570,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03585,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03600,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03615,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03630,Royal Recruits,88.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+03645,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,Giant Skeleton,37.0,2.0,2,True,True,5.0,6.0
+03660,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03675,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03690,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03705,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+03720,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03735,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03750,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03765,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03780,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03795,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+03810,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03825,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03840,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03855,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03870,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+03885,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03900,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,True,1.0,0.0
+03915,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03930,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03945,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03960,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+03975,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+03990,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04005,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04020,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04035,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04050,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04065,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,True,6.0,0.0
+04080,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+04095,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+04110,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+04125,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,1,False,False,0.0,0.0
+04140,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04155,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04170,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04185,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04200,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04215,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04230,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04245,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04260,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04275,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04290,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04305,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04320,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04335,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04350,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04365,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04380,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04395,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04410,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04425,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04440,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04455,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04470,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04485,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04500,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,7,False,False,0.0,0.0
+04515,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+04530,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,8,False,False,0.0,0.0
+04545,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+04560,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+04575,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,9,False,False,0.0,0.0
+04590,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,Royal Recruits,88.0,1.0,3,True,True,6.0,7.0
+04605,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04620,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04635,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04650,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04665,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04680,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04695,Electro Spirit,23.0,Flying Machine,33.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04710,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,Flying Machine,33.0,2.0,1,True,True,4.0,4.0
+04725,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04740,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,2,False,False,0.0,0.0
+04755,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04770,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04785,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,3,False,False,0.0,0.0
+04800,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04815,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04830,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,4,False,False,0.0,0.0
+04845,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04860,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04875,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,5,False,False,0.0,0.0
+04890,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04905,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04920,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Arrows,2.0,,,,6,False,False,0.0,0.0
+04935,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,Arrows,2.0,4.0,4,True,True,2.0,3.0
+04950,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+04965,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04980,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+04995,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05010,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05025,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05040,Electro Spirit,23.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05055,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,Electro Spirit,23.0,1.0,6,True,False,0.0,1.0
+05070,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05085,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05100,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05115,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05130,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,Giant Skeleton,37.0,4.0,7,True,False,0.0,6.0
+05145,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05160,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05175,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05190,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05205,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05220,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+05235,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+05250,Royal Recruits,88.0,Zappies,107.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+05265,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,Zappies,107.0,2.0,6,True,True,4.0,4.0
+05280,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05295,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05310,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05325,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05340,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05355,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05370,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05385,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05400,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05415,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05430,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+05445,Royal Recruits,88.0,Royal Recruits,88.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,10,False,False,0.0,0.0
+05460,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,Magic Archer,62.0,4.0,3,True,True,7.0,4.0
+05475,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,3,False,False,0.0,0.0
+05490,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05505,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05520,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05535,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05550,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05565,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,Barbarian Barrel,6.0,3.0,3,True,True,2.0,2.0
+05580,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05595,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05610,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05625,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05640,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05655,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05670,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05685,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Giant Skeleton,37.0,Arrows,2.0,3.0,3,True,True,3.0,3.0
+05700,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05715,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05730,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,Electro Spirit,23.0,3.0,3,True,True,1.0,1.0
+05745,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05760,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05775,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,4,False,False,0.0,0.0
+05790,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05805,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05820,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,5,False,False,0.0,0.0
+05835,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05850,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05865,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,6,False,False,0.0,0.0
+05880,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05895,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,7,False,False,0.0,0.0
+05910,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Giant Skeleton,37.0,,,,8,False,False,0.0,0.0
+05925,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,Giant Skeleton,37.0,4.0,8,True,False,0.0,6.0
+05940,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05955,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05970,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05985,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,True,5.0,0.0
+06000,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,Flying Machine,33.0,2.0,1,True,True,3.0,4.0
+06015,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06030,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06045,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06060,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06075,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06090,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06105,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06120,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06135,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,Barbarian Barrel,6.0,2.0,2,True,True,2.0,2.0
+06150,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06165,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06180,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06195,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06210,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,Arrows,2.0,2.0,1,True,True,2.0,3.0
+06225,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06240,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06255,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06270,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06285,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06300,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06315,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06330,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06345,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06360,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06375,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06390,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06405,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06420,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06435,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06450,Royal Recruits,88.0,Electro Spirit,23.0,Zappies,107.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06465,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,Zappies,107.0,3.0,3,True,True,3.0,4.0
+06480,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06495,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06510,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06525,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06540,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06555,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06570,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06585,Royal Recruits,88.0,Electro Spirit,23.0,Arrows,2.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06600,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,Electro Spirit,23.0,2.0,6,True,True,1.0,1.0
+06615,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06630,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06645,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+06660,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,Flying Machine,33.0,2.0,2,True,True,4.0,4.0
+06675,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06690,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06705,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06720,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06735,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+06750,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06765,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06780,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+06795,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,1,False,True,4.0,0.0
+06810,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06825,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06840,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06855,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06870,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06885,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06900,Royal Recruits,88.0,Barbarian Barrel,6.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+06915,Royal Recruits,88.0,Barbarian Barrel,6.0,Royal Recruits,88.0,Magic Archer,62.0,Arrows,2.0,3.0,0,True,True,3.0,3.0
+06930,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,Royal Recruits,88.0,3.0,1,True,False,0.0,7.0
+06945,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+06960,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06975,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+06990,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07005,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07020,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07035,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07050,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07065,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07080,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07095,Royal Recruits,88.0,Barbarian Barrel,6.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07110,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,Zappies,107.0,3.0,1,True,True,4.0,4.0
+07125,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+07140,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07155,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07170,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07185,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07200,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07215,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07230,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07245,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07260,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07275,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07290,Royal Recruits,88.0,Barbarian Barrel,6.0,Electro Spirit,23.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07305,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,Barbarian Barrel,6.0,2.0,4,True,True,1.0,2.0
+07320,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07335,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07350,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07365,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,Electro Spirit,23.0,3.0,4,True,True,1.0,1.0
+07380,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07395,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07410,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07425,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07440,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07455,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07470,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,2,False,True,4.0,0.0
+07485,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07500,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07515,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07530,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07545,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07560,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07575,Royal Recruits,88.0,Flying Machine,33.0,Arrows,2.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07590,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,Arrows,2.0,3.0,2,True,True,2.0,3.0
+07605,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07620,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+07635,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07650,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07665,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07680,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07695,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07710,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07725,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07740,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07755,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+07770,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+07785,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Magic Archer,62.0,Zappies,107.0,3.0,2,True,True,4.0,4.0
+07800,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07815,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07830,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07845,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07860,Royal Recruits,88.0,Flying Machine,33.0,Barbarian Barrel,6.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07875,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,Barbarian Barrel,6.0,3.0,2,True,True,2.0,2.0
+07890,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07905,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07920,Royal Recruits,88.0,Flying Machine,33.0,Electro Spirit,23.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07935,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,Electro Spirit,23.0,3.0,3,True,False,0.0,1.0
+07950,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07965,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+07980,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+07995,Royal Recruits,88.0,Flying Machine,33.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08010,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,Flying Machine,33.0,2.0,1,True,True,4.0,4.0
+08025,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08040,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08055,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08070,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08085,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08100,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08115,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08130,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+08145,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+08160,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,1,False,True,5.0,0.0
+08175,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+08190,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08205,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+08220,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+08235,Royal Recruits,88.0,Arrows,2.0,Zappies,107.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0

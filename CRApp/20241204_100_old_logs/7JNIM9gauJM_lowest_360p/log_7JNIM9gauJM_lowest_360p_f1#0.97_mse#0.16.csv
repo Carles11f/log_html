@@ -1,0 +1,609 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00240,Flying Machine,33.0,Hunter,52.0,,,,,,,,6,False,False,0.0,0.0
+00255,Flying Machine,33.0,Hunter,52.0,,,,,,,,6,False,False,0.0,0.0
+00270,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,4.0,6,True,False,0.0,0.0
+00285,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00300,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00315,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00330,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00345,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00360,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00375,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00390,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00405,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00420,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00435,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00450,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00465,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00480,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00495,Flying Machine,33.0,Hunter,52.0,Bandit,5.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00510,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,Bandit,5.0,3.0,6,True,True,3.0,3.0
+00525,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+00540,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00555,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00570,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00585,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00600,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+00615,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00630,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00645,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00660,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00675,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00690,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+00705,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00720,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00735,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00750,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00765,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+00780,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,10,False,False,0.0,0.0
+00795,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,Royal Recruits,88.0,4.0,3,True,True,7.0,7.0
+00810,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+00825,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+00840,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+00855,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+00870,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+00885,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+00900,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+00915,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+00930,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+00945,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+00960,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+00975,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+00990,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01005,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01020,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01035,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01050,Flying Machine,33.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01065,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,Flying Machine,33.0,1.0,2,True,True,4.0,4.0
+01080,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01095,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01110,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01125,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01140,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01155,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01170,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01185,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01200,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01215,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01230,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01245,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01260,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01275,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01290,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01305,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01320,Fisherman,32.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01335,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Cannon Cart,16.0,3.0,0,True,True,5.0,5.0
+01350,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,0,False,False,0.0,0.0
+01365,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,0,False,False,0.0,0.0
+01380,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+01395,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+01410,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+01425,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+01440,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+01455,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01470,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01485,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01500,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01515,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01530,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+01545,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01560,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01575,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01590,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01605,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01620,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01635,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01650,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01665,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01680,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01695,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01710,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01725,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01740,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01755,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01770,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01785,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01800,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+01815,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Fisherman,32.0,1.0,3,True,True,3.0,3.0
+01830,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01845,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01860,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+01875,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01890,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01905,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01920,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01935,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01950,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+01965,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01980,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+01995,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+02010,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+02025,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+02040,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+02055,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02070,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02085,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02100,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02115,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+02130,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+02145,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+02160,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+02175,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+02190,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+02205,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+02220,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+02235,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+02250,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+02265,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+02280,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+02295,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+02310,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+02325,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+02340,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+02355,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,Fire Spirit,29.0,4.0,7,True,True,2.0,1.0
+02370,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02385,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02400,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02415,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02430,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02445,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02460,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02475,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02490,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02505,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02520,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02535,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,Bandit,5.0,1.0,6,True,True,3.0,3.0
+02550,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02565,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02580,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02595,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02610,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02625,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+02640,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02655,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02670,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02685,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02700,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+02715,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02730,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02745,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02760,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02775,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02790,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+02805,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,Royal Recruits,88.0,4.0,3,True,True,6.0,7.0
+02820,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+02835,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+02850,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+02865,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+02880,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+02895,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+02910,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+02925,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,Hunter,52.0,2.0,0,True,True,4.0,4.0
+02940,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,0,False,False,0.0,0.0
+02955,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,0,False,False,0.0,0.0
+02970,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+02985,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03000,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03015,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03030,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03045,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03060,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03075,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03090,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03105,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03120,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03135,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03150,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03165,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03180,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03195,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03210,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03225,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03240,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03255,Flying Machine,33.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03270,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,Flying Machine,33.0,1.0,0,True,True,4.0,4.0
+03285,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,0,False,False,0.0,0.0
+03300,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,0,False,False,0.0,0.0
+03315,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03330,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03345,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03360,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03375,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03390,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03405,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03420,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03435,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03450,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03465,Fire Spirit,29.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03480,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,Fire Spirit,29.0,1.0,1,True,True,1.0,1.0
+03495,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03510,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03525,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03540,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,1,False,False,0.0,0.0
+03555,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03570,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03585,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03600,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03615,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03630,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+03645,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03660,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03675,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03690,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03705,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03720,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+03735,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03750,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03765,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03780,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03795,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+03810,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03825,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03840,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,6,False,False,0.0,0.0
+03855,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03870,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03885,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+03900,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03915,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03930,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+03945,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03960,Bandit,5.0,Fisherman,32.0,Magic Archer,62.0,Cannon Cart,16.0,,,,9,False,False,0.0,0.0
+03975,Bandit,5.0,Royal Recruits,88.0,Magic Archer,62.0,Cannon Cart,16.0,Fisherman,32.0,2.0,7,True,True,2.0,3.0
+03990,Bandit,5.0,Royal Recruits,88.0,Magic Archer,62.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04005,Bandit,5.0,Royal Recruits,88.0,Magic Archer,62.0,Cannon Cart,16.0,,,,7,False,False,0.0,0.0
+04020,Bandit,5.0,Royal Recruits,88.0,Magic Archer,62.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04035,Bandit,5.0,Royal Recruits,88.0,Magic Archer,62.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04050,Bandit,5.0,Royal Recruits,88.0,Magic Archer,62.0,Cannon Cart,16.0,,,,8,False,False,0.0,0.0
+04065,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,Royal Recruits,88.0,2.0,2,True,True,6.0,7.0
+04080,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04095,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+04110,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04125,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04140,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+04155,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04170,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04185,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+04200,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04215,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+04230,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,Cannon Cart,16.0,4.0,1,True,True,4.0,5.0
+04245,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+04260,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+04275,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+04290,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+04305,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+04320,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+04335,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+04350,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+04365,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+04380,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+04395,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+04410,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+04425,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+04440,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,6,False,False,0.0,0.0
+04455,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,Bandit,5.0,1.0,3,True,True,3.0,3.0
+04470,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+04485,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+04500,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+04515,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+04530,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+04545,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+04560,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+04575,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Flying Machine,33.0,,,,6,False,False,0.0,0.0
+04590,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,Flying Machine,33.0,4.0,2,True,True,4.0,4.0
+04605,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,2,False,False,0.0,0.0
+04620,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04635,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,3,False,False,0.0,0.0
+04650,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04665,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04680,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,4,False,False,0.0,0.0
+04695,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04710,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04725,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,5,False,False,0.0,0.0
+04740,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04755,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04770,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,6,False,False,0.0,0.0
+04785,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04800,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,7,False,False,0.0,0.0
+04815,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04830,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04845,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,8,False,False,0.0,0.0
+04860,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Fisherman,32.0,,,,9,False,False,0.0,0.0
+04875,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,Fisherman,32.0,4.0,6,True,True,3.0,3.0
+04890,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+04905,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04920,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04935,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+04950,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+04965,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+04980,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+04995,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05010,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05025,Fire Spirit,29.0,Hunter,52.0,Magic Archer,62.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05040,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,Magic Archer,62.0,3.0,6,True,True,3.0,4.0
+05055,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+05070,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,6,False,False,0.0,0.0
+05085,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+05100,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+05115,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+05130,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+05145,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+05160,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+05175,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05190,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,9,False,False,0.0,0.0
+05205,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Royal Recruits,88.0,,,,10,False,False,0.0,0.0
+05220,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,Royal Recruits,88.0,4.0,3,True,True,7.0,7.0
+05235,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+05250,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05265,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05280,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+05295,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05310,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05325,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+05340,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+05355,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,Bandit,5.0,4.0,3,True,True,3.0,3.0
+05370,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+05385,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+05400,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+05415,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+05430,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+05445,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Flying Machine,33.0,,,,5,False,False,0.0,0.0
+05460,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,Cannon Cart,16.0,3.0,1,True,True,4.0,5.0
+05475,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+05490,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,1,False,False,0.0,0.0
+05505,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+05520,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+05535,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,2,False,False,0.0,0.0
+05550,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+05565,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+05580,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,3,False,False,0.0,0.0
+05595,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+05610,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Flying Machine,33.0,,,,4,False,False,0.0,0.0
+05625,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,Flying Machine,33.0,4.0,0,True,True,4.0,4.0
+05640,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+05655,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,1,False,False,0.0,0.0
+05670,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+05685,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+05700,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,2,False,False,0.0,0.0
+05715,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+05730,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+05745,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,3,False,False,0.0,0.0
+05760,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05775,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05790,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,4,False,False,0.0,0.0
+05805,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05820,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05835,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,5,False,False,0.0,0.0
+05850,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05865,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,6,False,False,0.0,0.0
+05880,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05895,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05910,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+05925,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05940,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05955,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+05970,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+05985,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06000,Fire Spirit,29.0,Hunter,52.0,Fisherman,32.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06015,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,Fisherman,32.0,3.0,7,True,True,2.0,3.0
+06030,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06045,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+06060,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06075,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+06090,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06105,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+06120,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,Magic Archer,62.0,4.0,5,True,True,4.0,4.0
+06135,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06150,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06165,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06180,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06195,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06210,Fire Spirit,29.0,Hunter,52.0,Royal Recruits,88.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06225,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,Royal Recruits,88.0,3.0,8,True,False,0.0,7.0
+06240,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06255,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06270,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,2,False,True,6.0,0.0
+06285,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+06300,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+06315,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+06330,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+06345,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06360,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06375,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06390,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06405,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06420,Fire Spirit,29.0,Hunter,52.0,Cannon Cart,16.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06435,Fire Spirit,29.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,Cannon Cart,16.0,3.0,1,True,True,4.0,5.0
+06450,Fire Spirit,29.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+06465,Fire Spirit,29.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+06480,Fire Spirit,29.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+06495,Fire Spirit,29.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+06510,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,Fire Spirit,29.0,1.0,1,True,True,1.0,1.0
+06525,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+06540,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,1,False,False,0.0,0.0
+06555,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+06570,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+06585,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,2,False,False,0.0,0.0
+06600,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+06615,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+06630,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,3,False,False,0.0,0.0
+06645,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06660,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06675,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,4,False,False,0.0,0.0
+06690,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06705,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,5,False,False,0.0,0.0
+06720,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06735,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06750,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,6,False,False,0.0,0.0
+06765,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06780,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06795,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06810,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06825,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06840,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06855,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+06870,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+06885,Fisherman,32.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+06900,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,Fisherman,32.0,1.0,7,True,True,2.0,3.0
+06915,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,7,False,False,0.0,0.0
+06930,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06945,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06960,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,8,False,False,0.0,0.0
+06975,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+06990,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Bandit,5.0,,,,9,False,False,0.0,0.0
+07005,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Royal Recruits,88.0,Bandit,5.0,4.0,6,True,True,3.0,3.0
+07020,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+07035,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+07050,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Royal Recruits,88.0,,,,7,False,False,0.0,0.0
+07065,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+07080,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Royal Recruits,88.0,,,,8,False,False,0.0,0.0
+07095,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,Royal Recruits,88.0,4.0,1,True,True,7.0,7.0
+07110,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+07125,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,2,False,False,0.0,0.0
+07140,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07155,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07170,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,3,False,False,0.0,0.0
+07185,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07200,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07215,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,4,False,False,0.0,0.0
+07230,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07245,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Cannon Cart,16.0,,,,5,False,False,0.0,0.0
+07260,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,Cannon Cart,16.0,4.0,0,True,True,5.0,5.0
+07275,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+07290,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,1,False,False,0.0,0.0
+07305,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+07320,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+07335,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+07350,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+07365,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+07380,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+07395,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+07410,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+07425,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07440,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07455,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07470,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07485,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+07500,Magic Archer,62.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+07515,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,Flying Machine,33.0,3.0,4,True,True,3.0,4.0
+07530,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07545,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07560,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07575,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07590,Magic Archer,62.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+07605,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,Magic Archer,62.0,1.0,3,True,True,4.0,4.0
+07620,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+07635,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+07650,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07665,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07680,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07695,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+07710,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+07725,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+07740,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+07755,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+07770,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+07785,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+07800,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+07815,Bandit,5.0,Hunter,52.0,Fisherman,32.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+07830,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,Fisherman,32.0,3.0,7,True,True,3.0,3.0
+07845,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+07860,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+07875,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+07890,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+07905,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+07920,Bandit,5.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+07935,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,Royal Recruits,88.0,3.0,3,True,True,7.0,7.0
+07950,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+07965,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+07980,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+07995,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08010,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08025,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08040,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+08055,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+08070,Bandit,5.0,Hunter,52.0,Cannon Cart,16.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+08085,Bandit,5.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,Cannon Cart,16.0,3.0,3,True,True,5.0,5.0
+08100,Bandit,5.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08115,Bandit,5.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08130,Bandit,5.0,Hunter,52.0,Flying Machine,33.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08145,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Flying Machine,33.0,3.0,2,True,True,3.0,4.0
+08160,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+08175,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08190,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08205,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08220,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Bandit,5.0,1.0,1,True,True,3.0,3.0
+08235,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+08250,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+08265,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08280,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08295,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08310,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08325,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08340,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08355,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Fisherman,32.0,1.0,3,True,True,3.0,3.0
+08370,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08385,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08400,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08415,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08430,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08445,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08460,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+08475,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+08490,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+08505,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+08520,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+08535,Royal Recruits,88.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+08550,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Royal Recruits,88.0,1.0,3,True,True,6.0,7.0
+08565,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08580,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08595,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08610,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08625,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08640,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08655,Cannon Cart,16.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+08670,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Cannon Cart,16.0,1.0,2,True,True,5.0,5.0
+08685,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08700,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08715,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08730,Flying Machine,33.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08745,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Flying Machine,33.0,1.0,1,True,True,4.0,4.0
+08760,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+08775,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+08790,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08805,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08820,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08835,Bandit,5.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08850,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,Bandit,5.0,1.0,2,True,True,2.0,3.0
+08865,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,2,False,False,0.0,0.0
+08880,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08895,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+08910,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08925,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+08940,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+08955,Fisherman,32.0,Hunter,52.0,Magic Archer,62.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+08970,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,Magic Archer,62.0,3.0,2,True,True,4.0,4.0
+08985,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+09000,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,3,False,False,0.0,0.0
+09015,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+09030,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,4,False,False,0.0,0.0
+09045,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+09060,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,5,False,False,0.0,0.0
+09075,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+09090,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,6,False,False,0.0,0.0
+09105,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+09120,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,7,False,False,0.0,0.0
+09135,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,8,False,False,0.0,0.0
+09150,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+09165,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,9,False,False,0.0,0.0
+09180,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09195,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09210,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09225,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09240,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09255,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09270,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09285,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09300,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09315,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09330,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0
+09345,Fisherman,32.0,Hunter,52.0,Royal Recruits,88.0,Fire Spirit,29.0,,,,10,False,False,0.0,0.0

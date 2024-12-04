@@ -1,0 +1,417 @@
+frame,card1Name,card1Label,card2Name,card2Label,card3Name,card3Label,card4Name,card4Label,cardPlayedName,cardPlayedLabel,slotPlayed,elixir,predicted_cardPlayed,y_cardPlayed,y_elixirConsumed,predicted_elixirConsumed
+00870,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+00885,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+00900,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+00915,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+00930,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+00945,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+00960,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+00975,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+00990,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+01005,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+01020,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,Spear Goblins,95.0,4.0,7,True,True,2.0,2.0
+01035,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01050,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01065,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01080,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01095,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01110,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01125,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01140,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01155,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01170,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01185,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,9,False,False,0.0,0.0
+01200,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,Miner,66.0,1.0,7,True,True,2.0,3.0
+01215,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01230,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01245,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01260,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01275,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,7,False,False,0.0,0.0
+01290,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01305,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Magic Archer,62.0,,,,8,False,False,0.0,0.0
+01320,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,Magic Archer,62.0,4.0,4,True,True,4.0,4.0
+01335,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01350,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01365,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01380,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01395,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01410,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01425,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01440,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01455,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+01470,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+01485,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+01500,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+01515,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+01530,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+01545,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+01560,Monk,70.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+01575,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,Monk,70.0,1.0,2,True,True,5.0,5.0
+01590,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,2,False,False,0.0,0.0
+01605,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,2,False,False,0.0,0.0
+01620,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+01635,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+01650,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+01665,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+01680,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+01695,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+01710,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01725,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01740,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01755,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01770,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+01785,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+01800,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,Wall Breakers,102.0,4.0,3,True,True,2.0,2.0
+01815,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01830,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,True,1.0,0.0
+01845,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+01860,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+01875,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01890,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01905,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01920,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01935,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01950,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+01965,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+01980,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+01995,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02010,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02025,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02040,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02055,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,True,1.0,0.0
+02070,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02085,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02100,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02115,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02130,Royal Delivery,84.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02145,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,Royal Delivery,84.0,1.0,3,True,True,3.0,3.0
+02160,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+02175,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+02190,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+02205,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+02220,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02235,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02250,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02265,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02280,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02295,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02310,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02325,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02340,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02355,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02370,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02385,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02400,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02415,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02430,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02445,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02460,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02475,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02490,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02505,Miner,66.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02520,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,Miner,66.0,1.0,4,True,True,3.0,3.0
+02535,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+02550,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02565,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02580,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02595,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02610,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02625,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+02640,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02655,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02670,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02685,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02700,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+02715,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02730,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02745,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02760,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02775,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02790,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+02805,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+02820,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+02835,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+02850,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+02865,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+02880,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+02895,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+02910,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+02925,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+02940,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+02955,Magic Archer,62.0,Bomb Tower,12.0,Tornado,100.0,Spear Goblins,95.0,,,,9,False,False,0.0,0.0
+02970,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Spear Goblins,95.0,Bomb Tower,12.0,2.0,6,True,True,3.0,4.0
+02985,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03000,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03015,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,Monk,70.0,2.0,1,True,True,5.0,5.0
+03030,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,1,False,False,0.0,0.0
+03045,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,1,False,False,0.0,0.0
+03060,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+03075,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+03090,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+03105,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+03120,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,2,False,False,0.0,0.0
+03135,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+03150,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+03165,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+03180,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+03195,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+03210,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,3,False,False,0.0,0.0
+03225,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+03240,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+03255,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+03270,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+03285,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+03300,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,4,False,False,0.0,0.0
+03315,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+03330,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+03345,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+03360,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+03375,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,5,False,False,0.0,0.0
+03390,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03405,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03420,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03435,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03450,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03465,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,6,False,False,0.0,0.0
+03480,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03495,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03510,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03525,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03540,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03555,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+03570,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+03585,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+03600,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+03615,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+03630,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,Wall Breakers,102.0,2.0,6,True,True,2.0,2.0
+03645,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03660,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03675,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03690,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03705,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03720,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,7,False,False,0.0,0.0
+03735,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Spear Goblins,95.0,,,,8,False,False,0.0,0.0
+03750,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Miner,66.0,Spear Goblins,95.0,4.0,6,True,True,2.0,2.0
+03765,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Miner,66.0,,,,6,False,False,0.0,0.0
+03780,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,Royal Delivery,84.0,2.0,3,True,True,3.0,3.0
+03795,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,3,False,False,0.0,0.0
+03810,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03825,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03840,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03855,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03870,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03885,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,4,False,False,0.0,0.0
+03900,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03915,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03930,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03945,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03960,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03975,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Miner,66.0,,,,5,False,False,0.0,0.0
+03990,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,Miner,66.0,4.0,3,True,True,2.0,3.0
+04005,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04020,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04035,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04050,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,3,False,False,0.0,0.0
+04065,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04080,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04095,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04110,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04125,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04140,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,4,False,False,0.0,0.0
+04155,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04170,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04185,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04200,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04215,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04230,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04245,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04260,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04275,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04290,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04305,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04320,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04335,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04350,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04365,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04380,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04395,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+04410,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+04425,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+04440,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,Monk,70.0,2.0,5,True,True,4.0,5.0
+04455,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04470,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04485,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04500,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,6,False,False,0.0,0.0
+04515,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04530,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04545,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04560,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04575,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04590,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04605,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Bomb Tower,12.0,,,,5,False,False,0.0,0.0
+04620,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,Wall Breakers,102.0,2.0,7,True,True,3.0,2.0
+04635,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,7,False,False,0.0,0.0
+04650,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04665,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04680,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,8,False,False,0.0,0.0
+04695,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+04710,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,9,False,False,0.0,0.0
+04725,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+04740,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+04755,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Bomb Tower,12.0,,,,10,False,False,0.0,0.0
+04770,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,Bomb Tower,12.0,4.0,6,True,True,4.0,4.0
+04785,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+04800,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+04815,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+04830,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+04845,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+04860,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+04875,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+04890,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+04905,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+04920,Magic Archer,62.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+04935,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,Spear Goblins,95.0,2.0,8,True,True,1.0,2.0
+04950,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+04965,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+04980,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+04995,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05010,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,10,False,False,0.0,0.0
+05025,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,Miner,66.0,2.0,7,True,True,3.0,3.0
+05040,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05055,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05070,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05085,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05100,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05115,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05130,Magic Archer,62.0,Wall Breakers,102.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05145,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,Wall Breakers,102.0,2.0,8,True,True,1.0,2.0
+05160,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05175,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05190,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05205,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05220,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05235,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,10,False,False,0.0,0.0
+05250,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,10,False,False,0.0,0.0
+05265,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,10,False,False,0.0,0.0
+05280,Magic Archer,62.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,10,False,False,0.0,0.0
+05295,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,Magic Archer,62.0,1.0,6,True,True,4.0,4.0
+05310,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+05325,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05340,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05355,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05370,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05385,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05400,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05415,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05430,Bomb Tower,12.0,Monk,70.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05445,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,Monk,70.0,2.0,4,True,True,5.0,5.0
+05460,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,5,False,False,0.0,0.0
+05475,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,5,False,False,0.0,0.0
+05490,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,5,False,False,0.0,0.0
+05505,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+05520,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+05535,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05550,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05565,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,Spear Goblins,95.0,2.0,5,True,True,2.0,2.0
+05580,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+05595,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+05610,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,6,False,False,0.0,0.0
+05625,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05640,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05655,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,7,False,False,0.0,0.0
+05670,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05685,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05700,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,8,False,False,0.0,0.0
+05715,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05730,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Royal Delivery,84.0,,,,9,False,False,0.0,0.0
+05745,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,Royal Delivery,84.0,4.0,7,True,True,2.0,3.0
+05760,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+05775,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+05790,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+05805,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+05820,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+05835,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,9,False,False,0.0,0.0
+05850,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,9,False,False,0.0,0.0
+05865,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,9,False,False,0.0,0.0
+05880,Bomb Tower,12.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,,,,10,False,False,0.0,0.0
+05895,Bomb Tower,12.0,Magic Archer,62.0,Tornado,100.0,Wall Breakers,102.0,Miner,66.0,2.0,7,True,True,3.0,3.0
+05910,Bomb Tower,12.0,Magic Archer,62.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+05925,Bomb Tower,12.0,Magic Archer,62.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+05940,Bomb Tower,12.0,Magic Archer,62.0,Tornado,100.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+05955,Bomb Tower,12.0,Magic Archer,62.0,Tornado,100.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+05970,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,Magic Archer,62.0,2.0,4,True,True,4.0,4.0
+05985,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06000,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06015,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06030,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06045,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06060,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06075,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06090,Bomb Tower,12.0,Spear Goblins,95.0,Tornado,100.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06105,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,Tornado,100.0,3.0,5,True,True,2.0,3.0
+06120,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06135,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06150,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06165,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06180,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06195,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06210,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06225,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06240,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+06255,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,8,False,False,0.0,0.0
+06270,Bomb Tower,12.0,Spear Goblins,95.0,Miner,66.0,Wall Breakers,102.0,Royal Delivery,84.0,3.0,6,True,True,2.0,3.0
+06285,Bomb Tower,12.0,Spear Goblins,95.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06300,Bomb Tower,12.0,Spear Goblins,95.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06315,Bomb Tower,12.0,Monk,70.0,Miner,66.0,Wall Breakers,102.0,Spear Goblins,95.0,2.0,5,True,True,1.0,2.0
+06330,Bomb Tower,12.0,Monk,70.0,Miner,66.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06345,Bomb Tower,12.0,Monk,70.0,Miner,66.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06360,Bomb Tower,12.0,Monk,70.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06375,Bomb Tower,12.0,Monk,70.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06390,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,Monk,70.0,2.0,1,True,True,5.0,5.0
+06405,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,2,False,False,0.0,0.0
+06420,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,2,False,False,0.0,0.0
+06435,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+06450,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+06465,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+06480,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+06495,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+06510,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+06525,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06540,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06555,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,5,False,False,0.0,0.0
+06570,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06585,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06600,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,6,False,False,0.0,0.0
+06615,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06630,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Wall Breakers,102.0,,,,7,False,False,0.0,0.0
+06645,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,Wall Breakers,102.0,4.0,6,True,True,1.0,2.0
+06660,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,6,False,False,0.0,0.0
+06675,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,6,False,False,0.0,0.0
+06690,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06705,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06720,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06735,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,8,False,False,0.0,0.0
+06750,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,8,False,False,0.0,0.0
+06765,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,8,False,False,0.0,0.0
+06780,Bomb Tower,12.0,Magic Archer,62.0,Miner,66.0,Tornado,100.0,,,,9,False,False,0.0,0.0
+06795,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,Miner,66.0,3.0,6,True,True,3.0,3.0
+06810,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,6,False,False,0.0,0.0
+06825,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06840,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,6,False,True,1.0,0.0
+06855,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06870,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06885,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,7,False,False,0.0,0.0
+06900,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,8,False,False,0.0,0.0
+06915,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,8,False,False,0.0,0.0
+06930,Bomb Tower,12.0,Magic Archer,62.0,Royal Delivery,84.0,Tornado,100.0,,,,8,False,False,0.0,0.0
+06945,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Tornado,100.0,Magic Archer,62.0,2.0,5,True,True,3.0,4.0
+06960,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Tornado,100.0,,,,5,False,False,0.0,0.0
+06975,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,Tornado,100.0,4.0,2,True,True,3.0,3.0
+06990,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+07005,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+07020,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,3,False,False,0.0,0.0
+07035,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+07050,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+07065,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+07080,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
+07095,Bomb Tower,12.0,Spear Goblins,95.0,Royal Delivery,84.0,Wall Breakers,102.0,,,,4,False,False,0.0,0.0
